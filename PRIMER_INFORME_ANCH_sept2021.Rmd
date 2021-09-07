@@ -1456,8 +1456,8 @@ El período de análisis de la evaluación de stock comienza en 1996/97 hasta el
 -   Composición de edad del crucero acústico de mayo 2021
 -   Captura 2020/21 sin incorporar descarte (\textbf{Tabla \ref{Tab16}})
 -   Captura 2020/21 con descarte incorporado  (\textbf{Tabla \ref{Tab16}})
--   Composición de edad de la flota 2020/21 
--   Pesos medios e iniciales 2020/21 
+-   Composición de edad de la flota 2020/21 actualizado a junio 2021
+-   Pesos medios e iniciales 2020/21 actualizado a junio 2021
 
 \vspace{0.5cm}
 
@@ -1647,7 +1647,7 @@ biológico   & toneladas       & Descarte      & descartada t     & total t    \
 
 Cada proceso de revisión de CBA involucra la actualización y/o supuestos de datos para evaluar el impacto en las variables de estado asociado a la incorporación incremental de piezas de información. Al respecto, la actualización de datos de la asesoría actual corresponde principalmente a la información de la flota del año biológico 2020/21 (desembarques, descarte, composición de edad, pesos medios) y la incorporación de datos del crucero acústico de otoño 2021 correspondiente a la biomasa total y composición de edad.
 
-La información actualizada en la presente evaluación es presentada en las **Figuras**.  La composición de edad registrada por la flota comercial durante el año biológico 2020/21, muestra que la captura estuvo sostenida principalmente por peces de edad 1, registrándose una baja proporción de peces capturados de edad 0 (menor al 10%) **Figurax**. Respecto a la actualización de los pesos medios a la edad registrados durante el año 2020/21 **Figuras x**, se observa un incremento de un 38% en el peso de individuos de edad 0 y una disminución del 5% apróx. en peces de edad 1 a 3 años, registrándose una mayor diferencia en el grupo de edad 4, 16% menor respecto a los pesos medios supuestos en la asesoría de marzo 2021. No obstante, el aporte de los grupos de edad 3 y 4, la abundancia total es menor al 10%. 
+La información actualizada en la presente evaluación es presentada en la \textbf{Figura \ref{Fig21a}}.  La composición de edad registrada por la flota comercial durante el año biológico 2020/21, muestra que la captura estuvo sostenida principalmente por peces de edad 1, registrándose una baja proporción de peces capturados de edad 0 (menor al 10%) \textbf{Figura \ref{Fig21a}}. Respecto a la actualización de los pesos medios a la edad registrados durante el año 2020/21 \textbf{Figura \ref{Fig21a}}, se observa un incremento de un 38% en el peso de individuos de edad 0 y una disminución del 5% apróx. en peces de edad 1 a 3 años, registrándose una mayor diferencia en el grupo de edad 4, 16% menor respecto a los pesos medios supuestos en la asesoría de marzo 2021. No obstante, el aporte de los grupos de edad 3 y 4, la abundancia total es menor al 10%. 
 
 
 
@@ -1656,20 +1656,20 @@ La información actualizada en la presente evaluación es presentada en las **Fi
 \centering
 \includegraphics[width=0.6\textwidth]{Figuras/Fig3_anexoI-1.pdf}
 \caption{ Comparación entre la proporción de edad de la flota y los pesos medios a la edad de anchoveta de las Regiones de Valparaíso a Los Lagos. Se compara la información utilizada en la asesoría de julio y septiembre 2021.}
-\label{Fig3xx}
+\label{Fig21a}
 \end{figure}
 ```
 
 \pagebreak
 
-Para mantener la consistencia en el proceso de evaluación del stock y estimación de CBA, se utilizó un modelo edad estructurado igual al usado en las asesorías previas (septiembre 2020 y marzo 2021). Con objeto de evaluar el impacto en las variables de estado debido a la incorporación de nuevos datos, se realizó un proceso incremental de incorporación de piezas de información de acuerdo a la **Tabla**.
+Para mantener la consistencia en el proceso de evaluación del stock y estimación de CBA, se utilizó un modelo edad estructurado igual al usado en las asesorías previas (septiembre 2020 y marzo 2021). Con objeto de evaluar el impacto en las variables de estado debido a la incorporación de nuevos datos, se realizó un proceso incremental de incorporación de piezas de información de acuerdo a la \textbf{Tabla \ref{Tab16a}}.
 
 \vspace{0.5cm}
 
 ```{=tex}
 \begin{table}[h!]
 \caption{Escenarios de que permiten evaluar el impacto de la incorporación de datos actualizados en el proceso de actualización}
- \label{Tab2xxx}
+ \label{Tab16a}
  \small
     \centering
     \resizebox{10cm}{!} {
@@ -1686,14 +1686,14 @@ Para mantener la consistencia en el proceso de evaluación del stock y estimaci�
 
 \vspace{0.5cm}
 
-En la **Tabla x** y **Figuras x** se muestra el impacto de la incorporación y actualización de la información en las principales variables de estado para el caso 1 ( asesoría de julio 2021, MAE0721b). La incoporación de la composición de edad de la flota a junio 2021 (caso 2), tiene un efecto principal en el reclutamiento, mostrando una disminución del 8%. La actualización de los pesos medios del año 2020/21 (caso 5), generan una disminución del 6% de la BD y $BD/BD_{RMS}$ y un incremento del 11% de la mortalidad por pesca, producto de la disminución de los pesos medios del grupo de edad 3 y 4 principalmente **Figura x**. 
+En la \textbf{Tabla \ref{Tab16b}} y \textbf{Figura \ref{Fig21b}} se muestra el impacto de la incorporación y actualización de la información en las principales variables de estado para el caso 1 ( asesoría de julio 2021, MAE0721b). La incoporación de la composición de edad de la flota a junio 2021 (caso 2), tiene un efecto principal en el reclutamiento, mostrando una disminución del 8%. La actualización de los pesos medios del año 2020/21 (caso 5), generan una disminución del 6% de la BD y $BD/BD_{RMS}$ y un incremento del 11% de la mortalidad por pesca, producto de la disminución de los pesos medios del grupo de edad 3 y 4 principalmente \textbf{Figura \ref{Fig21b}}. 
 
 \vspace{0.5cm}
 
 ```{=tex}
 \begin{table}[h!]
 \caption{Estimaciones de las principales variables de estado para el caso 1 (asesoría julio 2021, MAE0721b) comparado con los resultados según la incorporación de cada pieza de información y en su conjunto (caso 3, asesoría septiembre 2021, MAE0921b). Se presenta el valor de estimación central y la diferencia en términos porcentuales. R= Reclutamiento, BD= Biomasa desovante, $BD/BD_{RMS}$= Reducción de la población respecto el RMS y F= Mortalidad por pesca.}
- \label{Tab3xxx}
+ \label{Tab16b}
  \small
     \centering
     \resizebox{15cm}{!} {
@@ -1716,7 +1716,7 @@ En la **Tabla x** y **Figuras x** se muestra el impacto de la incorporación y a
 \centering
 \includegraphics[width=0.98\textwidth]{Figuras/Fig4_anexoI-1.pdf}
 \caption{ Diferencias relativas de las estimaciones de las principales variables de estado para el caso base (Asesoría de julio 2021) comparado con los resultados según la incorporación de cada pieza de información. }
-\label{Fig4xxx}
+\label{Fig21b}
 \end{figure}
 ```
 
