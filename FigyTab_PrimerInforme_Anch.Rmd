@@ -542,11 +542,12 @@ WmedF2 <- as.data.frame(WmedF) %>%
                       mutate(edad = rep(age, each=nyears)) %>% 
                       mutate(type='WmedF')
  
-f1<-ggplot(WmedF2, aes(x = years, y = value, group=edad,colour=edad))+
+f1<-ggplot(WmedF2, aes(x = years, y = value, group=variable,colour=variable))+
     geom_line() +
     geom_point( size=2, shape=21, fill="white") + 
     labs(x = '', y = 'Pesos medios (grs)',fill="",color=" grupos de edad") +
     scale_x_continuous(breaks = seq(from = 1990, to = 2021, by = 5)) +
+    scale_colour_discrete(name = "Grupos de edad",  labels = c('GE 0','GE 1','GE 2','GE 3','GE 4'))+
     theme_bw(base_size=11) + 
     theme(plot.title = element_text(hjust = 0.5))
 
@@ -599,7 +600,9 @@ ggplot(dataquiebresD)+
   theme(plot.title = element_text(hjust = 0.5),legend.position="top")
 
 ```
+# RESULTADOS
 
+## Datos de entrada al modelo
 
 ```{r Fig16, warning=F, include=T, message=F, echo=FALSE,fig.height=4.5,fig.width=8,fig.align="center",fig.path=dir.Fig,dev=fig}
 setwd(dir.1)
@@ -735,20 +738,21 @@ pobsF <- as.data.frame(pobsF) %>%
                        mutate(edad = rep(age, each=nyears)) %>% 
                        mutate(type='pobsF')
 
-f1<-ggplot(pobsF, aes(x = years, y = value, group=edad,colour=edad))+
-    geom_line() +
-    geom_point( size=2, shape=21, fill="white") + 
-    labs(x = '', y = 'Proporción de captura en N° a la edad',fill="",color=" grupos de edad") +
+f1<-ggplot(pobsF, aes(x = years, y = value, group=variable))+
+    geom_line(aes(colour=variable)) +
+    geom_point(aes(colour=variable),size=2, shape=21, fill="white") + 
+    labs(x = '', y = 'Proporción de captura en N° a la edad',fill="") +
     scale_x_continuous(breaks = seq(from = 1990, to = 2020, by = 5)) +
     ggtitle("FLOTA")+
     theme_bw(base_size=11) + 
     theme(plot.title = element_text(hjust = 0.5),legend.position="none")
 
-f2<-ggplot(WmedF, aes(x = years, y = value, group=edad,colour=edad))+
-    geom_line() +
-    geom_point( size=2, shape=21, fill="white") + 
-    labs(x = '', y = 'Pesos medios (grs)',fill="",color=" grupos de edad") +
+f2<-ggplot(WmedF, aes(x = years, y = value, group=variable,colour=variable))+
+    geom_line(aes(colour=variable)) +
+    geom_point(aes(colour=variable), size=2, shape=21, fill="white") + 
+    labs(x = '', y = 'Pesos medios (grs)',fill="") +
     scale_x_continuous(breaks = seq(from = 1990, to = 2020, by = 5)) +
+    scale_colour_discrete(name = "Grupos de edad",  labels = c('GE 0','GE 1','GE 2','GE 3','GE 4'))+
     ggtitle("FLOTA")+
     theme_bw(base_size=11) + 
     theme(plot.title = element_text(hjust = 0.5))
@@ -819,7 +823,7 @@ pobsP <- as.data.frame(pobsP) %>%
                        mutate(edad = rep(age, each=nyears)) %>% 
                        mutate(type='pobsP')
 
-f1<-ggplot(pobsR, aes(x = years, y = value, group=edad,colour=edad))+
+f1<-ggplot(pobsR, aes(x = years, y = value, group=variable,colour=variable))+
     geom_line() +
     geom_point( size=2, shape=21, fill="white") + 
     labs(x = '', y = 'Proporción de captura en N° a la edad',fill="",color=" grupos de edad") +
@@ -828,12 +832,13 @@ f1<-ggplot(pobsR, aes(x = years, y = value, group=edad,colour=edad))+
     theme_bw(base_size=11) + 
     theme(plot.title = element_text(hjust = 0.5),legend.position="none")
 
-f2<-ggplot(pobsP, aes(x = years, y = value, group=edad,colour=edad))+
+f2<-ggplot(pobsP, aes(x = years, y = value, group=variable,colour=variable))+
     geom_line() +
     geom_point( size=2, shape=21, fill="white") + 
     labs(x = '', y = 'Proporción de captura en N° a la edad',fill="",color=" grupos de edad") +
     scale_x_continuous(breaks = seq(from = 1990, to = 2020, by = 5)) +
     ggtitle("CRUCERO DE OTOÑO")+
+    scale_colour_discrete(name = "Grupos de edad",  labels = c('GE 0','GE 1','GE 2','GE 3','GE 4'))+
     theme_bw(base_size=11) + 
     theme(plot.title = element_text(hjust = 0.5))
 
@@ -879,6 +884,7 @@ g1 + g2
 
 ```
 
+### Ajuste de los índices de abundancia
 
 ```{r Fig22,warning=F, include=T, message=F, echo=FALSE,fig.height=8,fig.width=6,fig.align="center",fig.path=dir.Fig,dev=fig}
 
@@ -997,6 +1003,7 @@ BcV/BcP/d + plot_layout(guides="collect")
 
 ```
 
+## Residuos de los índices de abundancia
 
 ```{r Fig23, warning=F, include=T, message=F, echo=FALSE,fig.height=8,fig.width=9,fig.align="center",fig.path=dir.Fig,dev=fig}
 predR        <- rep1$reclaspred
@@ -1038,7 +1045,7 @@ qqnorm(Res_Desemb,ylim=c(-0.01,0.01)); qqline(Res_Desemb, col = 2)
 
 ```
 
-
+## Ajuste de la composición de edad de la Flota
 ```{r Fig24,warning=F, include=T, message=F, echo=FALSE,fig.height=7,fig.width=8,fig.align="center",fig.path=dir.Fig,dev=fig}
 
 years   <- dat1$Ind[,1] 
@@ -1094,7 +1101,7 @@ etcf3_pre <- rep3$pf_pred
 ```
 
 
-
+## Ajuste de la composición de edad de la Crucero de Verano
 ```{r Fig25,warning=F, include=T, message=F, echo=FALSE,fig.height=7,fig.width=8,fig.align="center",fig.path=dir.Fig,dev=fig}
 
 years   <- dat1$Ind[,1] 
@@ -1148,7 +1155,7 @@ etcf3_pre <- rep3$ppred_RECLAS
   
 ```
 
-
+## Ajuste de la composición de edad del crucero de otoño
 ```{r Fig26,warning=F, include=T, message=F, echo=FALSE,fig.height=7,fig.width=8,fig.align="center",fig.path=dir.Fig,dev=fig}
 
 years   <- dat1$Ind[,1] 
@@ -1200,7 +1207,7 @@ etcf3_pre <- rep3$ppred_PELACES
   
 ```
 
-
+## Residuales de las composiciones de edad de la Flota y Cruceros de verano y otoño
 ```{r Fig27,warning=F, include=T, message=F, echo=FALSE,fig.height=5,fig.width=10,fig.align="center",fig.path=dir.Fig,dev=fig}
 
 #============================================================================
@@ -1296,7 +1303,7 @@ box()
 
 ```
 
-
+## Comparación con asesorías previas
 ```{r VariablesSeptiembre_std, echo=F,message=FALSE, warning=FALSE, include=T}
 
 years  <- rep1$years
@@ -1367,9 +1374,9 @@ x2 <-c(years[1]-1,years[nyears]+1) #xlim
   
 ```
 
-\pagebreak
 
-```{r Fig32_comparaAsesorias, echo=T, message=FALSE, warning=FALSE, include=T, fig.align="center", fig.height=7, fig.width=7,fig.path=dir.Fig,dev=fig}
+
+```{r Fig32_comparaAsesorias, echo=F, message=FALSE, warning=FALSE, include=T, fig.align="center", fig.height=7, fig.width=7,fig.path=dir.Fig,dev=fig}
 
 year_retros <- c('2021_sept',"2021_julio","2021_marzo","2020_sept")
 nretros <-4
@@ -1425,6 +1432,7 @@ Rt/BD/Ft
 
 \pagebreak
 
+## Análisis retrospectivo
 
 ```{r Dat_RetrospectivoJulio, echo=F, message=FALSE, warning=FALSE, include=T}
 dir<-paste(dir.0,"/Retrospectivo_sept",sep="")
@@ -1517,6 +1525,7 @@ Ft_retroRel<- data.frame(x=years,
                          y5=rel.diff.f[,5])
 
 ```
+
 
 ```{r Fig28, echo=FALSE, message=FALSE, warning=FALSE, include=T, fig.align="center", fig.height=9, fig.width=8,fig.path=dir.Fig,dev=fig}
 
@@ -1616,7 +1625,7 @@ Rt/BD/Ft |Rtrel/BDrel/Ftrel
 
 ```
 
-
+## Perfil de verosimilitud
 
 ```{r Fig29,eval=T, warning=F, include=T, message=F, echo=FALSE,fig.height=4,fig.width=5,fig.align="center",fig.path=dir.Fig,dev=fig}
 
@@ -1646,16 +1655,16 @@ TLk1 <- data.frame(exp(logRo),like);colnames(TLk1)<-names
 TLk2 <- data.frame(exp(logRo),slikeval);colnames(TLk2)<-names
 
 par(mar=c(4,4,1,1))
-plot(TLk2$Ro,TLk2$Total,type="l",lwd=3,ylim=c(0,3),xlim=c(1*10^4,7*10^4),xaxs="i",ylab="L-min(L)",xlab="Ro",las=1,main='Asesoría Septiembre 2021',cex.axis=0.7,cex.main=0.8,cex.lab=0.8)
+plot(TLk2$Ro,TLk2$Total,type="l",lwd=3,ylim=c(0,3),xlim=c(1*10^4,6.2*10^4),xaxs="i",ylab="L-min(L)",xlab="Ro",las=1,main='Asesoría Septiembre 2021',cex.axis=0.7,cex.main=0.8,cex.lab=0.8)
 lines(c(0,TLk2$Ro),rep(2,casos+1),lty=2,lwd=2)
 for(i in 2:8){lines(TLk2$Ro,TLk2[,i],col=i,lty=2,lwd=2)}
 #for(i in 9:14){lines(TLk2$Ro,TLk2[,i],col=i,lty=3,lwd=2)}
-legend(50000,3,names[c(17,2:8)],col=1:8,lty=c(1,rep(2,7)),lwd=2,bty="n",cex=0.7)
+legend(50000,3,names[c(17,2:8)],col=1:8,lty=c(1,rep(2,7)),lwd=2,bty="n",cex=0.65)
 #legend(56000,1.5,names[9:14],col=9:14,lty=3,lwd=2,bty="n",cex=0.8)
 
 ```
 
-
+## Indicadores poblacionales
 ```{r Variables_sept, echo=F,message=FALSE, warning=FALSE, include=T}
 
 years1<-rep1$years
@@ -1964,6 +1973,7 @@ write.csv(diferencias, file="Tablas/diferenciasVarPobl.csv")
 
 ```
 
+## Selectividad
 
 ```{r Fig31,warning=F, include=T, message=F, echo=FALSE,fig.height=3.3,fig.width=3.3,fig.align="center",fig.path=dir.Fig,dev=fig}
 
@@ -1990,6 +2000,7 @@ g1
 ```
 
 
+## Puntos biológicos de referencia
 ```{r Data_PBR_biologico_sept, echo=FALSE}
 #PBR año biologico
 Amax        <- dat1$nedades 
@@ -2231,6 +2242,8 @@ g2 <- ggplot () +
      theme(plot.title = element_text(hjust = 0.5),legend.justification=c(1.1,0), legend.position=c(1,0.1))
 g1 + g2
 ```
+
+## Indicadores de estatus
 
 ```{r Estatus_sept, echo=F,message=FALSE, warning=FALSE, include=T}
 
@@ -2524,6 +2537,7 @@ write.csv(VarPobl2, file="Tablas/tasaExplotacion.csv")
 
 \pagebreak
 
+## Diagramas de fase
 ```{r Fig35a, warning=F, include=T, message=F, echo=FALSE,fig.height=4,fig.width=4,fig.align="center",fig.path=dir.Fig,dev=fig}
 source(paste(dir.fun,"Fn_DiagramaFase2.R",sep=""))
 name1<-"Asesoría de Septiembre 2021"
