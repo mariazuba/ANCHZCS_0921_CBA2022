@@ -38,16 +38,14 @@ header-includes:
 - \fancyhead[LO,LE]{ }
 - \fancyhead[RO,RE]{ }
 - \renewcommand{\headrulewidth}{0.5pt}
-- \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2020 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} TERCER INFORME (CONSOLIDADO). ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2021}
+- \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} PRIMER INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022}
 ---
 
 **7. ANEXOS**
 
-\hyphenpenalty=10000\uppercase\expandafter{}  \hspace{1.2cm} **ANEXO I.** Proceso de actualización de datos de entrada al modelo de evaluación de stock de anchoveta de la Región de Valparaíso a la Región de Los Lagos.
+\hyphenpenalty=10000\uppercase\expandafter{} \hspace{1.2cm} **ANEXO I.** Programa de Mejoramiento Continuo de la Calidad en la Asesoría Científica (PMCCAC) de la evaluación de stock de Anchoveta y Sardina común de la Región de Valparaíso a la Región de Los Lagos.
 
-\hyphenpenalty=10000\uppercase\expandafter{} \hspace{1.2cm} **ANEXO II.** Programa de Mejoramiento Continuo de la Calidad en la Asesoría Científica (PMCCAC) de la evaluación de stock de Anchoveta y Sardina común de la Región de Valparaíso a la Región de Los Lagos.
 
-\hyphenpenalty=10000\uppercase\expandafter{} \hspace{1.2cm} **ANEXO III.** Procedimiento transitorio de incorporación del descarte en la evaluación de stock y descuento en la proyección de la Captura Biológicamente Aceptable de peces pelágicos pequeños de Chile.
 
 \pagebreak
 
@@ -580,7 +578,7 @@ Desembarques totales anuales & Desde julio 1996- junio 1997       & Estadística
                              &                                    & \\
 1. Flota                     & Desde julio 1996- junio 1997       & Monitoreo de la pesquería, de sardina común  \\
                              & hasta el año biológico             & de la V-X Regiones realizado por el           \\
-                             & julio 2019- mayo 2021             & Proyecto Investigación Situación Pesquerías    \\
+                             & julio 2019- junio 2021             & Proyecto Investigación Situación Pesquerías    \\
                              &                                    & de Peces Pelágicos                              \\ 
 2. Cruceros de verano        & Desde enero 2001 hasta enero 2021  &                                             \\
 3. Cruceros de otoño         & Desde mayo 2007 hasta mayo 2021    & Evaluaciones hidroacústicas de los stocks    \\
@@ -593,7 +591,7 @@ Desembarques totales anuales & Desde julio 1996- junio 1997       & Estadística
                              &                                    & \\
 Pesos medios a la edad       & Desde julio 1996- junio 1997       & Monitoreo de la pesquería, de sardina común de la \\   
                              & hasta el año biológico             & V-X Regiones realizado por el Proyecto Investigación \\
-                             & julio 2019- mayo 2021             & Situación Pesquerías de Peces Pelágicos               \\ 
+                             & julio 2019- junio 2021             & Situación Pesquerías de Peces Pelágicos               \\ 
                              &                                    &                                                  \\ \hline
 Madurez sexual a la edad     & Constante                          & Aranís \textit{et al} (2006)                          \\ \hline
 Mortalidad natural           & Constante                          & Cubillos \textit{et al} (1998b)                         \\ \hline 
@@ -1142,48 +1140,48 @@ De acuerdo al ciclo de manejo histórico de esta pesquería, la recomendación d
 \normalsize
 
 
-La \textbf{Tabla \ref{Tab12}} detalla la información disponible en cada etapa de cálculo de CBA 2021, destacando que en la primera etapa de estimación (CBA inicial) no se cuenta con información actualizada de los años biológicos 2020-2021 y 2021-2022, por lo tanto, la población debe ser proyectada dos años biológicos hacia el futuro (a inicios de julio de un año a junio del año siguiente) para realizar el cálculo de la CBA 2021 en año calendario. En la segunda etapa (1era revisión) contamos con información parcial del año biológico 2020-2021 y en la tercera etapa (2da revisión) con información casi completa del año biológico 2020-2021. Sin embargo, para realizar el cálculo de la CBA 2021 en año calendario, en ambas etapas es necesario proyectar un año biológico hacia el futuro (2021-2022). \vspace{0.5cm}
+La \textbf{Tabla \ref{Tab12}} detalla la información disponible en cada etapa de cálculo de CBA 2022, destacando que en la primera etapa de estimación (CBA inicial) no se cuenta con información actualizada de los años biológicos 2021-2022 y 2022-2023, por lo tanto, la población debe ser proyectada dos años biológicos hacia el futuro (a inicios de julio de un año a junio del año siguiente) para realizar el cálculo de la CBA 2022 en año calendario. En la segunda etapa (1era revisión) contamos con información parcial del año biológico 2021-2022 y en la tercera etapa (2da revisión) con información casi completa del año biológico 2021-2022. Sin embargo, para realizar el cálculo de la CBA 2022 en año calendario, en ambas etapas es necesario proyectar un año biológico hacia el futuro (2022-2023). \vspace{0.5cm}
 
 
 ```{=tex}
 \begin{table}[h!]
-\caption{Información relevante para el cálculo de CBA 2021 en cada una de las etapas de estimación.}
+\caption{Información relevante para el cálculo de CBA 2022 en cada una de las etapas de estimación.}
  \label{Tab12}
  \small
     \centering
     \resizebox{16cm}{!} {
     \begin{tabular}{|l|c|c|c|}
     \hline \rowcolor{Gray3}
-  Datos de entrada  & CBA INICIAL                & 1ERA REVISIÓN                   & 2DA REVISIÓN  \\  \rowcolor{Gray3}
-  al modelo         & Septiembre 2020          & Marzo 2021                      & Julio 2021 \\ \hline
-  Desembarques      &                            & Julio 1991- junio 2020 +        & Julio 1991 - \\
-                    & Julio 1991 - junio 2020  & Supuesto de captura 2020/2021   & preliminar a junio 2021 \\
-                    &                          &                                 &  \\ \hline
-  Biomasa acústica  & 2000 – 2020                & 2000 – 2021                     &    2000 – 2021 \\
-  Crucero de verano &                          &                                 & \\ \hline
-  Biomasa acústica  & 2003 – 2020              & 2003 – 2020                     & 2003 – 2021 \\
-  Crucero de otoño  &                          &                                 & \\ \hline
-  Composición de    & Julio 1991 - junio 2020  & Julio 1991 - junio 2020         & Julio 1991 - mayo 2021  \\
-  edad Flota        &                          &                                 & \\ \hline
-  Composición de    & 2001 – 2020              & 2001 – 2021                       & 2001 – 2021 \\
-  edad Cruceros de verano&                     &                                 & \\ \hline
-  Composición de    & 2007 – 2020              & 2007 – 2020                     & 2007 – 2021 \\
-  edad Cruceros de otoño&                      &                                 & \\ \hline
-                    &                          & Julio 1990 - junio 2020         & \\
-  Pesos medios      & Julio 1991 - junio 2020  & Promedio de los últimos 5 años  & Julio 1990 - mayo 2021 \\
-  a la edad         &                          & de la serie histórica para      & \\ 
-                    &                          & julio 2020-junio 2021           & \\ \hline
-  Madurez sexual    & Constante                & Constante                       & Constante \\
-  a la edad         &                          &                                 & \\ \hline
-  Mortalidad natural& Constante                & Constante                       & Constante \\ \hline
-  Proyección del    & 2 años biológicos        & 1 año biológico                 & 1 año biológico \\
-  reclutamiento     & (años 2020/21 y 2021/22) & (año 2021/22)                   & (año 2021/22) \\ \hline
+  Datos de entrada  & CBA INICIAL                & 1ERA REVISIÓN                   & 2DA REVISIÓN           \\  \rowcolor{Gray3}
+  al modelo         & Septiembre 2021            & Marzo 2022                      & Julio 2022             \\ \hline
+  Desembarques      &                            & Julio 1991- junio 2021 +        & Julio 1991 -           \\
+                    & Julio 1991 - junio 2021    & Supuesto de captura 2021/2022   & junio 2022             \\
+                    &                            &                                 &                        \\ \hline
+  Biomasa acústica  & 2000 – 2021                & 2000 – 2022                     & 2000 – 2022            \\
+  Crucero de verano &                            &                                 &                        \\ \hline
+  Biomasa acústica  & 2003 – 2021                & 2003 – 2021                     & 2003 – 2022            \\
+  Crucero de otoño  &                            &                                 &                        \\ \hline
+  Composición de    & Julio 1991 - junio 2021    & Julio 1991 - junio 2021         & Julio 1991 - mayo 2022 \\
+  edad Flota        &                            &                                 &                        \\ \hline
+  Composición de    & 2001 – 2021                & 2001 – 2022                     & 2001 – 2022           \\
+  edad Cruceros de verano&                       &                                 &                        \\ \hline
+  Composición de    & 2007 – 2021                & 2007 – 2021                     & 2007 – 2022            \\
+  edad Cruceros de otoño&                        &                                 &                        \\ \hline
+                    &                            & Julio 1990 - junio 2021         &                        \\
+  Pesos medios      & Julio 1991 - junio 2021    & Promedio de los últimos 5 años  & Julio 1990 - mayo 2022 \\
+  a la edad         &                            & de la serie histórica para      &                        \\ 
+                    &                            & julio 2021-junio 2022           &                        \\ \hline
+  Madurez sexual    & Constante                  & Constante                       & Constante              \\
+  a la edad         &                            &                                 &                        \\ \hline
+  Mortalidad natural& Constante                  & Constante                       & Constante              \\ \hline
+  Proyección del    & 2 años biológicos          & 1 año biológico                 & 1 año biológico        \\
+  reclutamiento     & (años 2021/22 y 2022/23)   & (año 2022/23)                   & (año 2022/23)          \\ \hline
     \end{tabular}}
         \end{table}
 ```
 \vspace{0.2cm} \normalsize
 
-El proceso de cálculo de la CBA 2021 para las tres etapas del ciclo de manejo de anchoveta centro-sur (\textbf{Tabla \ref{Tab13}}) consistirá en los siguientes pasos:
+El proceso de cálculo de la CBA 2022 para las tres etapas del ciclo de manejo de anchoveta centro-sur (\textbf{Tabla \ref{Tab13}}) consistirá en los siguientes pasos:
 
 **Paso 1**: Estimación de la captura proyectada (Yp~RMS~) en año biológico aplicando los siguientes supuestos:
 
@@ -1208,7 +1206,7 @@ El proceso de cálculo de la CBA 2021 para las tres etapas del ciclo de manejo d
 
 ```{=tex}
 \begin{table}[h!]
-\caption{Métodos de estimación de la CBA 2021 para las tres etapas del ciclo de manejo de anchoveta centro-sur.}
+\caption{Métodos de estimación de la CBA 2022 para las tres etapas del ciclo de manejo de anchoveta centro-sur.}
  \label{Tab13}
  \small
   \centering
@@ -1216,9 +1214,9 @@ El proceso de cálculo de la CBA 2021 para las tres etapas del ciclo de manejo d
   \begin{tabular}{|l|c|c|}
   \hline \rowcolor{Gray3}
   Mes de Asesoría & Etapas de cálculo      & Métodos de estimación \\ \hline
-  Septiembre 2020 & $CBA_{inicial}$      & $p_{s1} * Yp_{RMS(t+1)} + p_{s2} * Yp_{RMS(t+2)}$ \\
-  Marzo 2021      & $CBA_{1eraRevisión}$ & $p_{s1} * Y_{RMS(t)} + p_{s2} * Yp_{RMS(t+1)}$ \\
-  Julio 2021      & $CBA_{2daRevisión}$  & $p_{s1} * Y_{RMS(t)} + p_{s2} * Yp_{RMS(t+1)}$ \\ \hline
+  Septiembre 2021 & $CBA_{inicial}$        & $p_{s1} * Yp_{RMS(t+1)} + p_{s2} * Yp_{RMS(t+2)}$ \\
+  Marzo 2022      & $CBA_{1eraRevisión}$   & $p_{s1} * Y_{RMS(t)} + p_{s2} * Yp_{RMS(t+1)}$ \\
+  Julio 2022      & $CBA_{2daRevisión}$    & $p_{s1} * Y_{RMS(t)} + p_{s2} * Yp_{RMS(t+1)}$ \\ \hline
   \end{tabular}}
     \end{table}
 ```
@@ -1419,7 +1417,8 @@ A continuación, se detalla el contenido presentado la **Sección 4.4** de este 
     -   Actividades desarrolladas durante el año 2018
     -   Actividades desarrolladas durante el año 2019
     -   Actividades desarrolladas durante el año 2020
-
+    -   Actividades desarrolladas durante el año 2021
+     
 -   Recomendaciones realizadas en Revisión por Pares Externa e independiente (RPEI).
 
 -   Recomendaciones realizadas en Informe de evaluación técnica de proyectos del programa de investigación básica o permanente para la regulación pesquera y de acuicultura.
@@ -1436,7 +1435,7 @@ A continuación, se detalla el contenido presentado la **Sección 4.4** de este 
 
 ### 4.1.1. Datos de entrada al modelo de evaluación de stock
 
-El período de análisis de la evaluación de stock comienza en 1996/97 hasta el año 2020/21. A continuación, se detalla los datos actualizados en la asesoría de julio 2021 (\textbf{Figura \ref{Fig16}}).
+El período de análisis de la evaluación de stock comienza en 1996/97 hasta el año 2020/21. A continuación, se detalla los datos actualizados en la asesoría de septiembre 2021 (\textbf{Figura \ref{Fig16}}).
 
 
 ```{=tex}
@@ -1468,7 +1467,7 @@ El período de análisis de la evaluación de stock comienza en 1996/97 hasta el
 
 \vspace{-0.2cm}
 
-#### Supuestos de proyección de 1 año biológico 2021/2022
+#### Supuestos de proyección de 2 años biológicos 2021/2022 y 2022/2023
 
 -   Escenarios de reclutamiento proyectado
 -   Mortalidad por pesca igual a F~RMS~
@@ -1643,6 +1642,87 @@ biológico   & toneladas       & Descarte      & descartada t     & total t    \
 
 ### 4.1.2. Diagnóstico del modelo de evaluación de stock
 
+#### Proceso de actualización de datos
+\quad
+
+Cada proceso de revisión de CBA involucra la actualización y/o supuestos de datos para evaluar el impacto en las variables de estado asociado a la incorporación incremental de piezas de información. Al respecto, la actualización de datos de la asesoría actual corresponde principalmente a la información de la flota del año biológico 2020/21 (desembarques, descarte, composición de edad, pesos medios) y la incorporación de datos del crucero acústico de otoño 2021 correspondiente a la biomasa total y composición de edad.
+
+La información actualizada en la presente evaluación es presentada en las **Figuras**.  La composición de edad registrada por la flota comercial durante el año biológico 2020/21, muestra que la captura estuvo sostenida principalmente por peces de edad 1, registrándose una baja proporción de peces capturados de edad 0 (menor al 10%) **Figurax**. Respecto a la actualización de los pesos medios a la edad registrados durante el año 2020/21 **Figuras x**, se observa un incremento de un 38% en el peso de individuos de edad 0 y una disminución del 5% apróx. en peces de edad 1 a 3 años, registrándose una mayor diferencia en el grupo de edad 4, 16% menor respecto a los pesos medios supuestos en la asesoría de marzo 2021. No obstante, el aporte de los grupos de edad 3 y 4, la abundancia total es menor al 10%. 
+
+
+
+```{=tex}
+\begin{figure}
+\centering
+\includegraphics[width=0.6\textwidth]{Figuras/Fig3_anexoI-1.pdf}
+\caption{ Comparación entre la proporción de edad de la flota y los pesos medios a la edad de anchoveta de las Regiones de Valparaíso a Los Lagos. Se compara la información utilizada en la asesoría de julio y septiembre 2021.}
+\label{Fig3xx}
+\end{figure}
+```
+
+\pagebreak
+
+Para mantener la consistencia en el proceso de evaluación del stock y estimación de CBA, se utilizó un modelo edad estructurado igual al usado en las asesorías previas (septiembre 2020 y marzo 2021). Con objeto de evaluar el impacto en las variables de estado debido a la incorporación de nuevos datos, se realizó un proceso incremental de incorporación de piezas de información de acuerdo a la **Tabla**.
+
+\vspace{0.5cm}
+
+```{=tex}
+\begin{table}[h!]
+\caption{Escenarios de que permiten evaluar el impacto de la incorporación de datos actualizados en el proceso de actualización}
+ \label{Tab2xxx}
+ \small
+    \centering
+    \resizebox{10cm}{!} {
+    \begin{tabular}{|c|l|}
+    \hline \rowcolor{Gray3}
+ Casos         & Descripción                                                            \\ \hline
+ \textbf{$1_{MAE0721}$} & Caso base asesoría julio 2021                                      \\
+ 2             & Actualiza composición de edad de la flota a junio 2021    \\ \rowcolor{Gray4}
+ 3             & Actualiza pesos medios e iniciales a la edad a junio 2021 \\ \hline
+    \end{tabular}}
+        \end{table}
+```
+\normalsize
+
+\vspace{0.5cm}
+
+En la **Tabla x** y **Figuras x** se muestra el impacto de la incorporación y actualización de la información en las principales variables de estado para el caso 1 ( asesoría de julio 2021, MAE0721b). La incoporación de la composición de edad de la flota a junio 2021 (caso 2), tiene un efecto principal en el reclutamiento, mostrando una disminución del 8%. La actualización de los pesos medios del año 2020/21 (caso 5), generan una disminución del 6% de la BD y $BD/BD_{RMS}$ y un incremento del 11% de la mortalidad por pesca, producto de la disminución de los pesos medios del grupo de edad 3 y 4 principalmente **Figura x**. 
+
+\vspace{0.5cm}
+
+```{=tex}
+\begin{table}[h!]
+\caption{Estimaciones de las principales variables de estado para el caso 1 (asesoría julio 2021, MAE0721b) comparado con los resultados según la incorporación de cada pieza de información y en su conjunto (caso 3, asesoría septiembre 2021, MAE0921b). Se presenta el valor de estimación central y la diferencia en términos porcentuales. R= Reclutamiento, BD= Biomasa desovante, $BD/BD_{RMS}$= Reducción de la población respecto el RMS y F= Mortalidad por pesca.}
+ \label{Tab3xxx}
+ \small
+    \centering
+    \resizebox{15cm}{!} {
+    \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+    \hline \rowcolor{Gray3}
+ Casos & R     & BD     & $BD/BD_{RMS}$ & F     & R.diff & BD.diff  & $BD/BD_{RMS}$.diff & F.diff \\ \hline
+ 1     & 25,4  & 686,8  & 1,41          & 0,34  &        &          &                    &        \\  \rowcolor{Gray4}
+ 2     & 25,4  & 686,8  & 1,41          & 0,34  & 0      & 0        & 0                  & 0  \\
+ 3     & 25,4  & 687,1  & 1,41          & 0,36  & 0      & 0        & 0                  & 0,05   \\ \rowcolor{Gray4} \hline
+    \end{tabular}}
+        \end{table}
+```
+
+\normalsize
+
+\pagebreak
+
+```{=tex}
+\begin{figure}
+\centering
+\includegraphics[width=0.98\textwidth]{Figuras/Fig4_anexoI-1.pdf}
+\caption{ Diferencias relativas de las estimaciones de las principales variables de estado para el caso base (Asesoría de julio 2021) comparado con los resultados según la incorporación de cada pieza de información. }
+\label{Fig4xxx}
+\end{figure}
+```
+
+
+\pagebreak
+
 #### Ajuste del modelo a los datos y análisis de residuos
 
 \quad
@@ -1741,11 +1821,31 @@ El comportamiento de los residuales a las composiciones de edades de la flota, s
 
 \pagebreak
 
+#### Comparación con asesorías previas
+\quad
+
+El stock de anchoveta en la UPCS comenzó a ser evaluada oficialmente en 1996 por Barría *et al*. (1998) y (1999), con métodos estructurados por edad en escala calendaria. En la asesoría de septiembre 2020 se realizó el cambio de modelo base de año calendario (MAE) a año biológico (MAEb), el cual fue adoptado por el CCT-PP en la sesión de mayo 2020 (Acta Sesión Nº3). Este nuevo modelo base permite una mejor representación del reclutamiento y de la dinámica de anchoveta, disminuyendo la incertidumbre en los indicadores utilizados para medidas de manejo (Zúñiga *et al*., 2020).
+
+Se comparan los resultados de los principales indicadores de estatus del modelo base actual (septiembre 2021: MAE0921b), con versiones anteriores (julio 2021, marzo 2021, sept 2020) para evaluar la consistencia de la evaluación presente (\textbf{Figura \ref{Fig28a}}). La mayor incertidumbre se genera en la asesoría de marzo producto de la incompletitud de datos.
+
+\vspace{-0.4cm}
+```{=tex}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.85\textwidth]{Figuras/Fig32_comparaAsesorias-1.pdf}
+\caption{Comparación con asesorías anteriores del reclutamiento, biomasa desovante y mortalidad por pesca ($F año^{-1}$) de la anchoveta centro-sur. Los años en el eje x corresponden a año biológico.}
+\label{Fig28a}
+\end{figure}
+```
+
+
+\pagebreak
+
 #### Análisis retrospectivo
 
 \quad
 
-En la \textbf{Figura \ref{Fig28}} se muestra el patrón retrospectivo estándar y relativo de los reclutamientos, BD y F de la anchoveta en la UPCS para el modelo base actual (julio 2021). El análisis retrospectivo del modelo de evaluación muestra que en términos de rho (promedio de anomalías retrospectivas) la reducción de información genera un patrón de subestimación del reclutamiento (rho = -0,03) y de la mortalidad por pesca (rho = -0,04) y un patrón de sobre-estimación de la biomasa desovante (rho = 0,02). En general, las estimaciones de reclutamientos, biomasas y F para los últimos años pueden variar sustancialmente entre las sucesivas actualizaciones, mientras que en los primeros años tienden a converger a valores estables. No obstante, el modelo presenta una baja varianza estadística, lo que se traduce en una menor incertidumbre, generando estimaciones más confiables para medidas de manejo.
+En la \textbf{Figura \ref{Fig28}} se muestra el patrón retrospectivo estándar y relativo de los reclutamientos, BD y F de la anchoveta en la UPCS para el modelo base actual (septiembre 2021). El análisis retrospectivo del modelo de evaluación muestra que en términos de rho (promedio de anomalías retrospectivas) la reducción de información genera un patrón de subestimación del reclutamiento (rho = -0,03) y de la mortalidad por pesca (rho = -0,04) y un patrón de sobre-estimación de la biomasa desovante (rho = 0,02). En general, las estimaciones de reclutamientos, biomasas y F para los últimos años pueden variar sustancialmente entre las sucesivas actualizaciones, mientras que en los primeros años tienden a converger a valores estables. No obstante, el modelo presenta una baja varianza estadística, lo que se traduce en una menor incertidumbre, generando estimaciones más confiables para medidas de manejo.
 
 \vspace{-0.4cm}
 ```{=tex}
@@ -1807,44 +1907,45 @@ La selectividad de la flota indica que anchoveta es próximo a su completo reclu
 \end{figure}
 ```
 
+\pagebreak
 
 ```{=tex}
 
 \begin{table}[h!]
-\caption{Variables poblacionales estimadas en la evaluación de septiembre 2020, marzo y julio 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
+\caption{Variables poblacionales estimadas en la evaluación de septiembre 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
  \label{Tab17}
  \small
     \centering
-    \resizebox{17cm}{!} {
-    \begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|c|c|}
+    \resizebox{11cm}{!} {
+    \begin{tabular}{ccccc}
     \hline \rowcolor{Gray3}
-Año     & $BD_{sept}$ & $BD_{mar}$ & $BD_{jul}$  & $BT_{sept}$ & $BT_{mar}$ & $BT_{jul}$ & $R_{sept}$ & $R_{mar}$ & $R_{jul}$ & $F_{sept}$ & $F_{mar}$  & $F_{jul}$ \\ 
+Año     & $BD_{sept}$ & $BT_{sept}$ & $R_{sept}$ & $F_{sept}$ \\ 
 \hline  \rowcolor{Gray4}
-1996/97 & 453.760 & 449.330 & 443.792 & 1.557.700 & 1.544.300 & 1.532.630 & 36.643 & 36.327 & 36.114 & 0,945 & 0,963 & 0,989  \\
-1997/98 & 250.220 & 246.830 & 243.421 & 380.750   & 376.310   & 372.225   & 44.651 & 44.137 & 43.856 & 0,862 & 0,882 & 0,906  \\ \rowcolor{Gray4}
-1998/99 & 279.850 & 274.410 & 269.947 & 669.670   & 659.290   & 648.361   & 23.370 & 22.999 & 22.500 & 1,472 & 1,520 & 1,567 \\
-1999/00 & 276.440 & 268.420 & 261.093 & 502.520   & 489.730   & 478.819   & 35.358 & 34.607 & 34.070 & 0,31  & 0,322 & 0,335 \\ \rowcolor{Gray4}
-2000/01 & 321.480 & 313.470 & 306.495 & 647.350   & 637.170   & 626.269   & 61.911 & 61.647 & 60.974 & 0,054 & 0,056 & 0,058 \\
-2001/02 & 540.380 & 532.230 & 523.559 & 759.600   & 746.790   & 737.871   & 43.864 & 42.404 & 42.663 & 0,515 & 0,527 & 0,54 \\ \rowcolor{Gray4}
-2002/03 & 767.190 & 751.530 & 744.117 & 1.805.300 & 1.794.500 & 1.785.330 & 77.144 & 77.704 & 77.627 & 0,327 & 0,336 & 0,342 \\
-2003/04 & 936.650 & 925.060 & 920.598 & 1.667.000 & 1.640.700 & 1.637.000 & 77.383 & 75.394 & 75.553 & 0,652 & 0,666 & 0,676 \\ \rowcolor{Gray4}
-2004/05 & 810.880 & 792.710 & 792.302 & 1.735.700 & 1.704.800 & 1.709.420 & 99.828 & 98.343 & 98.997 & 0,733 & 0,756 & 0,764\\
-2005/06 & 866.660 & 847.350 & 850.165 & 1.675.600 & 1.657.200 & 1.656.100 & 117.200 & 117.750 & 116.943 & 0,542 & 0,559 & 0,563  \\ \rowcolor{Gray4}
-2006/07 & 905.580 & 894.650 & 892.636 & 1.551.300 & 1.539.100 & 1.533.900 & 67.306 & 67.258 & 66.687 & 1,008 & 1,030 & 1,041 \\
-2007/08 & 641.420 & 633.110 & 629.190 & 1.089.100 & 1.074.100 & 1.071.210 & 46.859 & 45.869 & 46.064 & 0,881 & 0,899 & 0,912\\ \rowcolor{Gray4}
-2008/09 & 407.330 & 397.670 & 395.986 & 795.160   & 786.660   & 787.690   & 45.117 & 45.408 & 45.877 & 1,388 & 1,436 & 1,457 \\
-2009/10 & 210.310 & 204.780 & 205.889 & 433.410   & 429.780   & 430.634   & 24.575 & 24.924 & 24.814 & 2,744 & 2,865 & 2,878\\ \rowcolor{Gray4}
-2010/11 & 89.235  & 87.492  & 87.969  & 228.700   & 227.210   & 227.531   & 14.467 & 14.507 & 14.434 & 3,185 & 3,295 & 3,317\\
-2011/12 & 70.979  & 70.070  & 70.406  & 145.380   & 144.100   & 144.770   & 13.330 & 13.250 & 13.317 & 1,364 & 1,398 & 1,408\\ \rowcolor{Gray4}
-2012/13 & 79.514  & 78.341  & 78.959  & 163.950   & 161.480   & 162.233   & 10.277 & 10.083 & 10.087 & 1,005 & 1,030 & 1,033 \\
-2013/14 & 105.350 & 103.220 & 103.902 & 206.620   & 204.780   & 205.737   & 11.484 & 11.559 & 11.583 & 0,686 & 0,706 & 0,708\\ \rowcolor{Gray4}
-2014/15 & 130.490 & 129.170 & 129.992 & 214.120   & 211.870   & 213.265   & 12.539 & 12.369 & 12.468 & 0,560 & 0,569 & 0,57 \\ 
-2015/16 & 148.550 & 146.480 & 147.467 & 290.990   & 286.960   & 288.424   & 20.268 & 19.948 & 19.956 & 0,574 & 0,587 & 0,601 \\ \rowcolor{Gray4}
-2016/17 & 225.790 & 221.930 & 222.044 & 450.090   & 444.140   & 442.739   & 26.548 & 26.318 & 26.122 & 0,274 & 0,281 & 0,278 \\
-2017/18 & 278.450 & 274.050 & 273.533 & 415.500   & 407.650   & 406.733   & 34.824 & 33.685 & 33.514 & 0,326 & 0,334 & 0,338 \\ \rowcolor{Gray4}
-2018/19 & 351.370 & 340.830 & 339.853 & 581.470   & 558.780   & 561.985   & 55.430 & 51.784 & 53.182 & 0,387 & 0,402 & 0,407 \\ 
-2019/20 & 495.110 & 473.920 & 479.011 & 824.040   & 835.630   & 838.744   & 58.165 & 66.653 & 63.379 & 0,385 & 0,405 & 0,404 \\ \rowcolor{Gray4}
-2020/21 & NA      & 686.790 & 626.493 & NA        & 918.000   & 923.891   & NA     & 25.359 & 25.914 & NA    & 0,345 & 0,395 \\ \hline
+1996/97	&446.310	&1.536.600	&36.162	  &0,975 \\
+1997/98	&244.750	&373.710	  &43.906	  &0,894 \\ \rowcolor{Gray4}
+1998/99	&270.970	&649.390	  &22.502	  &1,55 \\
+1999/00	&261.880	&479.180	  &33.972	  &0,332 \\ \rowcolor{Gray4}
+2000/01	&306.350	&625.390	  &60.820	  &0,057\\
+2001/02	&522.520	&736.610	  &42.634	  &0,539\\ \rowcolor{Gray4}
+2002/03	&742.540	&1.783.000	&77.583	  &0,342\\
+2003/04	&919.090	&1.634.700	&75.495	  &0,673\\ \rowcolor{Gray4}
+2004/05	&790.960	&1.706.900	&98.882	  &0,761\\
+2005/06	&848.470	&1.653.700	&116.880	&0,561\\ \rowcolor{Gray4}
+2006/07	&891.020	&1.531.900	&66.686 	&1,038\\
+2007/08	&627.730	&1.069.600	&46.078	  &0,911\\ \rowcolor{Gray4}
+2008/09	&395.000	&786.840	  &45.950	  &1,455\\
+2009/10	&205.460	&430.210	  &24.867	  &2,868\\ \rowcolor{Gray4}
+2010/11	&87.765	  &227.340	  &14.463	  &3,3\\
+2011/12	&70.217	  &144.490	  &13.306	  &1,401\\ \rowcolor{Gray4}
+2012/13	&78.720	  &161.880	  &10.078	  &1,029\\
+2013/14	&103.590	&205.310	  &11.574	  &0,706\\ \rowcolor{Gray4}
+2014/15	&129.640	&212.760	  &12.448	  &0,569\\
+2015/16	&147.040	&287.730	  &19.921	  &0,599\\ \rowcolor{Gray4}
+2016/17	&221.370	&441.450	  &26.048	  &0,277\\
+2017/18	&272.390	&403.680	  &32.831	  &0,339\\ \rowcolor{Gray4}
+2018/19	&334.890	&552.200	  &51.775	  &0,411\\
+2019/20	&466.470	&816.150	  &61.395	  &0,414\\ \rowcolor{Gray4}
+2020/21	&630.820	&928.130	  &26.675	  &0,376\\ \hline 
   \end{tabular}}
         \end{table}
 ```
@@ -1874,35 +1975,36 @@ En la \textbf{Tabla \ref{Tab18}} y \textbf{Figura \ref{Fig32}} se presentan los 
 Los pasos para el cálculo de BD~0~, BD~RMS~y BD~LIM~ se describe en la \textbf{Tabla \ref{Tab18}}. Este procedimiento busca encontrar un balance entre la serie histórica de las BD y de F a partir del cálculo de BDpromedio y Fmh. Al respecto, la \textbf{Figura \ref{Fig32}} muestra las series de Biomasa desovante y mortalidad por pesca junto a los PBRs calculados, donde se observa que en el período de menores niveles de BD se registraron los mayores niveles de F. Cuando los niveles de BD incrementan las Fs son bajas. Según Patterson (1992), para que el valor de F~mh~ fuera sostenible las biomasas deberían ser estables o crecientes y el nivel de F encontrarse bajo 2/3 de M. Respecto a la mortalidad por pesca al RMS, el Comité Científico Técnico de Pequeños Pelágicos recomendó considerar un F~RMS~ precautorio (F60%BDPR, \textbf{Figura \ref{Fig33}}) debido a su condición de pesquería mixta junto a sardina común y por su rol ecosistémico, considerado clave para otros eslabones de la trama trófica.
 
 
+\pagebreak
+
 ```{=tex}
 
 \begin{table}[h!]
-\caption{Puntos biológicos de referencia de biomasa (miles t) estimados en la evaluación de stock de septiembre 2020, marzo y julio 2021 para anchoveta de las Regiones de Valparaíso a Los Lagos, calculados siguiendo los pasos descritos en la metodología de este informe.}
+\caption{Puntos biológicos de referencia de biomasa (miles t) estimados en la evaluación de stock de septiembre 2021 para anchoveta de las Regiones de Valparaíso a Los Lagos, calculados siguiendo los pasos descritos en la metodología de este informe.}
  \label{Tab18}
  \small
     \centering
-    \resizebox{16cm}{!} {
-    \begin{tabular}{|c|l|l|c|c|c|}
+    \resizebox{14cm}{!} {
+    \begin{tabular}{|c|l|l|c|}
     \hline \rowcolor{Gray3}
-Etapas & Cálculo                               & Aproximación       & Septiembre    & Marzo        & Julio      \\ \hline
-\multirow{4}{1cm}{Paso 1} & Promedio de la serie histórica entre  & $BD_{promedio}$    & 402 mil t     &  406 mil t   & 402 mil t   \\
-       & 1997-2020 de la evaluación de stock   &                    &               &              & \\
-       & Mediana de la serie histórica entre   & $F_{mh}$           & 0,67          & 0,67         & 0,68 \\ 
-       & 1997-2020 de la evaluación de stock   &                    &               &              & \\ \hline                 
-\multirow{3}{1cm}{Paso 2} & Cálculo de la curva de biomasa        & $\%BDPR (F_{mh})$  & 50,3\%        & 50,4\%       &  50,4\% \\
-       & por recluta (BDPR)                    &                    &               &              & \\
-       &                                       & $\%BDPR (F_{RMS})$ & 60\%          & 60\%         & 60\% \\ \hline
-\multirow{2}{1cm}{Paso 3} & $\%BDPR (F_{mh}) - 5\%$               & $\%BD (F_{mh})$    & 45,3\%        & 45,4\%       & 45,4\% \\
-       & $\%BDPR (F_{RMS}) - 5\%$              & $\%BD (F_{RMS})$   & 55\%          & 55\%         & 55\%\\ \hline
-Paso 4 & $BD_0=BD_{promedio} / \%BD_{Fmh}$     & $BD_0$             & 878 mil t     & 886 mil t    & 879 mil t \\ \hline
-Paso 5 & $BD_{RMS} = BD_0*\%BD(F_{RMS})$       & $BD_{55\%}$        & 483 mil t     & 487 mil t    & 484 mil t  \\ \hline
-Paso 6 & $BD_{LIM} = BD_0 * \%BD(F_{LIM})$     & $BD_{27,5\%}$      & 241 mil t     & 244 mil t    & 242 mil t  \\ \hline
+Etapas & Cálculo                               & Aproximación                       & Septiembre     \\ \hline
+\multirow{4}{1cm}{Paso 1} & Promedio de la serie histórica entre  & $BD_{promedio}$ & 401 mil t      \\
+       & 1997-2020 de la evaluación de stock           &                            &                \\
+       & Mediana de la serie histórica entre           & $F_{mh}$                   & 0,67           \\ 
+       & 1997-2020 de la evaluación de stock           &                            &                \\ \hline                 
+\multirow{3}{1cm}{Paso 2} & Cálculo de la curva de biomasa  & $\%BDPR (F_{mh})$     & 50,4\%         \\
+       & por recluta (BDPR)                            &                            &                \\
+       &                                               & $\%BDPR (F_{RMS})$         & 60\%           \\ \hline
+\multirow{2}{1cm}{Paso 3} & $\%BDPR (F_{mh}) - 5\%$    & $\%BD (F_{mh})$            & 45,4\%         \\
+       & $\%BDPR (F_{RMS}) - 5\%$                      & $\%BD (F_{RMS})$           & 55\%           \\ \hline
+Paso 4 & $BD_0=BD_{promedio} / \%BD_{Fmh}$             & $BD_0$                     & 878 mil t      \\ \hline
+Paso 5 & $BD_{RMS} = BD_0*\%BD(F_{RMS})$               & $BD_{55\%}$                & 483 mil t      \\ \hline
+Paso 6 & $BD_{LIM} = BD_0 * \%BD(F_{LIM})$             & $BD_{27,5\%}$              & 241 mil t      \\ \hline
   \end{tabular}}
         \end{table}
 ```
 
 
-\pagebreak
 
 ```{=tex}
 \begin{figure}[h!]
@@ -1913,6 +2015,8 @@ Paso 6 & $BD_{LIM} = BD_0 * \%BD(F_{LIM})$     & $BD_{27,5\%}$      & 241 mil t 
 \end{figure}
 ```
 
+\pagebreak
+
 ```{=tex}
 \begin{figure}[h!]
 \centering
@@ -1922,15 +2026,17 @@ Paso 6 & $BD_{LIM} = BD_0 * \%BD(F_{LIM})$     & $BD_{27,5\%}$      & 241 mil t 
 \end{figure}
 ```
 
-\pagebreak
+
 \normalsize
+
+\vspace{0.5cm}
 
 ### 4.2.3. Estado de explotación
 
 Los resultados de este estudio muestran que entre los años 1996/97 y 2000/01 el stock de anchoveta centro-sur se encontraba sobre-explotado con biomasas por debajo del objetivo de manejo (BD \< BD~RMS~). A partir del 2001/02 se incrementan los niveles de biomasa desovante, permitiendo que el stock transite y se mantenga en una condición de plena-explotación hasta el 2007/08. No obstante, los niveles de reclutamiento para el año 2008 se reducen drásticamente generando niveles de biomasa desovante por debajo del promedio histórico para el 2008/09. Debido a la falla en los reclutamientos, desde el año 2009/10 la anchoveta de la zona centro-sur cambia drásticamente su estatus a una condición de agotamiento y/o colapso, manteniendose en esa condición durante 8 años (2009/10 al 2016/17). A partir del año 2017/18 se manifiesta una recuperación del stock, transitando de la zona de colapso a la zona de sobre-explotación los años 2017/18 y 2018/19 y de plena-explotación el 2019/20 y 2020/21. En términos de los niveles de mortalidad por pesca (Ft año^-1^), en general, se ha mantenido históricamente por sobre el nivel objetivo de referencia F~RMS~, no obstante, a partir del año 2016/17, los niveles de Ft estuvieron bajo el objetivo de manejo (\textbf{Figura \ref{Fig34}} y \textbf{Tabla \ref{Tab19}}).
 
 
-\vspace{-0.3cm}
+\pagebreak
 
 
 ```{=tex}
@@ -1950,111 +2056,67 @@ Los resultados de este estudio muestran que entre los años 1996/97 y 2000/01 el
 ```{=tex}
 
 \begin{table}[h!]
-\caption{Comparación de los índices de reducción de F respecto de $F_{RMS}$ ($F/F_{RMS}$), BD respecto de $BD_{RMS}$ ($BD/BD_{RMS}$) estimados en la asesoría de septiembre 2020, marzo y julio 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
+\caption{Comparación de los índices de reducción de F respecto de $F_{RMS}$ ($F/F_{RMS}$), BD respecto de $BD_{RMS}$ ($BD/BD_{RMS}$), tasas de explotación anual referidos a la biomasa ($Y/BT$) y a la abundancia estimada ($C\#/N\#$), estimadas en la evaluación de septiembre 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
  \label{Tab19}
  \small
     \centering
-    \resizebox{17cm}{!} {
-    \begin{tabular}{|c|c|c|c|c|c|c|}
-    \hline \rowcolor{Gray3}
-Año     & $F/F_{RMS_{sept}}$ & $F/F_{RMS_{mar}}$ & $F/F_{RMS_{jul}}$  & $BD/BD_{RMS_{sept}}$ & $BD/BD_{RMS_{mar}}$ & $BD/BD_{RMS_{jul}}$    \\ \hline
-1996/97 & 2,137 & 2,170 & 2,203 & 0,940 & 0,922 & 0,918   \\ \rowcolor{Gray4}
-1997/98 & 1,949 & 1,988 & 2,019 & 0,518 & 0,507 & 0,503  \\ 
-1998/99 & 3,330 & 3,426 & 3,492 & 0,580 & 0,563 & 0,558   \\ \rowcolor{Gray4}
-1999/00 & 0,701 & 0,726 & 0,747 & 0,572 & 0,551 & 0,540   \\ 
-2000/01 & 0,122 & 0,126 & 0,129 & 0,666 & 0,643 & 0,634 \\ \rowcolor{Gray4}
-2001/02 & 1,164 & 1,187 & 1,204 & 1,119 & 1,092 & 1,083 \\
-2002/03 & 0,738 & 0,758 & 0,763 & 1,589 & 1,542 & 1,539 \\ \rowcolor{Gray4}
-2003/04 & 1,474 & 1,502 & 1,506 & 1,940 & 1,899 & 1,904 \\
-2004/05 & 1,658 & 1,705 & 1,703 & 1,679 & 1,627 & 1,639 \\ \rowcolor{Gray4}
-2005/06 & 1,226 & 1,261 & 1,255 & 1,795 & 1,739 & 1,758  \\ 
-2006/07 & 2,279 & 2,321 & 2,319 & 1,875 & 1,836 & 1,846  \\ \rowcolor{Gray4}
-2007/08 & 1,993 & 2,028 & 2,033 & 1,328 & 1,299 & 1,301 \\
-2008/09 & 3,140 & 3,238 & 3,246 & 0,844 & 0,816 & 0,819  \\ \rowcolor{Gray4}
-2009/10 & 6,205 & 6,458 & 6,412 & 0,436 & 0,420 & 0,426  \\
-2010/11 & 7,202 & 7,429 & 7,39  & 0,185 & 0,180 & 0,182  \\ \rowcolor{Gray4}
-2011/12 & 3,084 & 3,152 & 3,136 & 0,147 & 0,144 & 0,146 \\
-2012/13 & 2,273 & 2,322 & 2,302 & 0,165 & 0,161 & 0,163 \\ \rowcolor{Gray4}
-2013/14 & 1,551 & 1,592 & 1,577 & 0,218 & 0,212 & 0,215 \\
-2014/15 & 1,265 & 1,284 & 1,271 & 0,270 & 0,265 & 0,269 \\ \rowcolor{Gray4}
-2015/16 & 1,299 & 1,323 & 1,339 & 0,308 & 0,301 & 0,305  \\
-2016/17 & 0,619 & 0,633 & 0,619 & 0,468 & 0,455 & 0,459 \\ \rowcolor{Gray4}
-2017/18 & 0,738 & 0,752 & 0,754 & 0,577 & 0,562 & 0,566 \\
-2018/19 & 0,874 & 0,906 & 0,906 & 0,728 & 0,700 & 0,703 \\ \rowcolor{Gray4}
-2019/20 & 0,872 & 0,913 & 0,901 & 1,025 & 0,973 & 0,991 \\
-2020/21 & NA    & 0,778 & 0,880 & NA    & 1,41  & 1,296  \\ \rowcolor{Gray4} \hline
-  \end{tabular}}
-        \end{table}
-```
-
-\pagebreak
-
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Comparación de las tasas de explotación anual referidos a la biomasa ($Y/BT$) y a la abundancia estimada ($C\#/N\#$), estimadas en la evaluación de septiembre 2020, marzo y julio 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
- \label{Tab20}
- \small
-    \centering
     \resizebox{12cm}{!} {
-    \begin{tabular}{|c|c|c|c|c|c|c|}
+    \begin{tabular}{ccccc}
     \hline \rowcolor{Gray3}
-Año     & $Y/BT_{sept}$ & $Y/BT_{mar}$ & $Y/BT_{jul}$  & $C/N_{sept}$ & $C/N_{mar}$ & $C/N_{jul}$    \\ \hline
-1996/97 & 0,225 & 0,227 & 0,229 & 0,162 & 0,163 & 0,164   \\ \rowcolor{Gray4}
-1997/98 & 0,204 & 0,206 & 0,209 & 0,154 & 0,155 & 0,156 \\ 
-1998/99 & 0,660 & 0,671 & 0,682 & 0,317 & 0,322 & 0,327 \\ \rowcolor{Gray4}
-1999/00 & 0,112 & 0,115 & 0,118 & 0,062 & 0,063 & 0,064 \\ 
-2000/01 & 0,022 & 0,023 & 0,023 & 0,011 & 0,011 & 0,011 \\ \rowcolor{Gray4}
-2001/02 & 0,310 & 0,315 & 0,319 & 0,136 & 0,139 & 0,14 \\
-2002/03 & 0,150 & 0,150 & 0,151 & 0,07  & 0,07  & 0,07 \\ \rowcolor{Gray4}
-2003/04 & 0,216 & 0,219 & 0,220 & 0,144 & 0,147 & 0,147 \\
-2004/05 & 0,249 & 0,253 & 0,253 & 0,145 & 0,148 & 0,147 \\ \rowcolor{Gray4}
-2005/06 & 0,196 & 0,198 & 0,199 & 0,111 & 0,112 & 0,112 \\ 
-2006/07 & 0,412 & 0,415 & 0,417 & 0,248 & 0,250 & 0,25 \\ \rowcolor{Gray4}
-2007/08 & 0,378 & 0,383 & 0,384 & 0,221 & 0,225 & 0,224 \\
-2008/09 & 0,456 & 0,461 & 0,461 & 0,273 & 0,275 & 0,273  \\ \rowcolor{Gray4}
-2009/10 & 0,719 & 0,725 & 0,724 & 0,444 & 0,447 & 0,446 \\
-2010/11 & 0,733 & 0,738 & 0,737 & 0,433 & 0,436 & 0,435 \\ \rowcolor{Gray4}
-2011/12 & 0,459 & 0,463 & 0,461 & 0,211 & 0,212 & 0,211 \\
-2012/13 & 0,368 & 0,373 & 0,371 & 0,200 & 0,203 & 0,202 \\ \rowcolor{Gray4}
-2013/14 & 0,284 & 0,287 & 0,286 & 0,139 & 0,140 & 0,139 \\
-2014/15 & 0,267 & 0,270 & 0,268 & 0,120 & 0,121 & 0,120 \\ \rowcolor{Gray4}
-2015/16 & 0,247 & 0,250 & 0,254 & 0,107 & 0,108 & 0,109 \\
-2016/17 & 0,115 & 0,117 & 0,115 & 0,057 & 0,058 & 0,057 \\ \rowcolor{Gray4}
-2017/18 & 0,162 & 0,165 & 0,166 & 0,071 & 0,073 & 0,073 \\
-2018/19 & 0,238 & 0,248 & 0,247 & 0,077 & 0,081 & 0,08 \\ \rowcolor{Gray4}
-2019/20 & 0,195 & 0,192 & 0,191 & 0,089 & 0,085 & 0,086 \\
-2020/21 & NA    & 0,218 & 0,227 & NA & 0,117    & 0,13  \\ \rowcolor{Gray4} \hline
+Año     & $F/F_{RMS_{sept}}$ & $BD/BD_{RMS_{sept}}$ & $Y/BT_{sept}$ & $C/N_{sept}$   \\ \hline  \rowcolor{Gray4}
+1996/97	&2,183	&0,925	&0,228	&0,164 \\
+1997/98	&2,003	&0,507	&0,208	&0,156 \\ \rowcolor{Gray4}
+1998/99	&3,47	  &0,561	&0,681	&0,326\\
+1999/00	&0,743	&0,543	&0,118	&0,064\\ \rowcolor{Gray4}
+2000/01	&0,129	&0,635	&0,023	&0,011\\
+2001/02	&1,207	&1,083	&0,32	  &0,14\\ \rowcolor{Gray4}
+2002/03	&0,765	&1,538	&0,151	&0,07\\
+2003/04	&1,507	&1,904	&0,22	  &0,147\\ \rowcolor{Gray4}
+2004/05	&1,704	&1,639	&0,253	&0,147\\
+2005/06	&1,256	&1,758	&0,199	&0,113\\ \rowcolor{Gray4}
+2006/07	&2,323	&1,846	&0,417	&0,251\\
+2007/08	&2,04	  &1,3	  &0,385	&0,225\\ \rowcolor{Gray4}
+2008/09	&3,257	&0,818	&0,461	&0,274\\
+2009/10	&6,422	&0,426	&0,724	&0,447\\ \rowcolor{Gray4}
+2010/11	&7,388	&0,182	&0,737	&0,436\\
+2011/12	&3,138	&0,145	&0,461	&0,211\\ \rowcolor{Gray4}
+2012/13	&2,305	&0,163	&0,372	&0,203\\
+2013/14	&1,581	&0,215	&0,286	&0,14\\ \rowcolor{Gray4}
+2014/15	&1,274	&0,269	&0,268	&0,12\\
+2015/16	&1,342	&0,305	&0,254	&0,11\\ \rowcolor{Gray4}
+2016/17	&0,62	  &0,459	&0,115	&0,057\\
+2017/18	&0,758	&0,564	&0,168	&0,074\\ \rowcolor{Gray4}
+2018/19	&0,921	&0,694	&0,251	&0,081\\
+2019/20	&0,927	&0,966	&0,197	&0,089\\ \rowcolor{Gray4}
+2020/21	&0,842	&1,307	&0,226	&0,123\\ \hline
   \end{tabular}}
         \end{table}
 ```
+
+
+
 
 
 \normalsize
 
 Respecto a la condición actual de anchoveta centro-sur, los resultados de este estudio indican una recuperación del estatus generada por el incremento de los reclutamientos 2018/19 y 2019/20, la disminución de la mortalidad por pesca por debajo del objetivo de manejo (F\<F~RMS~) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21. Por lo tanto, anchoveta centro-sur se encuentra en una condición de plena-explotación con una baja probabilidad de sobre-explotación (3%) y de sobrepesca (13%) (\textbf{Figura \ref{Fig35}} y \textbf{Tabla \ref{Tab21}}).
 
-\vspace{0.5cm}
+
+
 
 \pagebreak
-
 
 ```{=tex}
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.45\textwidth]{Figuras/Fig35a-1.pdf}
-\includegraphics[width=0.45\textwidth]{Figuras/Fig35b-1.pdf}
-\includegraphics[width=0.8\textwidth]{Figuras/Fig35c-1.pdf}
-\caption{Diagrama de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca de la asesoría de septiembre 2020, marzo 2021 (panel superior) y julio 2021 (panel inferior). Los ejes están estandarizados a los valores que generan el RMS proxy. Cruz azul corresponde a los intervalos de confianza de la razón $BD/BD_{RMS}$ y $F/F_{RMS}$. El año con cruz continua corresponde a "\textit{Estatus completo}" y la cruz con línea discontinua a "\textit{Estatus preliminar}".}
+\includegraphics[width=1\textwidth]{Figuras/Fig35a-1.pdf}
+\caption{Diagrama de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca de la asesoría de septiembre 2021. Los ejes están estandarizados a los valores que generan el RMS proxy. Cruz azul corresponde a los intervalos de confianza de la razón $BD/BD_{RMS}$ y $F/F_{RMS}$. El año con cruz continua corresponde a "\textit{Estatus completo}" y la cruz con línea discontinua a "\textit{Estatus preliminar}".}
 \label{Fig35}
 \end{figure}
 ```
 
 \normalsize
 
-\pagebreak
 
 
 
@@ -2065,19 +2127,19 @@ Respecto a la condición actual de anchoveta centro-sur, los resultados de este 
  \label{Tab21}
  \small
     \centering
-    \resizebox{11cm}{!} {
+    \resizebox{9cm}{!} {
     \begin{tabular}{|l|c|c|c|}
     \hline \rowcolor{Gray3}
-              & Septiembre 2020 & Marzo 2021 & Julio 2021    \\ \hline
-Año biológico & 2019/20         & 2020/21    & 2020/21 \\ \rowcolor{Gray4}
-$F_{RMS}$     & 0,44 $año^1$    & 0,44 $año^1$  & 0,45 $año^1$ \\
-$BD_{RMS}$    & 483 mil t       & 487 mil t  & 484 mil t\\ \rowcolor{Gray4}
-$BD_{LIM}$    & 241 mil t       & 244 mil t  & 242 mil t\\ \hline
-$p(BD_{last}<BD_{RMS})$ & 0,44  & 0,05       & 0,08 \\ \rowcolor{Gray4}
-$p(F_{last}>F_{RMS})$   & 0,26  & 0,11       & 0,27 \\ \hline
-$p(sobre-explotación)$  & 0,24  & 0,02       & 0,03 \\ \rowcolor{Gray4}
-$p(agotado/colapsado)$  & 0     & 0          & 0 \\
-$p(sobrepesca)$         & 0,12  & 0,04       & 0,13 \\ \hline
+                        & Septiembre 2021 \\ \hline
+Año biológico           & 2020/21         \\ \rowcolor{Gray4}
+$F_{RMS}$               & 0,45 $año^1$    \\
+$BD_{RMS}$              & 483 mil t       \\ \rowcolor{Gray4}
+$BD_{LIM}$              & 241 mil t       \\ \hline
+$p(BD_{2021}<BD_{RMS})$ & 0,08  \\ \rowcolor{Gray4}
+$p(F_{2021}>F_{RMS})$   & 0,2  \\ \hline
+$p(sobre-explotación)$  & 0,03  \\ \rowcolor{Gray4}
+$p(agotado/colapsado)$  & 0     \\
+$p(sobrepesca)$         & 0,09  \\ \hline
   \end{tabular}}
         \end{table}
 ```
@@ -2087,11 +2149,11 @@ $p(sobrepesca)$         & 0,12  & 0,04       & 0,13 \\ \hline
 \vspace{-0.3cm}
 \scriptsize
 ```
--   $p(BD_{last}<BD_{RMS})$ = Probabilidad de que BD del año más reciente sea menor a $BD_{RMS}$
--   $p(F_{last}>F_{RMS})$ = Probabilidad que la Ft del año más reciente sea menor a $F_{RMS}$
--   Probabilidad de estar en sobreexplotación = $p(BD_{last}<0,9BD_{RMS})$
--   Probabilidad de estar en colapso = $p(BD_{last}<BD_{LIM})$
--   Probabilidad de estar en sobrepesca = $p(F_{last}>1,1F_{RMS})$
+-   $p(BD_{2021}<BD_{RMS})$ = Probabilidad de que BD del año más reciente sea menor a $BD_{RMS}$
+-   $p(F_{2021}>F_{RMS})$ = Probabilidad que la Ft del año más reciente sea menor a $F_{RMS}$
+-   Probabilidad de estar en sobreexplotación = $p(BD_{2021}<0,9BD_{RMS})$
+-   Probabilidad de estar en colapso = $p(BD_{2021}<BD_{LIM})$
+-   Probabilidad de estar en sobrepesca = $p(F_{2021}>1,1F_{RMS})$
 
 \normalsize
 
@@ -2106,7 +2168,7 @@ $p(sobrepesca)$         & 0,12  & 0,04       & 0,13 \\ \hline
 
 ### 4.3.1. Captura biológicamente aceptable (CBA)
 
-### CBA 2021 inicial (Asesoría de septiembre 2020)
+### CBA 2022 inicial (Asesoría de septiembre 2021)
 
 Para el cálculo de la CBA inicial 2021 se proyectó el stock dos años biológicos hacia el futuro (julio2020 - junio2021 y julio2021 - junio2022) en base a tres escenarios de reclutamiento: a) un escenario que considera un período favorable entre los años 1997-2009 (59,7 mil millones de ind.). b) un escenario que consiste en el reclutamiento medio histórico de la serie (44,1 mil millones de ind.), c) un escenario que considera el período desfavorable y baja productividad de anchoveta a partir del año 2010 a la fecha (25,6 mil millones de ind.) (\textbf{Figura \ref{Fig36}}). 
 
@@ -2116,7 +2178,7 @@ Para el cálculo de la CBA inicial 2021 se proyectó el stock dos años biológi
 \begin{figure}[h!]
 \centering
 \includegraphics[width=0.85\textwidth]{Figuras/Fig36-1.pdf}
-\caption{Escenarios de reclutamiento proyectado de anchoveta centro-sur para la asesoría de septiembre 2020.}
+\caption{Escenarios de reclutamiento proyectado de anchoveta centro-sur para la asesoría de septiembre 2021.}
 \label{Fig36}
 \end{figure}
 ```
@@ -2136,21 +2198,21 @@ La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 e
 ```{=tex}
 
 \begin{table}[h!]
-\caption{CBA inicial 2021 de anchoveta centro-sur bajo $Fcte = F_{RMS}$ con sus respectivos percentiles de probabilidad entre 10\% y 50\% y tres escenarios de reclutamiento.}
+\caption{CBA inicial 2022 de anchoveta centro-sur bajo $Fcte = F_{RMS}$ con sus respectivos percentiles de probabilidad entre 10\% y 50\% y tres escenarios de reclutamiento.}
  \label{Tab22}
  \small
     \centering
     \resizebox{8cm}{!} {
     \begin{tabular}{|l|c|c|c|}
     \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    mean      & 255.100         & 241.310         & 225.010 \\ \rowcolor{Gray4}
-    std       & 51.141          & 51.209          & 51.386   \\ \hline
-    10\%      & 189.560         & 175.683         & 159.156 \\ \rowcolor{Gray4}
-    20\%      & 212.059         & 198.211         & 181.762 \\
-    30\%      & 228.282         & 214.456         & 198.063 \\ \rowcolor{Gray4}
-    40\%      & 242.144         & 228.336         & 211.992 \\
-    50\%      & 255.100         & 241.310         & 225.010 \\ \hline
+              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
+    mean      & 209.420         & 197.520         & 182.380 \\ \rowcolor{Gray4}
+    std       & 39.403          & 39.414          & 39.521   \\ \hline
+    10\%      & 158.923         & 147.009         & 131.732 \\ \rowcolor{Gray4}
+    20\%      & 176.258         & 164.348         & 149.118 \\
+    30\%      & 188.757         & 176.851         & 161.655 \\ \rowcolor{Gray4}
+    40\%      & 199.437         & 187.535         & 172.367 \\
+    50\%      & 209.420         & 197.520         & 182.380 \\ \hline
   \end{tabular}}
         \end{table}
 ```
@@ -2167,10 +2229,10 @@ La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 e
     \begin{tabular}{|l|c|c|c|}
     \hline \rowcolor{Gray3}
               & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    10\%      & 0,26         & 0,27         & 0,29 \\ \rowcolor{Gray4}
-    20\%      & 0,17         & 0,18         & 0,19 \\
-    30\%      & 0,11         & 0,11         & 0,12 \\ \rowcolor{Gray4}
-    40\%      & 0,05         & 0,05         & 0,06 \\
+    10\%      & 0,24         & 0,26         & 0,28 \\ \rowcolor{Gray4}
+    20\%      & 0,16         & 0,17         & 0,18 \\
+    30\%      & 0,10         & 0,10         & 0,11 \\ \rowcolor{Gray4}
+    40\%      & 0,05         & 0,05         & 0,05 \\
     50\%      & 0,00         & 0,00         & 0,00 \\ \hline
   \end{tabular}}
         \end{table}
@@ -2180,7 +2242,7 @@ La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 e
 ```{=tex}
 
 \begin{table}[h!]
-\caption{CBA 2021 menos el 2\%descarte. *CBA máxima recomendada por el CCT-PP = 210.167 t. }
+\caption{CBA 2022 menos el 2\%descarte. *CBA máxima recomendada por el CCT-PP = 210.167 t. }
  \label{Tab24}
  \small
     \centering
@@ -2188,11 +2250,11 @@ La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 e
     \begin{tabular}{|l|c|c|c|}
     \hline \rowcolor{Gray3}
               & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    10\%      & 185.769         & 172.169         & 155.973 \\ \rowcolor{Gray4}
-    20\%      & 207.817         & 194.247         & 178.127 \\
-    30\%      & 223.716         & \textbf{210.167}*& 194.102 \\ \rowcolor{Gray4}
-    40\%      & 237.301         & 223.770         & 207.752 \\
-    50\%      & 249.998         & 236.484         & 220.510 \\ \hline
+    10\%      & 155.745         & 144.069         & 129.097 \\ \rowcolor{Gray4}
+    20\%      & 172.732         & 161.061         & 146.136 \\
+    30\%      & 184.982         & 173.314         & 158.422 \\ \rowcolor{Gray4}
+    40\%      & 195.449         & 183.784         & 168.920 \\
+    50\%      & 205.232         & 193.570         & 178.732 \\ \hline
   \end{tabular}}
         \end{table}
 ```
@@ -2201,252 +2263,16 @@ La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 e
 
 \pagebreak
 
-### Primera revisión CBA 2021 (Asesoría de marzo 2021)
-
-Para el cálculo de la CBA 2021 se proyectó el stock 1 año biológico hacia el futuro (julio2021 - junio2022) en base a tres escenarios de reclutamiento: a) un escenario que considera un período favorable entre los años 1997-2009 (59,2 mil millones de ind.). b) un escenario que consiste en el reclutamiento medio histórico de la serie (43,2 mil millones de ind.), c) un escenario que considera el período desfavorable y baja productividad de anchoveta a partir del año 2010 a la fecha (25,9 mil millones de ind.) (\textbf{Figura \ref{Fig37}}).
-
-\vspace{0.5cm}
 
 
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.85\textwidth]{Figuras/Fig37-1.pdf}
-\caption{Escenarios de reclutamiento proyectado de anchoveta centro-sur para la asesoría de marzo 2021.}
-\label{Fig37}
-\end{figure}
-```
-
-\vspace{0.5cm}
-
-\normalsize
-
-El cálculo de la primera revisión de la CBA para el año calendario 2021 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre y 30% para el segundo semestre, bajo un criterio de explotación de F60%SPR, sujeto a percentiles de probabilidad entre el 10% y 50%.
-
-La \textbf{Tabla \ref{Tab25}} muestra los rangos de capturas para el año 2021 estimada bajo un escenario de Rprom(1997-2009) podría situarse entre 185,3 mil t y 205,4 mil t y bajo un escenario de reclutamiento histórico entre 184,2 mil t y 204,3 mil t y bajo un escenario de Rprom(2010-2021) entre 183,7 mil t y 202,9 mil t. Para evaluar el efecto que tiene la decisión de la CBA en base a los percentiles de probabilidad de sobrepasar el objetivo de manejo (10%-50%), se calculó el resguardo de la captura al RMS a lo cual equivale cada percentil (\textbf{Tabla \ref{Tab26}}). Esos niveles variaron entre un 2% - 10% en promedio, considerando un percentil de probabilidad del 40% - 10% para los tres escenarios de reclutamiento.
-
-En la primera sesión del CCT-PP 2021 (febrero 2021) se acordó utilizar un 2% de descarte para el supuesto de descarte proyectado de anchoveta centro-sur, en base a esto, la \textbf{Tabla \ref{Tab27}} muestra los rangos de captura menos el 2% de descarte. La \textbf{Tabla \ref{Tab28}} muestra las diferencias porcentuales entre la CBA inicial menos el 2% de descarte y la primera revisión de CBA 2021 menos el 2% de descarte.
-
-En la segunda sesión del CCT-PP 2021 (Acta de Sesión Nº2, marzo 2021 [^10].) el Comité recomienda mantener \textit{status quo} de CBA máxima 2021 de 210.167 toneladas.
-
-[^10]: <https://www.subpesca.cl/portal/616/articles-110469_documento.pdf>
-
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Primera revisión de CBA  2021 de anchoveta centro-sur bajo $Fcte = F_{RMS}$ con sus respectivos percentiles de probabilidad entre 10\% y 50\% y tres escenarios de reclutamiento.}
- \label{Tab25}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    mean      & 205.360  & 204.260  & 202.860  \\ \rowcolor{Gray4}
-    std       & 15.645   & 15.671   & 15.709   \\ \hline
-    10\%      & 185.310  & 184.177  & 182.728 \\ \rowcolor{Gray4}
-    20\%      & 192.193  & 191.071  & 189.639 \\
-    30\%      & 197.156  & 196.042  & 194.622 \\ \rowcolor{Gray4}
-    40\%      & 201.396  & 200.290  & 198.880 \\
-    50\%      & 205.360  & 204.260  & 202.860 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Resguardo de la Captura al RMS.}
- \label{Tab26}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      & 0,10            &  0,10       & 0,10\\ \rowcolor{Gray4}
-    20\%      & 0,06            &  0,06       & 0,07  \\
-    30\%      & 0,04            &  0,04       & 0,04  \\ \rowcolor{Gray4}
-    40\%      & 0,02            &  0,02       & 0,02  \\
-    50\%      & 0               & 0           & 0  \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{CBA 2021 menos el 2\%descarte}
- \label{Tab27}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    10\%      & 181.604         & 180.493         & 179.074  \\ \rowcolor{Gray4}
-    20\%      & 188.349         & 187.250         & 185.846 \\
-    30\%      & 193.213         & 192.121         & 190.730 \\ \rowcolor{Gray4}
-    40\%      & 197.368         & 196.284         & 194.903 \\
-    50\%      & 201.253         & 200.175         & 198.803 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Diferencia porcentuales entre la CBA inicial menos el 2\%descarte y la primera revisión de CBA 2021 menos el 2\%descarte. (1-(1eraRevisiónCBA/CBAinicial)*100)}
- \label{Tab28}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      & -2\%          & 5\%           & 15\% \\ \rowcolor{Gray4}
-    20\%      & -9\%          & -4\%          & 4\% \\
-    30\%      & -14\%         & -9\%          & -2\%\\ \rowcolor{Gray4}
-    40\%      & -17\%         & -12\%         & -6\% \\
-    50\%      & -19\%         & -15\%         & -10\% \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-\pagebreak
-
-### Segunda revisión CBA 2021 (Asesoría de julio 2021)
-
-Para el cálculo de la CBA 2021 se proyectó el stock 1 año biológico hacia el futuro (julio2021 - junio2022) en base a tres escenarios de reclutamiento: a) un escenario que considera un período favorable entre los años 1997-2009 (59,1 mil millones de ind.). b) un escenario que consiste en el reclutamiento medio histórico de la serie (43,1 mil millones de ind.), c) un escenario que considera el período desfavorable y baja productividad de anchoveta a partir del año 2010 a la fecha (25,7 mil millones de ind.) (\textbf{Figura \ref{Fig38}}). \vspace{0.5cm}
-
-
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.8\textwidth]{Figuras/Fig38-1.pdf}
-\caption{Escenarios de reclutamiento proyectado de anchoveta centro-sur para la asesoría de julio 2021.}
-\label{Fig38}
-\end{figure}
-```
-
-\normalsize
-
-El cálculo de la primera revisión de la CBA para el año calendario 2021 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre y 30% para el segundo semestre, bajo un criterio de explotación de F60%SPR, sujeto a percentiles de probabilidad entre el 10% y 50%.
-
-La \textbf{Tabla \ref{Tab29}} muestra los rangos de capturas para el año 2021 estimada bajo un escenario de Rprom(1997-2009) podría situarse entre 190,7 mil t y 207,8 mil t y bajo un escenario de reclutamiento histórico entre 189,6 mil t y 206,6 mil t. y bajo un escenario de Rprom(2010-2021) entre 188,1 mil t y 205,2 mil t.
-
-Para evaluar el efecto que tiene la decisión de la CBA en base a los percentiles de probabilidad de sobrepasar el objetivo de manejo (10%-50%), se calculó el resguardo de la captura al RMS a lo cual equivale cada percentil (\textbf{Tabla \ref{Tab30}}). Esos niveles variaron entre un 2% - 8% en promedio, considerando un percentil de probabilidad del 40% - 10% para los tres escenarios de reclutamiento.
-
-En la primera sesión del CCT-PP 2021 (febrero 2021) se acordó utilizar un 2% de descarte para el supuesto de descarte proyectado de anchoveta centro-sur, en base a esto, la \textbf{Tabla \ref{Tab31}} muestra los rangos de captura menos el 2% de descarte. La \textbf{Tabla \ref{Tab32}} muestra las diferencias porcentuales entre la CBA inicial menos el 2% de descarte y la segunda revisión de CBA 2021 menos el 2% de descarte.
-
-\pagebreak
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Segunda revisión de CBA  2021 de anchoveta centro-sur bajo $Fcte = F_{RMS}$ con sus respectivos percentiles de probabilidad entre 10\% y 50\% y tres escenarios de reclutamiento.}
- \label{Tab29}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    mean      & 207.760  & 206.640  & 205.210  \\ \rowcolor{Gray4}
-    std       & 13.322   &  13.328  & 13.342   \\ \hline
-    10\%      & 190.687  & 189.559  & 188.112 \\ \rowcolor{Gray4}
-    20\%      & 196.548  & 195.423  & 193.981 \\
-    30\%      & 200.774  & 199.651  & 198.213 \\ \rowcolor{Gray4}
-    40\%      & 204.385  & 203.263  & 201.830 \\
-    50\%      & 207.760  & 206.640  & 205.210 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Resguardo de la Captura al RMS.}
- \label{Tab30}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      & 0,08         &  0,08       & 0,08 \\ \rowcolor{Gray4}
-    20\%      & 0,05         &  0,05       & 0,05  \\
-    30\%      & 0,03         &  0,03       & 0,03  \\ \rowcolor{Gray4}
-    40\%      & 0,02         &  0,02       & 0,02  \\
-    50\%      & 0            & 0           &  0 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{CBA 2021 menos el 2\%descarte}
- \label{Tab31}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      & 186.873  &  185.768  &  184.349 \\ \rowcolor{Gray4}
-    20\%      & 192.617  &  191.514  &  190.101 \\
-    30\%      & 196.758  &  195.658  &  194.249 \\ \rowcolor{Gray4}
-    40\%      & 200.297  &  199.198  &  197.793 \\
-    50\%      & 203.605  &  202.507  &  201.106 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Diferencia porcentuales entre la CBA inicial menos el 2\%descarte y la segunda revisión de CBA 2021 menos el 2\%descarte. (1-(2darevisiónCBA/CBAinicial)*100)}
- \label{Tab32}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      &  1\%     & 8\%    & 18\%   \\ \rowcolor{Gray4}
-    20\%      & -7\%      & -1\%   &  7\%   \\
-    30\%      & -12\%    & -7\%   & 0\%    \\ \rowcolor{Gray4}
-    40\%      & -16\%    & -11\%  &  -5\%  \\
-    50\%      & -19\%    & -14\%  &  -9\%  \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-\pagebreak
-\normalsize
-
-### 4.3.2. Proyección del stock (Asesoría de septiembre 2020)
+### 4.3.2. Proyección del stock (Asesoría de septiembre 2021)
 
 En relación al estatus 2020/21, se proyectó el stock bajo tres escenarios reclutamientos que representan los períodos más relevantes de la historia conocida de anchoveta centro-sur y con una mortalidad por pesca en torno al F~RMS~ (ponderadores de F~RMS~). Al respecto, si bien la anchoveta centro-sur se mantuvo en una condición de colapso entre 2009/10 y 2016/17 y de sobre-explotación entre el 2017/18 y 2018/19, el incremento del reclutamiento los años 2018/19 y 2019/20 junto al aumento de la biomasa adulta (1+ años) permiten la recuperación del stock para el año 2019/20 y con una alta probabilidad (95%) de mantenerse en una condición de plena-explotación para el año 2020/21 (4% probabilidad de sobre-explotación y 0% probabilidad de colapso) (\textbf{Tabla \ref{Tab33}}) independiente de los escenario de reclutamiento futuros y ponderadores de F~RMS~ (\textbf{Figura \ref{Fig39}}). El incremento de los reclutamientos y biomasas de anchoveta centro-sur durante los dos años previos y la baja probabilidad de sobre-explotación y colapso generan un escenario favorable para el stock de anchoveta el 2020/21. \vspace{0.5cm}
 
 ```{=tex}
 
 \begin{table}[h!]
-\caption{Incertidumbre del estatus previo 2018/19, actual 2019/20 y proyectado 2020/21 bajo tres escenarios de reclutamiento y ponderadores de $F_{RMS}$. \textbf{Asesoría de septiembre 2020}.}
+\caption{Incertidumbre del estatus previo 2018/19, actual 2019/20 y proyectado 2020/21 bajo tres escenarios de reclutamiento y ponderadores de $F_{RMS}$. \textbf{Asesoría de septiembre 2021}.}
  \label{Tab33}
  \small
     \centering
@@ -2502,151 +2328,14 @@ Reclutamiento   & biológico   &  Estatus         &               &             
 \includegraphics[width=0.3\textwidth]{Figuras/Fig48-1.pdf}
 \includegraphics[width=0.3\textwidth]{Figuras/Fig48-2.pdf}
 \includegraphics[width=0.3\textwidth]{Figuras/Fig48-3.pdf}
-\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2018/19 (punto rojo), año actual 2019/20 (punto y cruz naranjo) y año proyectado 2020/21 (punto verde) bajo un escenario de reclutamiento promedio bajo [1997-2009] (panel superior), reclutamiento promedio histórico [1997-2020] (panel intermedio), reclutamiento promedio reciente [2010-2020] (panel inferior) y ponderadores de $F_{RMS}$ (1; 0,9 y 0,7). \textbf{Asesoría de septiembre 2020}}
+\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2018/19 (punto rojo), año actual 2019/20 (punto y cruz naranjo) y año proyectado 2020/21 (punto verde) bajo un escenario de reclutamiento promedio bajo [1997-2009] (panel superior), reclutamiento promedio histórico [1997-2020] (panel intermedio), reclutamiento promedio reciente [2010-2020] (panel inferior) y ponderadores de $F_{RMS}$ (1; 0,9 y 0,7). \textbf{Asesoría de septiembre 2021}}
 \label{Fig39}
 \end{figure}
 ```
 
-
 \pagebreak
 \normalsize
 
-### 4.3.3. Proyección del stock (Asesoría de marzo 2021)
-
-En relación al estatus 2020/21, en la asesoría anterior (septiembre 2020) la proyección mostraba una alta probabilidad (95%) de mantenerse en una condición de plena-explotación para el año 2020/21 (4% probabilidad de sobre-explotación y 0% probabilidad de colapso) (\textbf{Tabla \ref{Tab34}}) independiente de los escenario de reclutamiento futuros y ponderadores de F~RMS~ (\textbf{Figura \ref{Fig40}}). El incremento de los reclutamientos 2018/19 y 2019/20 junto al aumento de la biomasa adulta (1+ años) de anchoveta centro-sur durante los dos años previos y la baja probabilidad de sobre-explotación y colapso generan un escenario favorable para el stock de anchoveta el próximo año. La primera actualización del estatus 2020/21 realizada en la actual asesoría (marzo 2021) con información del crucero de verano 2021, confirman una condición de plena-explotación (98% de probabilidad). Se espera que anchoveta se mantenga en una condición de plena-explotación para el año 2021/22, no obstante, dado la disminución del reclutamiento estimado para el 2021 en torno al reclutamiento promedio más reciente (bajos), la probabilidad de mantenerse en la condición de plena-explotación disminuye a un 86%.
-
-\vspace{0.5cm}
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Incertidumbre del estatus actual 2020/21 y proyectado 2021/22 bajo tres escenarios de reclutamiento y ponderadores de $F_{RMS}$. \textbf{Asesoría de marzo 2021}.}
- \label{Tab34}
- \small
-    \centering
-    \resizebox{15cm}{!} {
-    \begin{tabular}{|l|l|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-Escenario       & Año         & Probabilidad de  & $F_{RMS}*1,0$ & $F_{RMS}*0,9$ & $F_{RMS}*0,7$ \\  \rowcolor{Gray3}
-Reclutamiento   & biológico   &  Estatus         &               &               &                \\ \hline
-\multirow{4}{1cm}{$R_{1997-2009}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,02    & 0,02    & 0,02 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,11   & 0,11  & 0,10 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{4}{1cm}{$R_{histórico}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,02    & 0,02    & 0,02 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,12   & 0,12  & 0,11 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{4}{1cm}{$R_{2010-2021}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,02    & 0,02    & 0,02 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,14   & 0,14  & 0,13 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-```{=tex}
-\vspace{-0.3cm}
-\scriptsize
-```
--   p[BD\<0,9BD~RMS~] = probabilidad de sobre-explotación
--   p[BD\<0,5BD~RMS~] = probabilidad de colapso
-
-
-\pagebreak
-
-
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.3\textwidth]{Figuras/Fig49-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig49-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig49-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig50-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig50-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig50-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig51-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig51-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig51-3.pdf}
-\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2019/20 (punto rojo), año actual 2020/21 (punto y cruz naranjo) y año proyectado 2021/22 (punto verde) bajo un escenario de reclutamiento promedio bajo [1997-2009] (panel superior), reclutamiento promedio histórico [1997-2020] (panel intermedio), reclutamiento promedio reciente [2010-2021] (panel inferior) y ponderadores de F~RMS~ (1; 0,9 y 0,7). \textbf{Asesoría de marzo 2021}.}
-\label{Fig40}
-\end{figure}
-```
-\normalsize
-\pagebreak
-
-### 4.3.4. Proyección del stock (Asesoría de julio 2021)
-
-En relación al estatus 2020/21, en la asesoría de septiembre 2020, la proyección mostraba una alta probabilidad (95%) de mantenerse en una condición de plena-explotación para el año 2020/21 (4% probabilidad de sobre-explotación y 0% probabilidad de colapso) (\textbf{Tabla \ref{Tab35}}) independiente de los escenario de reclutamiento futuros y ponderadores de F~RMS~ (\textbf{Figura \ref{Fig41}}). El incremento de los reclutamientos 2018/19 y 2019/20 junto al aumento de la biomasa adulta (1+ años) de anchoveta centro-sur durante los dos años previos y la baja probabilidad de sobre-explotación y colapso generan un escenario favorable para el stock de anchoveta el próximo año. La primera y segunda actualización del estatus 2020/21 realizada en marzo y julio 2021, con información del crucero de verano y otoño 2021, confirman una condición de plena-explotación (97% de probabilidad). Se espera que anchoveta se mantenga en una condición de plena-explotación para el año 2021/22, no obstante, dado la disminución del reclutamiento estimado para el 2021 en torno al reclutamiento promedio más reciente (bajos), la probabilidad de mantenerse en la condición de plena-explotación disminuye a un 85%.
-
-\vspace{0.5cm}
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Incertidumbre del estatus actual 2020/21 y proyectado 2021/22 bajo tres escenarios de reclutamiento y ponderadores de $F_{RMS}$. \textbf{Asesoría de julio 2021}.}
- \label{Tab35}
- \small
-    \centering
-    \resizebox{15cm}{!} {
-    \begin{tabular}{|l|l|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-Escenario       & Año         & Probabilidad de  & $F_{RMS}*1,0$ & $F_{RMS}*0,9$ & $F_{RMS}*0,7$ \\  \rowcolor{Gray3}
-Reclutamiento   & biológico   &  Estatus         &               &               &                \\ \hline
-\multirow{4}{1cm}{$R_{1997-2009}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,03    & 0,03    & 0,03 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,11   & 0,10  & 0,09 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{4}{1cm}{$R_{histórico}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,03    & 0,03    & 0,03 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,12   & 0,12  & 0,11 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{4}{1cm}{$R_{2010-2021}$} & \multirow{2}{1cm}{2020/21} &$p(sobre-explotación)$   & 0,03    & 0,03    & 0,03 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2021/22} & $p(sobre-explotación)$    & 0,15   & 0,14  & 0,13 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-\vspace{-0.3cm}
-\scriptsize
-```
--   p[BD\<0,9BD~RMS~] = probabilidad de sobre-explotación
--   p[BD\<0,5BD~RMS~] = probabilidad de colapso
-
-\pagebreak
-
-
-```{=tex}
-\begin{figure}[h!]
-\centering
-\includegraphics[width=0.3\textwidth]{Figuras/Fig52-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig52-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig52-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig53-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig53-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig53-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig54-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig54-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig54-3.pdf}
-\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2019/20 (punto rojo), año actual 2020/21 (punto y cruz naranjo) y año proyectado 2021/22 (punto verde) bajo un escenario de reclutamiento promedio bajo [1997-2009] (panel superior), reclutamiento promedio histórico [1997-2020] (panel intermedio), reclutamiento promedio reciente [2010-2021] (panel inferior) y ponderadores de $F_{RMS}$ (1,0.9 y 0.7). \textbf{Asesoría de julio 2021}.}
-\label{Fig41}
-\end{figure}
-```
-\normalsize
-\pagebreak
-
-
-
-
-
-```{=tex}
-\pagebreak
-\normalsize
-```
 ## 4.4. Objetivo específico 4:
 
 \vspace{-0.2cm}
