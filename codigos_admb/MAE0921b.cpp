@@ -563,9 +563,6 @@ model_parameters::model_parameters(int sz,int argc,char * argv[]) :
     YTP_p0W.initialize();
   #endif
   YTP_p0.allocate(1,nproy,"YTP_p0");
-  #ifndef NO_AD_INITIALIZE
-    YTP_p0.initialize();
-  #endif
   BD_p0.allocate(1,nproy,"BD_p0");
   RPR_p0.allocate(1,nproy,"RPR_p0");
   NVrecl_p0.allocate(1,nedades,"NVrecl_p0");
@@ -585,6 +582,7 @@ model_parameters::model_parameters(int sz,int argc,char * argv[]) :
     Bpel_p0.initialize();
   #endif
   CBA_c0.allocate("CBA_c0");
+  CBA_c0d.allocate("CBA_c0d");
   suma1.allocate("suma1");
   #ifndef NO_AD_INITIALIZE
   suma1.initialize();
@@ -1038,9 +1036,9 @@ void model_parameters::Eval_CTP(void)
     Np(2,nedades)=++elem_prod(Np(1,nedades-1),Sp(1,nedades-1));
     Np(nedades)+=Np(nedades)*Sp(nedades);
  // Escenarios de reclutamiento promedio
-    if(oprec==1){Np(1)=mean(Reclutas(1,nanos-11));} // reclutamiento promedio 1997-2009 (primeros 13 a?os)
+    if(oprec==1){Np(1)=mean(Reclutas(1,nanos-12));} // reclutamiento promedio 1997-2009 (primeros 13 a?os)
     if(oprec==2){Np(1)=mean(Reclutas);} // reclutamiento promedio hist?rico (1997-a?o m?s reciente)
-    if(oprec==3){Np(1)=mean(Reclutas(nanos-10,nanos));}  // reclutamiento promedio ?ltimos a?os a partir del 2010 (2010-a?o m?s reciente)
+    if(oprec==3){Np(1)=mean(Reclutas(nanos-11,nanos));}  // reclutamiento promedio ?ltimos a?os a partir del 2010 (2010-a?o m?s reciente)
     Npp = elem_prod(prop_est,Np);
     Wmedp=Wmedp_3;
 	Winp=Winip_3;
@@ -1063,6 +1061,7 @@ void model_parameters::Eval_CTP(void)
  // regla Fconstante=Frms (0 = Fconst, 1 = regla mixta, r = mismo a?o, p=proyectado)
     if(opProy==1){CBA_c0=prop(1)*YTP_r0+prop(2)*YTP_p0(1);}     // Opci?n 1: 1era y 2da revisi?n (para el mismo a?o)
     if(opProy==2){CBA_c0=prop(1)*YTP_p0(1)+prop(2)*YTP_p0(2); } // Opci?n 2: CBA inicial (proyecci?n de un a?o calendario)
+    if(opProy==2){CBA_c0d=prop(1)*(YTP_p0(1)*0.98)+prop(2)*(YTP_p0(2)*0.98); } 
 }
 
 void model_parameters::report(const dvector& gradients)
@@ -1159,6 +1158,8 @@ void model_parameters::report(const dvector& gradients)
   report << pred_Ctot << endl;
   report << "F" << endl;
   report << Ftot << endl;
+  report << "Np" <<endl;
+  report << Np <<endl;
   report << "YTP_r0W_actual" << endl;
   report << YTP_r0W << endl;
   report << "YTP_p0W_proyectada" << endl;

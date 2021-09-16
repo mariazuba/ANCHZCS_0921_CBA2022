@@ -302,7 +302,7 @@ PARAMETER_SECTION
   vector Zrms_p0(1,nedades);
   matrix CTP_p0(1,nproy,1,nedades);
   matrix YTP_p0W(1,nproy,1,nedades);
-  vector YTP_p0(1,nproy);
+  sdreport_vector YTP_p0(1,nproy);
   sdreport_vector BD_p0(1,nproy);
   sdreport_vector RPR_p0(1,nproy);
  
@@ -312,6 +312,7 @@ PARAMETER_SECTION
   vector Bpel_p0(1,nproy)
 
   sdreport_number CBA_c0
+  sdreport_number CBA_c0d
     
   number suma1
   number suma2
@@ -840,9 +841,9 @@ FUNCTION  Eval_CTP
     Np(nedades)+=Np(nedades)*Sp(nedades);
 //--------------------------------------------------------
  // Escenarios de reclutamiento promedio
-    if(oprec==1){Np(1)=mean(Reclutas(1,nanos-11));} // reclutamiento promedio 1997-2009 (primeros 13 a?os)
+    if(oprec==1){Np(1)=mean(Reclutas(1,nanos-12));} // reclutamiento promedio 1997-2009 (primeros 13 a?os)
     if(oprec==2){Np(1)=mean(Reclutas);} // reclutamiento promedio hist?rico (1997-a?o m?s reciente)
-    if(oprec==3){Np(1)=mean(Reclutas(nanos-10,nanos));}  // reclutamiento promedio ?ltimos a?os a partir del 2010 (2010-a?o m?s reciente)
+    if(oprec==3){Np(1)=mean(Reclutas(nanos-11,nanos));}  // reclutamiento promedio ?ltimos a?os a partir del 2010 (2010-a?o m?s reciente)
     Npp = elem_prod(prop_est,Np);
     Wmedp=Wmedp_3;
 	Winp=Winip_3;
@@ -874,7 +875,7 @@ FUNCTION  Eval_CTP
  // regla Fconstante=Frms (0 = Fconst, 1 = regla mixta, r = mismo a?o, p=proyectado)
     if(opProy==1){CBA_c0=prop(1)*YTP_r0+prop(2)*YTP_p0(1);}     // Opci?n 1: 1era y 2da revisi?n (para el mismo a?o)
     if(opProy==2){CBA_c0=prop(1)*YTP_p0(1)+prop(2)*YTP_p0(2); } // Opci?n 2: CBA inicial (proyecci?n de un a?o calendario)
-       
+    if(opProy==2){CBA_c0d=prop(1)*(YTP_p0(1)*0.98)+prop(2)*(YTP_p0(2)*0.98); } 
 
 //##############################################################################
 
@@ -996,6 +997,8 @@ REPORT_SECTION
   report << pred_Ctot << endl;
   report << "F" << endl;
   report << Ftot << endl;
+  report << "Np" <<endl;
+  report << Np <<endl;
   report << "YTP_r0W_actual" << endl;
   report << YTP_r0W << endl;
   report << "YTP_p0W_proyectada" << endl;
