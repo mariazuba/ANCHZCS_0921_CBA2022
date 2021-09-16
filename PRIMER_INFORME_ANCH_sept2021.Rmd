@@ -51,17 +51,15 @@ header-includes:
 
 # RESUMEN EJECUTIVO
 
-El presente informe contiene la segunda actualización del estatus del año biológico 2020/21 y la Captura Biológicamente Aceptable (CBA) del año calendario 2021 para el stock de anchoveta en la Unidad de Pesquería Centro-Sur (UPCS) de Chile (Región de Valparaíso a Región de Los Lagos) basado en un modelo en escala biológica. El análisis es actualizado con la siguiente información: (1) Estadísticas de desembarques de SERNAPESCA corregidas por IFOP los años 1998 al 2001, correspondiente al período 1996/97-2020/21. (2) El porcentaje de descarte obtenido mediante el Programa de Descarte de IFOP corresponde al período 2015-2019. (3) Información de captura a la edad y pesos individual es a la edad, proveniente del "Programa de Seguimiento de las Principales Pesquerías Nacionales (Pesquerías Pelágicas)" desde 1996/97 al 2020/21. (4) Series de biomasa acústicas y composiciones de edad de los cruceros de verano (años 2000-2021) y otoño (años 2003-2021) provenientes del programa de cruceros IFOP sobre evaluación hidroacústica del reclutamiento de anchoveta entre las Regiones de Valparaíso y Los Lagos. (5) Publicaciones cientíﬁcas y técnicas relacionadas con los parámetros del ciclo de vida (mortalidad natural y madurez).
+El presente informe contiene la  actualización del estatus del año biológico 2020/21 y la Captura Biológicamente Aceptable (CBA) del año calendario 2022 para el stock de anchoveta en la Unidad de Pesquería Centro-Sur (UPCS) de Chile (Región de Valparaíso a Región de Los Lagos) basado en un modelo en escala biológica. El análisis es actualizado con la siguiente información: (1) Estadísticas de desembarques de SERNAPESCA corregidas por IFOP los años 1998 al 2001, correspondiente al período 1996/97-2020/21. (2) El porcentaje de descarte obtenido mediante el Programa de Descarte de IFOP corresponde al período 2015-2019. (3) Información de captura a la edad y pesos individual es a la edad, proveniente del "Programa de Seguimiento de las Principales Pesquerías Nacionales (Pesquerías Pelágicas)" desde 1996/97 al 2020/21. (4) Series de biomasa acústicas y composiciones de edad de los cruceros de verano (años 2000-2021) y otoño (años 2003-2021) provenientes del programa de cruceros IFOP sobre evaluación hidroacústica del reclutamiento de anchoveta entre las Regiones de Valparaíso y Los Lagos. (5) Publicaciones cientíﬁcas y técnicas relacionadas con los parámetros del ciclo de vida (mortalidad natural y madurez).
 
-En relación a los datos de entrada al modelo de evaluación de stock, se observa que entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los últimos tres años 2019 al 2021 se consolida éste incremento con valores cercanos a las 588 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño, observandose una recuperación en la biomasa del stock desde el 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta en la UPCS, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre los años 2011/12 y 2017/18 se registran los desembarques más bajos de la serie, en torno a 62 mil toneladas en promedio. Para el 2018/19 se incrementan a 135 mil toneladas y para el año 2019/20 a 158 mil toneladas, un 16% mayor al año previo y para el año 2020/21 se incrementa a 205 mil toneladas, un 30% mayor al año previo y un 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20).
+En relación a los datos de entrada al modelo de evaluación de stock, se observa que entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los últimos tres años 2019 al 2021 se consolida éste incremento con valores cercanos a las 564 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño, observandose una recuperación en la biomasa del stock desde el 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta en la UPCS, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre los años 2011/12 y 2017/18 se registran los desembarques oficiales más bajos de la serie, en torno a 60 mil toneladas en promedio. Para el 2018/19 se incrementan a 136 mil toneladas y para el año 2019/20 a 158 mil toneladas, un 16% mayor al año previo y para el año 2020/21 se incrementa a 205 mil toneladas, un 30% mayor al año previo y un 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20).
 
 El modelo base utilizado en este estudio corresponde a un modelo anual en escala biológica el cual es eﬁciente en reproducir la tendencia general de la biomasa estimada en los cruceros hidroacústicos, especialmente a partir del año 2009/10. El análisis consigue ajustar apropiadamente la información de la proporción de edades en las capturas y cruceros de evaluación directa. Respecto a las variables poblacionales, el modelo en escala biológica es eﬁciente en recoger las ﬂuctuaciones en los indicadores del stock, los cuales son consistentes con la variabilidad en los reclutamientos y en los índices (cruceros de verano y otoño) que calibran el modelo de evaluación.
 
-El análisis histórico de la condición de anchoveta centro-sur muestra que entre los años 1996/97 al 2000/01 el stock se encontraba sobre-explotado con biomasas por debajo del objetivo de manejo ($BD<BD_{RMS}$). A partir del 2001/02 se incrementan los niveles de biomasa desovante, permitiendo que el stock transite y se mantenga en una condición de plena-explotación hasta el 2007/08. No obstante, los niveles de reclutamiento para el año 2008 se reducen drásticamente generando niveles de biomasa desovante por debajo del promedio histórico. Debido a la falla en los reclutamientos, desde el año 2009/10 el stock cambia drásticamente a una condición de colapso, manteniendose en ese estatus durante 8 años (2009/10 al 2016/17). A partir de 2017/18 se maniﬁesta una recuperación del stock, transitando por una condición de sobreexplotación los años 2017/18 y 2018/19 para alcanzar y mantenerse en plena-explotación durante los años 2019/20 y 2020/21. En términos de los niveles de mortalidad por pesca (Ft año^-1^), en general, se ha mantenido históricamente por sobre el nivel objetivo de referencia $F_{RMS}$, no obstante, a partir del año 2016/17, los niveles de Ft estuvieron bajo el objetivo de manejo.
+El análisis histórico de la condición de anchoveta centro-sur muestra que entre los años 1996/97 al 2000/01 el stock se encontraba sobre-explotado con biomasas por debajo del objetivo de manejo ($BD<BD_{RMS}$). A partir del 2001/02 se incrementan los niveles de biomasa desovante, permitiendo que el stock transite y se mantenga en una condición de plena-explotación hasta el 2007/08. No obstante, los niveles de reclutamiento para el año 2008 se reducen drásticamente generando niveles de biomasa desovante por debajo del promedio histórico. Debido a la falla en los reclutamientos, desde el año 2009/10 el stock cambia drásticamente a una condición de colapso, manteniendose en ese estatus durante 8 años (2009/10 al 2016/17). A partir de 2017/18 se maniﬁesta una recuperación del stock, transitando por una condición de sobreexplotación los años 2017/18 y 2018/19 para alcanzar y mantenerse en plena-explotación durante los años 2019/20 y 2020/21. En términos de los niveles de mortalidad por pesca (Ft año^-1^), en general, se ha mantenido históricamente por sobre el nivel objetivo de referencia $F_{RMS}$, no obstante, a partir del año 2016/17, los niveles de Ft estuvieron bajo el objetivo de manejo. Por lo tanto, el incremento de los reclutamientos de los años 2018/19 y 2019/20, más la disminución de la mortalidad por pesca por debajo del objetivo de manejo ($F<F_{RMS}$) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21 generan una condición de plenaexplotación con una baja probabilidad de sobreexplotación (3%), con un 9% de probabilidad de sobrepesca y con una alta probabilidad (entre un 85% y 89%) de mantenerse en una condición de plenaexplotación para el año 2021/22 (entre un 11% y 15% de probabilidad de sobreexplotación y 0% probabilidad de colapso). Aunque el estatus 2021/22 es promisorio, posiblemente generando expectativas sobre los niveles de excedentes pesqueros, debe considerarse referencial debido a su carácter de transitorio en espera de datos que confirmen el crecimiento de la población adulta.
 
-Por lo tanto, el incremento de los reclutamientos de los años 2018/19 y 2019/20, más la disminución de la mortalidad por pesca por debajo del objetivo de manejo ($F<F_{RMS}$) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21 generan una condición de plenaexplotación con una baja probabilidad de sobreexplotación (3%), con un 13% de probabilidad de sobrepesca y con una alta probabilidad (85%) de mantenerse en una condición de plenaexplotación para el año 2021/22 (15% probabilidad de sobreexplotación y 0% probabilidad de colapso). Aunque es estatus 2021/22 es promisorio, posiblemente generando expectativas sobre los niveles de excedentes pesqueros, debe considerarse referencial debido a su carácter de transitorio en espera de datos que confirmen el crecimiento de la población adulta.
-
-El rango de la Captura Biológicamente Aceptable (CBA) para el año calendario 2021 se obtiene bajo un criterio de explotación $F_{RMS}$, sujeto a percentiles de probabilidad entre el 10% y 50% de sobrepasar dicho criterio. Se asume que el 70% de la captura se obtendrá durante el primer semestre y que ocurrirá un 2% de descarte. De este modo, la captura para el año 2021 estimada bajo una condición de reclutamiento altos (período 1997-2009) y descontando el 2% de descarte alcanza un rango entre 186,9 mil toneladas y 203,6 mil toneladas. Considerando reclutamientos bajos (período 2010-2021), con el descuento del 2% de descarte el rango se encuentra entre 184,3 - 201,1 mil toneladas y bajo un escenario de reclutamiento promedio histórico el rango de captura se encuentre entre 185,8 - 202,5 mil toneladas.
+El rango de la Captura Biológicamente Aceptable (CBA) para el año calendario 2022 se obtiene bajo un criterio de explotación $F_{RMS}$, sujeto a percentiles de probabilidad entre el 10% y 50% de sobrepasar dicho criterio. Se asume que el 70% de la captura se obtendrá durante el primer semestre y que ocurrirá un 2% de descarte. De este modo, la captura para el año 2022 estimada bajo una condición de reclutamiento altos (período 1997-2009) y descontando el 2% de descarte alcanza un rango entre 157,6 mil toneladas y 207,3 mil toneladas. Considerando reclutamientos bajos (período 2010-2021), con el descuento del 2% de descarte el rango se encuentra entre 129,3 - 178,7 mil toneladas y bajo un escenario de reclutamiento promedio histórico el rango de captura se encuentre entre 144,1 - 193,6 mil toneladas.
 
 \pagebreak
 
@@ -87,7 +85,9 @@ Proveer la asesoría científica necesaria para la determinación del estado de 
 
 ## 2.1. Distribución del recurso
 
-La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa . \vspace{0.5cm}
+La anchoveta (*Engraulis ringens*) es reconocida junto con sardina común (*Strangomera bentincki*) como especies netamente costeras (distribución longitudinal no supera las 30 millas náuticas de la costa), neríticas (habitan profundidades menores a los 70 ó 50 m respectivamente), forman cardúmenes altamente densos y son especies fuertemente influenciadas por factores bióticos y abióticos (Aguayo & Soto 1978, Serra 1983, Cubillos & Arancibia 1993 a y b, Arancibia *et al*. 1994, Cubillos *et al*. 2001). Ambos recursos, sostienen una importante actividad pesquera industrial y cerquera artesanal en el litoral que abarca las regiones de Valparaíso (33°S) y Los Lagos (42°S), siendo los principales puertos de desembarque; San Antonio (Región de Valparaíso), Coronel, San Vicente y Talcahuano ( Región del Bio-Bio), Corral (Región de Los Ríos) y Calbuco y Puerto Montt (Región de Los Lagos) (\textbf{Figura \ref{Fig1}}). Los mayores desembarques se registran en un 90 y 95% entre las regiones de Valparaíso y Bio-Bio (San Antonio, Talcahuano y Coronel). La actividad pesquera opera en profundidades que no sobrepasan los 50 m y en un margen costero en promedio próximo a las 30 millas náuticas desde la costa . 
+
+\vspace{0.5cm}
 
 
 ```{=tex}
@@ -263,7 +263,7 @@ AÑO  & CBA inicial  & 1era revisión CBA  & 2da revisión CBA  & Desembarques  
 2018 & 49.440     & 49.440           & 59.500          & 61.176   & 1,03 veces la CBA \\ \rowcolor{Gray4}
 2019 & 81.347     & 120.500          & 127.150         & 160.968  & 1,27 veces la CBA \\
 2020 & 162.876    & 162.876          & 162.876         & 166.031  & 1,02 veces la CBA \\  \rowcolor{Gray4}
-2021 & 210.167    & 210.167          & -               & 155.982*  & 0,74* veces la CBA \\ \hline
+2021 & 210.167    & 210.167          & 210.167         & 155.982*  & 0,74* veces la CBA \\ \hline
   \end{tabular}}
         \end{table}
 ```
@@ -344,7 +344,7 @@ Existen algunos antecedentes que señalan que los desembarques del primer semest
 #### *Sub-reporte*
 \quad
 
-El año 2016 la Pontificia Universidad Católica de Chile desarrolló un proyecto orientado a la corrección de las capturas totales históricas de la pesquería de sardina común y anchoveta V-X Regiones (Wiff *et al*. 2017, Proyecto CUI 2015-72-DAP-27) y recientemente IFOP realizó un estudio de remociones totales en la flota artesanal que opera con red de cerco entre la Región de Valparaíso y la Región de los Ríos orientando sus capturas a pequeños pelágicos (Vega *et al*. 2019). Para propósitos de la evaluación de stock, esta información será analizada en el transcurso de este proyecto, con el objeto definir la metodología a utilizar para la corrección de las capturas y de este modo disminuir la incertidumbre respecto al nivel real de captura de estos recursos. Al respecto, actualmente se están desarrollando reuniones de trabajo colaborativas entre los equipos técnicos de seguimiento y evaluación de stock de IFOP, INPESCA y SUBPESCA, para trabajar en una propuesta de desembarques corregidos para anchoveta y sardina común de la zona centro-sur. Adicionalmente, en **ANEXO II** de este informe se presenta el Programa de mejoramiento continuo que incluirá en las próximas asesorías un análisis de sensibilidad utilizando la serie de captura corregida del Wiff *et al* (2017), como análisis preliminar para evaluar el efecto en las tendencias y magnitudes poblacionales de anchoveta.
+El año 2016 la Pontificia Universidad Católica de Chile desarrolló un proyecto orientado a la corrección de las capturas totales históricas de la pesquería de sardina común y anchoveta V-X Regiones (Wiff *et al*. 2017, Proyecto CUI 2015-72-DAP-27) y recientemente IFOP realizó un estudio de remociones totales en la flota artesanal que opera con red de cerco entre la Región de Valparaíso y la Región de los Ríos orientando sus capturas a pequeños pelágicos (Vega *et al*. 2019). Para propósitos de la evaluación de stock, esta información será analizada en el transcurso de este proyecto, con el objeto definir la metodología a utilizar para la corrección de las capturas y de este modo disminuir la incertidumbre respecto al nivel real de captura de estos recursos. Al respecto, actualmente se están desarrollando reuniones de trabajo colaborativas entre los equipos técnicos de seguimiento y evaluación de stock de IFOP, INPESCA y SUBPESCA, para trabajar en una propuesta de desembarques corregidos para anchoveta y sardina común de la zona centro-sur. Adicionalmente, en **ANEXO I** de este informe se presenta el Programa de mejoramiento continuo que incluirá en las próximas asesorías un análisis de sensibilidad utilizando la serie de captura corregida del Wiff *et al* (2017), como análisis preliminar para evaluar el efecto en las tendencias y magnitudes poblacionales de anchoveta.
 
 #### *Descarte*
 \quad
@@ -363,16 +363,16 @@ En este sentido, Zúñiga *et al* (2018b) exponen algunos escenarios posibles pa
 En este informe se actualiza el descarte  correspondiente a los años biógicos 2017/18, 2018/19 y 2019/20, considerando que el modelo de evaluación de stock de anchoveta de la zona centro-sur utiliza información en año biológico (Zúñiga *et al*. 2020 y 2021), por lo tanto, se requieren datos de descarte semestrales para la flota total para ser utilizados en la corrección del desembarque en año biológico (\textbf{Tabla \ref{Tab4a}}). Para los años en que no se cuente con información se utilizará un supuesto que fue acordado en la primera sesión
 del CCT-PP (Acta No1 2021, https://www.subpesca.cl/portal/616/articles-110238_documento.pdf) en 2% para anchoveta. Estos porcentajes serán utilizados para corregir el desembarque cuando no se tenga información del descarte y para asumir un porcentaje de descarte proyectado para incorporar en la proyección de la CBA (\textbf{Tabla \ref{Tab4b}}). Los supuestos utilizados para anchoveta se describen a continuación:
 
-\underline{Supuestos para asesoría de marzo y julio 2021 (2do y 3er Hito CBA 2021):}
+\underline{Supuestos para asesoría de marzo y julio 2022 (2do y 3er Hito CBA 2022):}
 
-- El supuesto 1 de descarte propuesto para la corrección del desembarque 2020/21 para flota total y
+- El supuesto 1 de descarte propuesto para la corrección del desembarque 2021/22 para flota total y
 zona total se obtiene del promedio de los años biológicos 2017/18 - 2019/20 (\textbf{Tabla \ref{Tab4c}}).
-- El supuesto 2 de descarte propuesto para la proyección de la CBA 2021/2022 para la flota total y zona
+- El supuesto 2 de descarte propuesto para la proyección de la CBA 2022/2023 para la flota total y zona
 total se obtiene del promedio de los años biológicos 2017/18 - 2019/20 (\textbf{Tabla \ref{Tab4c}}).
 
 [^3]: <http://www.subpesca.cl/portal/616/articles-98715_documento.pdf>
 
-Mayores detalles del procedimiento transitorio de incorporación del descarte a los desembarques y Captura Biológicamente Aceptable de la pesquería de cerco de peces pelágicos pequeños se encuentra en **ANEXO III**.
+
 \pagebreak
 
 ```{=tex}
@@ -471,8 +471,8 @@ Mayores detalles del procedimiento transitorio de incorporación del descarte a 
                & 2018/2019     & 117.134  & 2.455       & 2,1\% \\
                & 2019/2020     & 104.310  & 1.669       & 1,6\% \\ \hline \rowcolor{Gray4}
  Supuestos     &               &          &             &   \\ \hline
- 1. Corrección del desembarque & 2020/2021 & 104.673 & 1.821 & 2\% \\
- 2. Proyección de la CBA       & 2021/2022 & 104.673 & 1.821 & 2\% \\ \hline
+ 1. Corrección del desembarque & 2021/2022 & 104.673 & 1.821 & 2\% \\
+ 2. Proyección de la CBA       & 2022/2023 & 104.673 & 1.821 & 2\% \\ \hline
    \end{tabular}}
         \end{table}
 ```
@@ -483,6 +483,8 @@ Mayores detalles del procedimiento transitorio de incorporación del descarte a 
 \vspace{0.5cm}
 \normalsize
 ```
+
+
 
 
 #### Seguimiento de la pesquería
@@ -536,7 +538,7 @@ La composición de edad/talla del crucero, denominada también como estructura d
 
 A partir de mayo de 2003, se han realizado evaluaciones acústicas de ambos recursos a través de cruceros de otoño (PELACES). La estimación de abundancia y biomasa por grupo de talla es similar al procedimiento del crucero de verano. Las biomasas estimadas a través de estos cruceros son empleadas en el proceso de evaluación de stock como índices de abundancia poblacional (proporcionales a la biomasa) de verano y otoño, respectivamente. La biomasa estimada por el modelo corresponde aquella fracción de la población sujeta a la selectividad de los cruceros que son asumidos distintos entre verano y otoño, pero constantes en el tiempo. Sin embargo, algunos años de las evaluaciones acústicas de otoño (PELACES), no son muy consistentes en términos del área cubierta y periodo del año en que se realizaban (mayo de 2003, marzo-abril y mayo-junio de 2005, y mayo-junio de 2015), por lo tanto, los cambios en abundancia de estos años podrían estar influenciadas por la disponibilidad del recurso más que por cambios reales en abundancia. En efecto, la época del año en que se realiza la prospección difiere entre años, con desfase de un mes. Asimismo, las áreas prospectadas son diferentes al crucero de verano, y el arte de pesca empleado en los lances también difiere, siendo en este periodo solo captura de cerco. Finalmente, no se dispone de lectura de edades para el periodo 2003 -- 2006. De este modo, se eliminan los datos de biomasa acústicas del crucero de otoño (PELACES) correspondientes a los años 2003, 2005 y 2015, además de la estructura de edad del año 2015 por las razones antes expuestas. 
 
-
+\newpage
 
 ```{=tex}
 \begin{figure}[h!]
@@ -547,7 +549,7 @@ A partir de mayo de 2003, se han realizado evaluaciones acústicas de ambos recu
 \end{figure}
 ```
 
-\pagebreak
+
 
 #### *Parámetros de historia de vida*
 \quad
@@ -559,7 +561,7 @@ Para la implementación del procedimiento de evaluación se recoge el conocimien
 #### *Descripción del modelo base*
 \quad
 
-El modelo de evaluación de stock actual de anchoveta en la UPCS se basa en el análisis estadístico de la dinámica de estructuras de edad anual y pesos medios a la edad estimados del muestreo de tallas de los desembarques (período 1996/97 -- 2020/21) y de los cruceros acústicos de verano (RECLAS, desde 2001 - 2021) y otoño (PELACES, desde 2007 - 2021) y acústicos (biomasa de reclutas en verano, desde 2000 -2021 y biomasa vulnerable en otoño, desde 2003 al 2021) y los desembarques totales (período 1996/97 -- 2020/21). Las fuentes de información utilizados en la evaluación de anchoveta se resumen en la \textbf{Tabla \ref{Tab4}}. Adicionalmente, en la **Sección 3.3.1.** de este informe se detallan los datos utilizados en las distintas etapas de estimación de la CBA 2021. \vspace{0.5cm}
+El modelo de evaluación de stock actual de anchoveta en la UPCS se basa en el análisis estadístico de la dinámica de estructuras de edad anual y pesos medios a la edad estimados del muestreo de tallas de los desembarques (período 1996/97 -- 2020/21) y de los cruceros acústicos de verano (RECLAS, desde 2001 - 2021) y otoño (PELACES, desde 2007 - 2021) y acústicos (biomasa de reclutas en verano, desde 2000 -2021 y biomasa vulnerable en otoño, desde 2003 al 2021) y los desembarques totales (período 1996/97 -- 2020/21). Las fuentes de información utilizados en la evaluación de anchoveta se resumen en la \textbf{Tabla \ref{Tab4}}. Adicionalmente, en la **Sección 3.3.1.** de este informe se detallan los datos utilizados en las distintas etapas de estimación de la CBA 2022. \vspace{0.5cm}
 
 ```{=tex}
 \begin{table}[h!]
@@ -600,7 +602,7 @@ Mortalidad natural           & Constante                          & Cubillos \te
 ```
 \normalsize
 
-\pagebreak
+\newpage
 
 La población de anchoveta centro-sur constituye una unidad de stock en el cual las variaciones se explican por capturas, reclutamientos, mortalidad natural y por pesca, la información es agregada en año biológico de manera que los cruceros de verano (enero) representan la situación de la población a mitad del año y los de otoño, a la biomasa poco antes del término del período anual (mayo). Por otra parte, el peso a mitad del año biológico (peso medio) es empleado para generar las estimaciones tanto del crucero de verano como de los desembarques, mientras que el peso calculado a inicios del año biológico (inicios de julio) representarían el peso de la biomasa desovante que ocurre en agosto y los cruceros de otoño que ocurren en mayo (\textbf{Tabla \ref{Tab5}}). \vspace{0.3cm}
 
@@ -962,7 +964,7 @@ Con respecto a la capturabilidad del crucero de otoño, esta era estimada en tor
 
 \quad
 
-El modelo de la dinámica poblacional fue programado en la plataforma AD Model Builder (Fournier *et al*. 2012). Todos los códigos fuente y datos empleados en la evaluación son debidamente documentados e informados detalladamente, incluyendo su versión digital, estableciéndose una numeración específica para cada versión. Cualquier modificación del modelo y/o de su correspondiente código es reportada en el informe respectivo, dejando constancia de las versiones que se emplearon hasta la fecha en que se emite el informe y definiendo específicamente la versión que se empleará en éste, para fines de revisiones posteriores. Los códigos MAE0920b, MAE0321b y MAE0721b, fueron compilados en "macOS Big Sur Versión 11,4" y en "ADMB Versión 12,2". Los parámetros del modelo MAE0721b fueron = 66, valor de la función objetivo = 670,423767812819  y el Maximum gradient component = 2,70187414007781e-05. Respecto a la convergencia de los modelos, hemos encontrado diferencias en los modelos compilados en Windows y MAC, lo cual esperamos resolver en el transcurso de las próximas asesorías, por lo tanto, la base de datos incluirá los códigos .dat y .tpl junto a los reportes (.rep, .std y .par) obtenidos en MAC.
+El modelo de la dinámica poblacional fue programado en la plataforma AD Model Builder (Fournier *et al*. 2012). Todos los códigos fuente y datos empleados en la evaluación son debidamente documentados e informados detalladamente, incluyendo su versión digital, estableciéndose una numeración específica para cada versión. Cualquier modificación del modelo y/o de su correspondiente código es reportada en el informe respectivo, dejando constancia de las versiones que se emplearon hasta la fecha en que se emite el informe y definiendo específicamente la versión que se empleará en éste, para fines de revisiones posteriores. El código MAE0921b, fueron compilados en "macOS Big Sur Versión 11,4" y en "ADMB Versión 12,2". Los parámetros del modelo MAE0721b fueron = 66 Objective function value = 670.630498170159  Maximum gradient component = 0.000192498820077741. Respecto a la convergencia del modelo, fue compilado en Windows y MAC, sin encontrar diferencias. La base de datos incluirá los códigos .dat y .tpl junto a los reportes (.rep, .std y .par) obtenidos en MAC y Windows.
   
  \vspace{0.5cm}
  
@@ -980,7 +982,7 @@ Corresponde a la presentación gráfica del ajuste del modelo a los datos observ
 
 Se entregará los residuales frente a los valores predichos para ver si la varianza residual es constante, los residuales del modelo frente a las variables explicativas (año) para determinar si la varianza es homogénea entre los años, un histograma de los residuos para ver si hay normalidad y un diagrama qqplot de los residuos que indica linealidad.
 
- \vspace{0.5cm}
+\pagebreak
  
 ##### *Análisis retrospectivo tradicional*
 \quad
@@ -1241,7 +1243,7 @@ puntos_quiebres<-fitted(fm1)
 
 \vspace{0.5cm}
 
-La  \textbf{Figura \ref{Fig12}} muestra tres niveles de reclutamiento detectados por el análisis de quiebres de la serie histórica: a) un escenario favorable que consiste en el reclutamiento promedio del período 1997-2009 (59 mil millones de ind.), b) un escenario desfavorable que corresponde al promedio de los reclutamientos del período 2010 - 2021 (25,7 mil millones de ind.) y un escenario que representa el reclutamiento promedio histórico (1997-2021) (43 mil millones de ind.). \vspace{0.5cm}
+La  \textbf{Figura \ref{Fig12}} muestra tres niveles de reclutamiento detectados por el análisis de quiebres de la serie histórica: a) un escenario favorable que consiste en el reclutamiento promedio del período 1997-2009 (59 mil millones de ind.), b) un escenario desfavorable que corresponde al promedio de los reclutamientos del período 2010 - 2021 (25,4 mil millones de ind.) y un escenario que representa el reclutamiento promedio histórico (1997-2021) (43 mil millones de ind.). \vspace{0.5cm}
 
 \pagebreak
 
@@ -1276,6 +1278,8 @@ En relación a los pesos medios a la edad utilizados en la proyección del stock
 ```
 
  \normalsize
+ 
+\pagebreak
 
 Los pasos siguientes son proyectar la población para la estimación de la Captura en número y peso con una estrategia de explotación que consiste en aplicar una tasa de explotación constante, equivalente a la mortalidad por pesca F~RMS~ en año biológico (\textbf{Tabla \ref{Tab14}}). \vspace{0.5cm}
 
@@ -1331,37 +1335,60 @@ Considerando que el modelo de evaluación de stock actual de anchoveta centro-su
 
 [^7]: <https://www.subpesca.cl/portal/616/articles-109471_documento.pdf>
 
-\vspace{-0.5cm}
+
 
 
 ```{=tex}
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.8\textwidth]{Figuras/Fig14-1.pdf}
+\includegraphics[width=0.65\textwidth]{Figuras/Fig14-1.pdf}
 \caption{Serie histórica de la proporción de los desembarques durante el primer semestre de anchoveta de las regiones de Valparaíso a Los Lagos.}
 \label{Fig14}
 \end{figure}
 ```
 
+\normalsize
+
+#### Paso 4: Incorporación del descarte en la CBA
+\quad
+
+La actual Ley General de Pesca y Acuicultura (LGPA, N° 18.892) persigue la conservación y el uso sustentable de los recursos pesqueros mediante la aplicación del enfoque precautorio y ecosistémico, garantizando el resguardo de los ecosistemas marinos. En este contexto, el Artículo 7°B de la LGPA indica que no podrá realizarse el descarte de individuos de una especie objetivo, cualquiera sea su régimen de acceso, y su fauna acompañante, salvo que se i) haya fijado una cuota global anual de captura para la especie objetivo y, ii) que en el proceso de establecimiento de la cuota global anual de captura se haya considerado el descarte, entre otras restricciones indicadas por el citado artículo.
+
+Para dar cumplimiento a esta normativa se estima una $CBA_{total}$ que da cuenta de toda la mortalidad por pesca incluido el descarte. El CCT-PP debe establecer el rango de CBA que se construye a partir de una CBA máxima ($CBA_{max}$), es decir, el rango por ley es ($0,8*CBA_{max}; CBA_{max}$). Esta $CBA_{max}$, deberá estimarse a partir de la $CBA_{total}$ descontando el porcentaje de descarte supuesto para el año 2022. La proporción del descarte (pd) supuesto para el año 2022 y que deberá ser descontado de la $CBA_{total}$ para establecer la $CBA_{max}$.
+
+
+```{=tex}
+\begin{equation}
+CBA_{max}=CBA_{total}-pd*CBA_{total}
+\end{equation}
+```
+
+\vspace{0.5cm}
 
 \normalsize
 
-\pagebreak
 
 \underline{Percentiles de probabilidad de sobrepasar el objetivo de manejo $F_{RMS}$}
 
 \quad
 
-Se considera el establecimiento de un percentil entre un 10% - 50% de probabilidad de sobrepasar el objetivo de manejo igual a F~RMS~. El percentil corresponde a una distribución de probabilidad acumulada y representa la probabilidad de estar en sobrepesca ( \textbf{Figura \ref{Fig15}}). El CCT-PP determina el rango de CBA seleccionado el percentil de probabilidad y escenario de reclutamiento proyectado. Dado la alta incertidumbre existente en el momento de definir la CBA inicial, el CCT-PP selecciona el escenario de reclutamiento más precautorio y un percentil de probabilidad inferior al 50%. Este percentil de probabilidad es equivalente a un nivel de resguardo que se calcula a partir de la captura estimada para cada percentil de probabilidad y la captura al RMS, de este modo, se tiene un nivel de referencia de cuanto se está resguardando considerando el hito de revisión de CBA o condición del recurso. \vspace{0.5cm}
+Se considera el establecimiento de un percentil entre un 10% - 50% de probabilidad de sobrepasar el objetivo de manejo igual a F~RMS~. El percentil corresponde a una distribución de probabilidad acumulada y representa la probabilidad de estar en sobrepesca ( \textbf{Figura \ref{Fig15}}). El CCT-PP determina el rango de CBA seleccionado el percentil de probabilidad y escenario de reclutamiento proyectado. Dado la alta incertidumbre existente en el momento de definir la CBA inicial, el CCT-PP selecciona el escenario de reclutamiento más precautorio y un percentil de probabilidad inferior al 50%. Este percentil de probabilidad es equivalente a un nivel de resguardo que se calcula a partir de la captura estimada para cada percentil de probabilidad y la captura al RMS, de este modo, se tiene un nivel de referencia de cuanto se está resguardando considerando el hito de revisión de CBA o condición del recurso. 
+
+
+\vspace{0.5cm}
 
 ```{=tex}
 \begin{equation}
 Resguardo = 1-\frac{Captura(i)}{Captura_{RMS}}, i = percentil.de.captura (10\% ...50\%)
 \end{equation}
 ```
+
+\vspace{0.5cm}
+
 \normalsize
 
 Donde la Captura(i) es la capturara estimada para cada percentil de probabilidad (10% - 50%) y Captura~RMS~ corresponde a la media (50% probabilidad).
+
 \vspace{0.5cm}
 
 ```{=tex}
@@ -1375,26 +1402,12 @@ Donde la Captura(i) es la capturara estimada para cada percentil de probabilidad
 
  \normalsize
 
-#### Paso 4: Incorporación del descarte en la CBA
-\quad
-
-La actual Ley General de Pesca y Acuicultura (LGPA, N° 18.892) persigue la conservación y el uso sustentable de los recursos pesqueros mediante la aplicación del enfoque precautorio y ecosistémico, garantizando el resguardo de los ecosistemas marinos. En este contexto, el Artículo 7°B de la LGPA indica que no podrá realizarse el descarte de individuos de una especie objetivo, cualquiera sea su régimen de acceso, y su fauna acompañante, salvo que se i) haya fijado una cuota global anual de captura para la especie objetivo y, ii) que en el proceso de establecimiento de la cuota global anual de captura se haya considerado el descarte, entre otras restricciones indicadas por el citado artículo.
-
-Para dar cumplimiento a esta normativa se estima una $CBA_{total}$ que da cuenta de toda la mortalidad por pesca incluido el descarte. El CCT-PP debe establecer el rango de CBA que se construye a partir de una CBA máxima ($CBA_{max}$), es decir, el rango por ley es ($0,8*CBA_{max}; CBA_{max}$). Esta $CBA_{max}$, deberá estimarse a partir de la $CBA_{total}$ descontando el porcentaje de descarte supuesto para el año 2021. La proporción del descarte (pd) supuesto para el año 2021 y que deberá ser descontado de la $CBA_{total}$ para establecer la $CBA_{max}$.
-
-```{=tex}
-\begin{equation}
-CBA_{max}=CBA_{total}-pd*CBA_{total}
-\end{equation}
-\vspace{0.5cm}
-```
-\normalsize
 
 ### 3.3.2. Proyección del stock
 
-Se analiza las probables trayectorias de la biomasa desovante como consecuencia de la aplicación de mortalidad por pesca igual a F~RMS~ y dos ponderadores de F~RMS~ igual a 0,9 y 0,7, considerando la incertidumbre del estatus (e.g. matriz de varianza/covarianza de ADMB) y los posibles estados de la naturaleza a futuro (e.g. niveles probables de reclutamiento futuro, escenarios de reclutamiento). Lo anterior permite analizar los niveles de riesgo de no alcanzar el objetivo de manejo BD~RMS~ en el mediano plazo (2 años biológicos hacia el futuro), considerando la incertidumbre del estatus (probabilidad de sobre-explotación y/o colapso) y los probables estados de la naturaleza a futuro.
+Se analiza las probables trayectorias de la biomasa desovante como consecuencia de la aplicación de mortalidad por pesca igual a F~RMS~, considerando la incertidumbre del estatus (e.g. matriz de varianza/covarianza de ADMB) y los posibles estados de la naturaleza a futuro (e.g. niveles probables de reclutamiento futuro, escenarios de reclutamiento). Lo anterior permite analizar los niveles de riesgo de no alcanzar el objetivo de manejo BD~RMS~ en el mediano plazo (2 años biológicos hacia el futuro), considerando la incertidumbre del estatus (probabilidad de sobre-explotación y/o colapso) y los probables estados de la naturaleza a futuro.
 
-\pagebreak
+
 
 ## 3.4. Objetivo específico 4:
 
@@ -1481,11 +1494,11 @@ El período de análisis de la evaluación de stock comienza en 1996/97 hasta el
 
 \quad
 
-Entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los últimos tres años 2019 al 2021 se consolida éste incremento con valores cercanos a las 588 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño. Sin embargo, en este estudio, la recuperación en la biomasa del stock se apreció a partir del año 2016, observandose una recuperación en la biomasa del stock desde el 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta de las Regiones de Valparaíso a Los Lagos, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre el 2011/12 y 2017/18 se registran desembarques en torno a 62 mil toneladas en promedio. Para el 2018/19 se incrementan a 135 mil toneladas, para el año 2019/20 a 160 mil toneladas, un 16% mayor al año previo, y para el año 2020/21 se incrementa 205 mil toneladas, un 30% mayor al año previo y 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20) (\textbf{Tabla \ref{Tab16}} y \textbf{Figura \ref{Fig17}}). La pesquería está sustentada principalmente por la abundancia de los grupos de edad (GE) 1 y 2. A partir del 2017 el GE 0 muestra una tendencia al incremento, sin embargo, para el 2020/21 su aporte a la abundancia total es inferior al 10%. Respecto a los pesos medios, para el GE 0 se encuentra en torno a los 10-15 grs, para el GE 1 en los 20-25 grs en promedio. Desde el año 2014 se observa un incremento en esta variable en todos los GE, excepto en los ejemplares de edad 0 (\textbf{Figura \ref{Fig18}} y \textbf{ \ref{Fig19}}).
+Entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los últimos tres años 2019 al 2021 se consolida éste incremento con valores cercanos a las 564 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño. Sin embargo, en este estudio, la recuperación en la biomasa del stock se apreció a partir del año 2016, observandose una recuperación en la biomasa del stock desde el 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta de las Regiones de Valparaíso a Los Lagos, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre el 2011/12 y 2017/18 se registran desembarques oficiales en torno a 60 mil toneladas en promedio. Para el 2018/19 se incrementan a 136 mil toneladas, para el año 2019/20 a 158 mil toneladas, un 16% mayor al año previo, y para el año 2020/21 se incrementa 205 mil toneladas, un 30% mayor al año previo y 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20) (\textbf{Tabla \ref{Tab16}} y \textbf{Figura \ref{Fig17}}). La pesquería está sustentada principalmente por la abundancia de los grupos de edad (GE) 1 y 2. A partir del 2017 el GE 0 muestra una tendencia al incremento, sin embargo, para el 2020/21 su aporte a la abundancia total es inferior al 10%. Respecto a los pesos medios, para el GE 0 se encuentra en torno a los 10-15 grs, para el GE 1 en los 20-25 grs en promedio. Desde el año 2014 se observa un incremento en esta variable en todos los GE, excepto en los ejemplares de edad 0 (\textbf{Figura \ref{Fig18}} y \textbf{ \ref{Fig19}}).
 
 En relación a la información proveniente de los cruceros acústicos, la composición de edad registrada por el estudio de verano muestra que el GE 0 representa en torno al 67% de la captura en número, mientras que el crucero de otoño muestra mayor variabilidad y un aporte cercano al 60% del grupo de edad 0 (\textbf{Figura \ref{Fig20}} y \textbf{\ref{Fig21}}). La biomasa estimada por el crucero acústico de otoño 2021 está sustentada principalmente por peces de edad 0 y 1 (47% y 45% respectivamente).
 
-\pagebreak
+\newpage
 
 ```{=tex}
 \begin{table}[h!]
@@ -1540,7 +1553,7 @@ calendario   & de Verano       & de otoño         & MPDH                 \\ \hl
     \begin{tabular}{|c|c|c|c|c|}
     \hline \rowcolor{Gray3}
 Año         & Desembarques    & Porcentaje    & Carptura         & Captura    \\  \rowcolor{Gray3}
-biológico   & toneladas       & Descarte      & descartada t     & total t    \\ \hline
+biológico   & toneladas       & Descarte      & descartada       & total     \\ \hline
 1996-97     &   350.755        &   0\%        &   0              & 350.755    \\ \rowcolor{Gray4}
 1997-98     &   77.701         &   0\%        &   0              & 77.701      \\
 1998-99     &   442.110        &   0\%        &   0              & 442.110      \\ \rowcolor{Gray4}
@@ -1645,24 +1658,24 @@ biológico   & toneladas       & Descarte      & descartada t     & total t    \
 #### Proceso de actualización de datos
 \quad
 
-Cada proceso de revisión de CBA involucra la actualización y/o supuestos de datos para evaluar el impacto en las variables de estado asociado a la incorporación incremental de piezas de información. Al respecto, la actualización de datos de la asesoría actual corresponde principalmente a la información de la flota del año biológico 2020/21 (desembarques, descarte, composición de edad, pesos medios) y la incorporación de datos del crucero acústico de otoño 2021 correspondiente a la biomasa total y composición de edad.
+Cada proceso de revisión de CBA involucra la actualización y/o supuestos de datos para evaluar el impacto en las variables de estado asociado a la incorporación incremental de piezas de información. Al respecto, la actualización de datos de la asesoría actual corresponde principalmente a la información de la composición de edad y pesos medios de la flota del año biológico 2020/21.
 
-La información actualizada en la presente evaluación es presentada en la \textbf{Figura \ref{Fig21a}}.  La composición de edad registrada por la flota comercial durante el año biológico 2020/21, muestra que la captura estuvo sostenida principalmente por peces de edad 1, registrándose una baja proporción de peces capturados de edad 0 (menor al 10%) \textbf{Figura \ref{Fig21a}}. Respecto a la actualización de los pesos medios a la edad registrados durante el año 2020/21 \textbf{Figura \ref{Fig21a}}, se observa un incremento de un 38% en el peso de individuos de edad 0 y una disminución del 5% apróx. en peces de edad 1 a 3 años, registrándose una mayor diferencia en el grupo de edad 4, 16% menor respecto a los pesos medios supuestos en la asesoría de marzo 2021. No obstante, el aporte de los grupos de edad 3 y 4, la abundancia total es menor al 10%. 
+La composición de edad registrada por la flota comercial a junio 2021, muestra que la captura estuvo sostenida principalmente por peces de edad 1 y 2, registrándose una baja proporción de peces capturados de edad 0, 3 y 4 (menos del 10%) \textbf{Figura \ref{Fig21a}}. Respecto a la actualización de los pesos medios a la edad registrados a junio 2021 \textbf{Figura \ref{Fig21a}}, se observa incremento del 7% aprox. en los grupos de edad 1 a 4 años.
 
-
+\vspace{0.5cm}
 
 ```{=tex}
 \begin{figure}
 \centering
-\includegraphics[width=0.6\textwidth]{Figuras/Fig3_anexoI-1.pdf}
-\caption{ Comparación entre la proporción de edad de la flota y los pesos medios a la edad de anchoveta de las Regiones de Valparaíso a Los Lagos. Se compara la información utilizada en la asesoría de julio y septiembre 2021.}
+\includegraphics[width=0.7\textwidth]{Figuras/Fig3_anexoI-1.pdf}
+\caption{Comparación entre la proporción de edad de la flota y los pesos medios a la edad de anchoveta de las regiones de Valparaíso a Los Lagos. Se compara la información utilizada en la asesoría de julio y septiembre 2021.}
 \label{Fig21a}
 \end{figure}
 ```
+\vspace{0.5cm}
 
-\pagebreak
+Para mantener la consistencia en el proceso de evaluación del stock y estimación de CBA, se utilizó un modelo edad estructurado igual al usado en las asesorías previas (julio 2021 y marzo 2021). Con objeto de evaluar el impacto en las variables de estado debido a la incorporación de nuevos datos, se realizó un proceso incremental de incorporación de piezas de información de acuerdo a la \textbf{Tabla \ref{Tab16a}}.
 
-Para mantener la consistencia en el proceso de evaluación del stock y estimación de CBA, se utilizó un modelo edad estructurado igual al usado en las asesorías previas (septiembre 2020 y marzo 2021). Con objeto de evaluar el impacto en las variables de estado debido a la incorporación de nuevos datos, se realizó un proceso incremental de incorporación de piezas de información de acuerdo a la \textbf{Tabla \ref{Tab16a}}.
 
 \vspace{0.5cm}
 
@@ -1676,7 +1689,7 @@ Para mantener la consistencia en el proceso de evaluación del stock y estimaci�
     \begin{tabular}{|c|l|}
     \hline \rowcolor{Gray3}
  Casos         & Descripción                                                            \\ \hline
- \textbf{$1_{MAE0721}$} & Caso base asesoría julio 2021                                      \\
+ \textbf{$1_{MAE0721b}$} & Caso base asesoría julio 2021                                      \\
  2             & Actualiza composición de edad de la flota a junio 2021    \\ \rowcolor{Gray4}
  3             & Actualiza pesos medios e iniciales a la edad a junio 2021 \\ \hline
     \end{tabular}}
@@ -1686,7 +1699,7 @@ Para mantener la consistencia en el proceso de evaluación del stock y estimaci�
 
 \vspace{0.5cm}
 
-En la \textbf{Tabla \ref{Tab16b}} y \textbf{Figura \ref{Fig21b}} se muestra el impacto de la incorporación y actualización de la información en las principales variables de estado para el caso 1 ( asesoría de julio 2021, MAE0721b). La incoporación de la composición de edad de la flota a junio 2021 (caso 2), tiene un efecto principal en el reclutamiento, mostrando una disminución del 8%. La actualización de los pesos medios del año 2020/21 (caso 5), generan una disminución del 6% de la BD y $BD/BD_{RMS}$ y un incremento del 11% de la mortalidad por pesca, producto de la disminución de los pesos medios del grupo de edad 3 y 4 principalmente \textbf{Figura \ref{Fig21b}}. 
+En la \textbf{Tabla \ref{Tab16b}} y \textbf{Figura \ref{Fig21b}} se muestra que no existen diferencias  significativas entre la asesoría previa y actual  al considerar la incorporación y actualización de la información en las principales variables de estado para el caso 1 (asesoría de julio 2021, MAE0721b). La incoporación de la composición de edad de la flota a junio 2021 (caso 2), genera un incremento del 6% en el reclutamiento. No obstante, al incorporar los pesos medios a junio 2021 (caso 3), genera un incremento final del 3% en el reclutamiento y una disminución del 5%  de la mortalidad por pesca, producto del incremento de los pesos medios del grupo de edad 1 a 4 años principalmente \textbf{Figura \ref{Fig21b}}. 
 
 \vspace{0.5cm}
 
@@ -1700,16 +1713,14 @@ En la \textbf{Tabla \ref{Tab16b}} y \textbf{Figura \ref{Fig21b}} se muestra el i
     \begin{tabular}{|c|c|c|c|c|c|c|c|c|}
     \hline \rowcolor{Gray3}
  Casos & R     & BD     & $BD/BD_{RMS}$ & F     & R.diff & BD.diff  & $BD/BD_{RMS}$.diff & F.diff \\ \hline
- 1     & 25,4  & 686,8  & 1,41          & 0,34  &        &          &                    &        \\  \rowcolor{Gray4}
- 2     & 25,4  & 686,8  & 1,41          & 0,34  & 0      & 0        & 0                  & 0  \\
- 3     & 25,4  & 687,1  & 1,41          & 0,36  & 0      & 0        & 0                  & 0,05   \\ \rowcolor{Gray4} \hline
+ 1     & 25,9  & 626,5  & 1,296          & 0,395  &        &          &                    &        \\  \rowcolor{Gray4}
+ 2     & 27,4  & 621,1  & 1,286          & 0,397  & 0,06   & -0,01    & -0,01               & 0,01  \\
+ 3     & 26,7  & 630,8  & 1,307          & 0,376  & 0,03   & 0,01     & 0,01               & -0,05   \\ \rowcolor{Gray4} \hline
     \end{tabular}}
         \end{table}
 ```
-
 \normalsize
-
-\pagebreak
+\vspace{0.5cm}
 
 ```{=tex}
 \begin{figure}
@@ -1727,7 +1738,7 @@ En la \textbf{Tabla \ref{Tab16b}} y \textbf{Figura \ref{Fig21b}} se muestra el i
 
 \quad
 
-El modelo de evaluación utilizado para estudiar la dinámica del stock, sigue la tendencia general de las estimaciones de biomasa de los cruceros hidroacústicos, principalmente a partir del año 2009. El modelo reproduce de manera satisfactoria los bajos niveles poblacionales en el período 2009-2015 y su tendencia al incremento a partir del año 2016. Sin embargo, los valores más altos del crucero de verano, que poseen mayor incertidumbre, no son ajustados de manera satisfactoria (período 2002-2008). La alta variabilidad de estos índices de abundancia se evidencia en la amplitud de los intervalos de confianza supuestos con un coeficiente de variación de cv=0,3 (\textbf{Figura \ref{Fig22}}). 
+El modelo de evaluación utilizado para estudiar la dinámica del stock, sigue la tendencia general de las estimaciones de biomasa de los cruceros hidroacústicos, principalmente a partir del año 2009. El modelo reproduce de manera satisfactoria los bajos niveles poblacionales en el período 2009-2015 y su tendencia al incremento a partir del año 2016. El modelo representa principalmente la tendencia que muestra el crucero de otoño.  Los valores más altos del crucero de verano, que poseen mayor incertidumbre, no son ajustados de manera satisfactoria (período 2002-2008). La alta variabilidad de estos índices de abundancia se evidencia en la amplitud de los intervalos de confianza supuestos con un coeficiente de variación de cv=0,3 (\textbf{Figura \ref{Fig22}}). 
 
 
 
@@ -1824,15 +1835,13 @@ El comportamiento de los residuales a las composiciones de edades de la flota, s
 #### Comparación con asesorías previas
 \quad
 
-El stock de anchoveta en la UPCS comenzó a ser evaluada oficialmente en 1996 por Barría *et al*. (1998) y (1999), con métodos estructurados por edad en escala calendaria. En la asesoría de septiembre 2020 se realizó el cambio de modelo base de año calendario (MAE) a año biológico (MAEb), el cual fue adoptado por el CCT-PP en la sesión de mayo 2020 (Acta Sesión Nº3). Este nuevo modelo base permite una mejor representación del reclutamiento y de la dinámica de anchoveta, disminuyendo la incertidumbre en los indicadores utilizados para medidas de manejo (Zúñiga *et al*., 2020).
-
-Se comparan los resultados de los principales indicadores de estatus del modelo base actual (septiembre 2021: MAE0921b), con versiones anteriores (julio 2021, marzo 2021, sept 2020) para evaluar la consistencia de la evaluación presente (\textbf{Figura \ref{Fig28a}}). La mayor incertidumbre se genera en la asesoría de marzo producto de la incompletitud de datos.
+El stock de anchoveta en la UPCS comenzó a ser evaluada oficialmente en 1996 por Barría *et al*. (1998) y (1999), con métodos estructurados por edad en escala calendaria. En la asesoría de septiembre 2020 se realizó el cambio de modelo base de año calendario (MAE) a año biológico (MAEb), el cual fue adoptado por el CCT-PP en la sesión de mayo 2020 (Acta Sesión Nº3). Este nuevo modelo base permite una mejor representación del reclutamiento y de la dinámica de anchoveta, disminuyendo la incertidumbre en los indicadores utilizados para medidas de manejo (Zúñiga *et al*., 2020). En la asesoría actual (septiembre 2021) se comparan los resultados de los principales indicadores de estatus del modelo base con versiones anteriores (julio 2021, marzo 2021, sept 2020) para evaluar la consistencia de la evaluación presente (\textbf{Figura \ref{Fig28a}}). En general, existe consistencia en los resultados, en la asesoría de marzo se genera la mayor incertidumbre producto de la incompletitud de datos en este hito de revisión.
 
 \vspace{-0.4cm}
 ```{=tex}
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.85\textwidth]{Figuras/Fig32_comparaAsesorias-1.pdf}
+\includegraphics[width=0.9\textwidth]{Figuras/Fig32_comparaAsesorias-1.pdf}
 \caption{Comparación con asesorías anteriores del reclutamiento, biomasa desovante y mortalidad por pesca ($F año^{-1}$) de la anchoveta centro-sur. Los años en el eje x corresponden a año biológico.}
 \label{Fig28a}
 \end{figure}
@@ -1845,7 +1854,7 @@ Se comparan los resultados de los principales indicadores de estatus del modelo 
 
 \quad
 
-En la \textbf{Figura \ref{Fig28}} se muestra el patrón retrospectivo estándar y relativo de los reclutamientos, BD y F de la anchoveta en la UPCS para el modelo base actual (septiembre 2021). El análisis retrospectivo del modelo de evaluación muestra que en términos de rho (promedio de anomalías retrospectivas) la reducción de información genera un patrón de subestimación del reclutamiento (rho = -0,03) y de la mortalidad por pesca (rho = -0,04) y un patrón de sobre-estimación de la biomasa desovante (rho = 0,02). En general, las estimaciones de reclutamientos, biomasas y F para los últimos años pueden variar sustancialmente entre las sucesivas actualizaciones, mientras que en los primeros años tienden a converger a valores estables. No obstante, el modelo presenta una baja varianza estadística, lo que se traduce en una menor incertidumbre, generando estimaciones más confiables para medidas de manejo.
+En la \textbf{Figura \ref{Fig28}} se muestra el patrón retrospectivo estándar y relativo de los reclutamientos, BD y F de la anchoveta en la UPCS para el modelo base actual (septiembre 2021). El análisis retrospectivo del modelo de evaluación muestra que en términos de rho (promedio de anomalías retrospectivas) la reducción de información genera un patrón de subestimación del reclutamiento (rho = -0,02) y de la mortalidad por pesca (rho = -0,04) y un patrón de sobre-estimación de la biomasa desovante (rho = 0,03). En general, las estimaciones de reclutamientos, biomasas y F para los últimos años pueden variar sustancialmente entre las sucesivas actualizaciones, mientras que en los primeros años tienden a converger a valores estables. No obstante, el modelo presenta una baja varianza estadística, lo que se traduce en una menor incertidumbre, generando estimaciones más confiables para medidas de manejo.
 
 \vspace{-0.4cm}
 ```{=tex}
@@ -1866,7 +1875,7 @@ En la \textbf{Figura \ref{Fig28}} se muestra el patrón retrospectivo estándar 
 
 \quad
 
-La \textbf{Figura \ref{Fig29}} muestra el perfil de verosimilitud de cada fuente de dato cuyo mínimo representa la estimación máxima a posteriori del reclutamiento medio ($R_0$) para cada fuente de error del caso base. Los datos cuyos perfiles estuvieron más próximos entre si y la diferencia del log verosimilitud respecto del mínimo se elevó por sobre el criterio estadístico $\chi^2$=1,92 fue la proporción de edad de la flota (propF). \vspace{0.5cm}
+La \textbf{Figura \ref{Fig29}} muestra el perfil de verosimilitud de cada fuente de dato cuyo mínimo representa la estimación máxima a posteriori del reclutamiento medio ($R_0$) para cada fuente de error del caso base. el perfil de verosimilitud permiten conocer qué set de datos aporta más información a la estimación de Ro, y adicionalmente, permite resolver problemas de mala especificación del modelo. En este caso solo se utilizó para el primer punto, donde destaca que los datos cuyos perfiles estuvieron más próximos entre si y la diferencia del log verosimilitud respecto del mínimo se elevó por sobre el criterio estadístico $\chi^2$=1,92 fue la proporción de edad de la flota (propF). Es decir, la propF presenta el mayor aporte estadístico en la asesoría actual. \vspace{0.5cm}
 
 ```{=tex}
 \begin{figure}[h!]
@@ -1889,11 +1898,11 @@ La \textbf{Figura \ref{Fig29}} muestra el perfil de verosimilitud de cada fuente
 
 ### 4.2.1. Tendencias poblacionales
 
-La \textbf{Figura \ref{Fig30}} y la \textbf{Tabla \ref{Tab17}} muestran los cambios que ha experimentado anchoveta en sus tendencias poblacionales en un período de 25 años (1996/97 - 2020/21). El análisis respecto a la media histórica de los indicadores de estado y flujo (Rpromedio = 43 mil millones de peces, BTpromedio = 777 mil t, BDpromedio = 401 mil t, Fmediana = 0,68) permite identificar claramente dos ciclos con altos y bajos niveles de abundancia de una duración de 10 años aprox. El período de altos niveles de abundancia de anchoveta se registra desde el año 2002/03 hasta el año 2008/09 con valores sobre el promedio histórico (R\_alto = 75 mil millones de peces, BT\_alto = 1,45 millones de t, BD\_alto = 746 mil t). Los niveles bajo el promedio histórico se registran desde el año 2009/10 hasta el 2017/18 (R\_bajo = 18 mil millones de peces, BT\_bajo = 280 mil t., BD\_bajo = 147 mil t). 
+La \textbf{Figura \ref{Fig30}} y la \textbf{Tabla \ref{Tab17}} muestran los cambios que ha experimentado anchoveta en sus tendencias poblacionales en un período de 25 años (1996/97 - 2020/21). El análisis respecto a la media histórica de los indicadores de estado y flujo (Rpromedio = 43 mil millones de peces, BTpromedio = 775 mil t, BDpromedio = 401 mil t, Fmediana = 0,67) permite identificar claramente dos ciclos con altos y bajos niveles de abundancia de una duración de 10 años aprox. El período de altos niveles de abundancia de anchoveta se registra desde el año 2002/03 hasta el año 2008/09 con valores sobre el promedio histórico (R\_alto = 75 mil millones de peces, BT\_alto = 1,45 millones de t, BD\_alto = 745 mil t). Los niveles bajo el promedio histórico se registran desde el año 2009/10 hasta el 2017/18 (R\_bajo = 18 mil millones de peces, BT\_bajo = 279 mil t., BD\_bajo = 146 mil t). 
 
 Los mayores niveles de mortalidad por pesca se registraron durante el período de baja abundancia (F \> Fmediana) debido a los bajos rendimientos. A partir del año 2015/16, se observa el inicio de un nuevo ciclo con tendencia positiva generada por la fuerza de la clase anual reclutada que se incorpora a la población y a los bajos niveles de mortalidad por pesca (F \< Fmediana). El incremento de los reclutamientos 2018/19 y 2019/20, la disminución de la mortalidad por pesca 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 permiten la recuperación de anchoveta centro-sur para los dos últimos años de la serie.  
 
-La selectividad de la flota indica que anchoveta es próximo a su completo reclutamiento a la pesquería a la edad de 2 años cuya retención es del orden del 98%, mientras que los individuos de edad 0 y 1 son vulnerados en un 10% y 68% respectivamente. Respecto a la selectividad de los cruceros acústicos, en enero el arte de pesca selecciona el 74% de peces de edad 0 y 100% de peces de edad 1 y en mayo se selecciona un 74% de peces de edad 0 y 100% de peces de edad 1 (\textbf{Figura \ref{Fig31}}).
+La selectividad de la flota indica que anchoveta es próximo a su completo reclutamiento a la pesquería a la edad de 2 años cuya retención es del orden del 98%, mientras que los individuos de edad 0 y 1 son vulnerados en un 10% y 69% respectivamente. Respecto a la selectividad de los cruceros acústicos, en enero el arte de pesca selecciona el 74% de peces de edad 0 y 100% de peces de edad 1 y en mayo se selecciona un 73% de peces de edad 0 y 100% de peces de edad 1 (\textbf{Figura \ref{Fig31}}).
 
 \pagebreak
 
@@ -2043,7 +2052,7 @@ Los resultados de este estudio muestran que entre los años 1996/97 y 2000/01 el
 \begin{figure}[h!]
 \centering
 \includegraphics[width=1\textwidth]{Figuras/Fig34-1.pdf}
-\caption{a) Razón $BD/BD_{RMS}$, b) la distribución de probabilidad de $BD_{last}/BD_{RMS}$, c) razón $F/F_{RMS}$ y d) la distribución de probabilidad $F_{last}/F_{RMS}$}
+\caption{a) Razón $BD/BD_{RMS}$, b) la distribución de probabilidad de $BD_{2021}/BD_{RMS}$, c) razón $F/F_{RMS}$ y d) la distribución de probabilidad $F_{2021}/F_{RMS}$}
 \label{Fig34}
 \end{figure}
 ```
@@ -2056,7 +2065,7 @@ Los resultados de este estudio muestran que entre los años 1996/97 y 2000/01 el
 ```{=tex}
 
 \begin{table}[h!]
-\caption{Comparación de los índices de reducción de F respecto de $F_{RMS}$ ($F/F_{RMS}$), BD respecto de $BD_{RMS}$ ($BD/BD_{RMS}$), tasas de explotación anual referidos a la biomasa ($Y/BT$) y a la abundancia estimada ($C\#/N\#$), estimadas en la evaluación de septiembre 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
+\caption{Índices de reducción de F respecto de $F_{RMS}$ ($F/F_{RMS}$), BD respecto de $BD_{RMS}$ ($BD/BD_{RMS}$), tasas de explotación anual referidos a la biomasa ($Y/BT$) y a la abundancia estimada ($C\#/N\#$), estimadas en la evaluación de septiembre 2021 de anchoveta de las Regiones de Valparaíso a Los Lagos.}
  \label{Tab19}
  \small
     \centering
@@ -2099,7 +2108,7 @@ Año     & $F/F_{RMS_{sept}}$ & $BD/BD_{RMS_{sept}}$ & $Y/BT_{sept}$ & $C/N_{sep
 
 \normalsize
 
-Respecto a la condición actual de anchoveta centro-sur, los resultados de este estudio indican una recuperación del estatus generada por el incremento de los reclutamientos 2018/19 y 2019/20, la disminución de la mortalidad por pesca por debajo del objetivo de manejo (F\<F~RMS~) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21. Por lo tanto, anchoveta centro-sur se encuentra en una condición de plena-explotación con una baja probabilidad de sobre-explotación (3%) y de sobrepesca (13%) (\textbf{Figura \ref{Fig35}} y \textbf{Tabla \ref{Tab21}}).
+Respecto a la condición actual de anchoveta centro-sur, los resultados de este estudio indican una recuperación del estatus generada por el incremento de los reclutamientos 2018/19 y 2019/20, la disminución de la mortalidad por pesca por debajo del objetivo de manejo (F\<F~RMS~) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21. Por lo tanto, anchoveta centro-sur se encuentra en una condición de plena-explotación con una baja probabilidad de sobre-explotación (3%) y de sobrepesca (9%) (\textbf{Figura \ref{Fig35}} y \textbf{Tabla \ref{Tab21}}).
 
 
 
@@ -2166,139 +2175,94 @@ $p(sobrepesca)$         & 0,09  \\ \hline
 
 *"Determinar niveles de Captura Biológicamente Aceptable (CBA) que lleven y/o mantenga la pesquería en torno al Rendimiento Máximo Sostenible (RMS), a partir de un análisis de riesgo en condiciones de incertidumbre de no alcanzar los objetivos de conservación y sostenibilidad conforme lo establece la LGPA y contenidos en el Plan de Manejo y/o en el Programa de Recuperación respectivo, según corresponda."*
 
-### 4.3.1. Captura biológicamente aceptable (CBA)
 
-### CBA 2022 inicial (Asesoría de septiembre 2021)
 
-Para el cálculo de la CBA inicial 2021 se proyectó el stock dos años biológicos hacia el futuro (julio2020 - junio2021 y julio2021 - junio2022) en base a tres escenarios de reclutamiento: a) un escenario que considera un período favorable entre los años 1997-2009 (59,7 mil millones de ind.). b) un escenario que consiste en el reclutamiento medio histórico de la serie (44,1 mil millones de ind.), c) un escenario que considera el período desfavorable y baja productividad de anchoveta a partir del año 2010 a la fecha (25,6 mil millones de ind.) (\textbf{Figura \ref{Fig36}}). 
+### 4.3.1. Proyección del stock (Asesoría de septiembre 2021)
 
-\vspace{0.5cm}
+\vspace{0.3cm}
+
+La  proyección de la población se realizó 2 años biológicos hacia el futuro (julio 2021-junio 2022 y julio 2022-junio 2023) en base a tres escenarios de reclutamiento: a) un escenario favorable que consiste en el reclutamiento promedio del período 1997-2009 (59 mil millones de ind.), b) un escenario que representa el reclutamiento promedio histórico (43 mil millones de ind.) y un escenario que representa el período reciente entre el 2010-2021 (25 mil millones de ind.) (\textbf{Figura \ref{Fig44a} a}), con una mortalidad por pesca en torno al $F_{RMS}$ y pesos medios igual al promedio de los últimos 5 años. 
+
+Las \textbf{Figuras \ref{Fig44a} b,c} y \textbf{Tabla \ref{Tab25}} indican que independiente del escenario de reclutamiento, en términos de biomasa desovante proyectada al 2021/2022 (554 mil t) se observa una disminución del 12% respecto al año previo 2020/2021 (631 mil t), de este modo la probabilidad de sobreexplotación aumenta a un 13% para el año biológico 2021/2022. Mientras que la biomasa desovante proyectada hacia el 2022/2023 depende del reclutamiento proyectado hacia el 2022 y 2023, de este modo, la probabilidad de sobreexplotación puede aumentar hasta un 60% si los reclutamientos futuros retornan a los niveles promedios 2010-2021, o pueden disminuir a un 0% si los reclutamientos se encuentran en torno al promedio de los años 1997-2009 (\textbf{Tabla \ref{Tab25}} y \textbf{Figura \ref{Fig44b}}).
+
+La \textbf{Tabla \ref{Tab25}} muestra la  captura proyectada para los años biológicos 2021/2022 y 2022/2023 considerando una mortalidad por pesca igual al $F_{RMS}$ y el descuento del 2% de descarte, con sus respectivos escenarios de reclutamientos. El cálculo de la Captura al RMS ($C_{RMS}$) para el año calendario 2022 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre ($C_{1erSem2022}$) y 30% para el segundo semestre ($C_{2doSem2022}$). De este modo, la captura al RMS para el año biológico 2021/2022 ($C_{2021/2022}$) puede varian según el escenario de reclutamiento entre 192 mil t a 201 mil t. Si el 70% de la captura 2021/2022 se realiza durante el primer semestre 2022, la captura puede variar entre 135 mil t a 141 mil t, dependiendo del reclutamiento 2022, considerando un resguardo del 2% por causa del descarte. 
+ 
+El aporte del reclutamiento en la estimación de captura 2021/2022 es de un 8% para un escenario de reclutamiento alto (R_1997-2009), de un 6% para un escenario de reclutamientos promedio histórico y de un 3,6% para un escenario de reclutamiento bajos (R_2010-2021) (\textbf{Figura \ref{Fig44c} a)}). En el caso de la captura proyectada para el año 2022/2023, los escenarios de reclutamientos tienen un efecto en el grupo de edad 1, un 51,5% para un escenario de reclutamiento alto (R_1997-2009), de un 44,6% para un escenario de reclutamientos promedio histórico y de un 33,3% para un escenario de reclutamiento bajos (R_2010-2021) (\textbf{Figura \ref{Fig44c} b)}), por lo tanto, es una estimación con mayor incertidumbre (\textbf{Figura \ref{Fig44c} b)}). 
+
+\newpage
 
 ```{=tex}
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.85\textwidth]{Figuras/Fig36-1.pdf}
-\caption{Escenarios de reclutamiento proyectado de anchoveta centro-sur para la asesoría de septiembre 2021.}
-\label{Fig36}
+\includegraphics[width=0.85\textwidth]{Figuras/Fig34a-1.pdf}
+\caption{Proyección de dos años biológicos (2021/2022 y 2022/2023) de la biomasa desovante, razón $BD/BD_{RMS}$ y capturas en base a tres escenarios de reclutamiento proyectado. Asesoría de septiembre 2021}
+\label{Fig44a}
 \end{figure}
 ```
 
-\vspace{0.5cm}
 
- \normalsize
-
-El cálculo de la CBA inicial para el año calendario 2021 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre y 30% para el segundo semestre, bajo un criterio de explotación de F60%SPR, sujeto a percentiles de probabilidad entre el 10% y 50%.  
-
-La \textbf{Tabla \ref{Tab22}} muestra los rangos de capturas para el año 2021 estimada bajo un escenario de Rprom(1997-2009) podría situarse entre 189,6 mil t y 255 mil t y bajo un escenario de reclutamiento histórico entre 175,7 mil t y 241 mil t y bajo un escenario de Rprom(2010-2020) entre 159 mil t y 225 mil t. Para evaluar el efecto que tiene la decisión de la CBA en base a los percentiles de probabilidad de sobrepasar el objetivo de manejo (10%-50%), se calculó el resguardo de la captura al RMS a lo cual equivale cada percentil (\textbf{Tabla \ref{Tab23}}). Esos niveles variaron entre un 5% - 26% en promedio, considerando un percentil de probabilidad del 40% - 10% para los tres escenarios de reclutamiento.  En la secta sesión del CCT-PP 2020 (Acta de Sesión Nº6, octubre 2020 [^9].) se recomienda una CBA máxima 2021 de 210.167 toneladas correspondiente al escenario de reclutamiento promedio histórico (1997-2020), 30% de percentil de captura (equivalente a un 11% resguardo) y el descuento del 2% de descarte (\textbf{Tabla \ref{Tab24}}).
-
-[^9]: <http://www.subpesca.cl/portal/616/articles-107809_documento.pdf>
-
-\vspace{0.5cm}
 
 ```{=tex}
-
-\begin{table}[h!]
-\caption{CBA inicial 2022 de anchoveta centro-sur bajo $Fcte = F_{RMS}$ con sus respectivos percentiles de probabilidad entre 10\% y 50\% y tres escenarios de reclutamiento.}
- \label{Tab22}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    mean      & 209.420         & 197.520         & 182.380 \\ \rowcolor{Gray4}
-    std       & 39.403          & 39.414          & 39.521   \\ \hline
-    10\%      & 158.923         & 147.009         & 131.732 \\ \rowcolor{Gray4}
-    20\%      & 176.258         & 164.348         & 149.118 \\
-    30\%      & 188.757         & 176.851         & 161.655 \\ \rowcolor{Gray4}
-    40\%      & 199.437         & 187.535         & 172.367 \\
-    50\%      & 209.420         & 197.520         & 182.380 \\ \hline
-  \end{tabular}}
-        \end{table}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.32\textwidth]{Figuras/Fig46-1.pdf}
+\includegraphics[width=0.32\textwidth]{Figuras/Fig47-1.pdf}
+\includegraphics[width=0.32\textwidth]{Figuras/Fig48-1.pdf}
+\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2018/19 (punto verde), año actual 2019/20 (punto y cruz naranjo) y años proyectados 2021/22 y 2022/23 (puntos rojos) bajo un escenario de reclutamiento promedio bajo [1997-2009], reclutamiento promedio histórico [1997-2021], reclutamiento promedio reciente [2010-2021]. \textbf{Asesoría de septiembre 2021}}
+\label{Fig44b}
+\end{figure}
 ```
 
+\newpage
 
 ```{=tex}
-
 \begin{table}[h!]
-\caption{Resguardo de la Captura al RMS.}
- \label{Tab23}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    10\%      & 0,24         & 0,26         & 0,28 \\ \rowcolor{Gray4}
-    20\%      & 0,16         & 0,17         & 0,18 \\
-    30\%      & 0,10         & 0,10         & 0,11 \\ \rowcolor{Gray4}
-    40\%      & 0,05         & 0,05         & 0,05 \\
-    50\%      & 0,00         & 0,00         & 0,00 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{CBA 2022 menos el 2\%descarte. *CBA máxima recomendada por el CCT-PP = 210.167 t. }
- \label{Tab24}
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline \rowcolor{Gray3}
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2020}$    \\ \hline
-    10\%      & 155.745         & 144.069         & 129.097 \\ \rowcolor{Gray4}
-    20\%      & 172.732         & 161.061         & 146.136 \\
-    30\%      & 184.982         & 173.314         & 158.422 \\ \rowcolor{Gray4}
-    40\%      & 195.449         & 183.784         & 168.920 \\
-    50\%      & 205.232         & 193.570         & 178.732 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
-
-\normalsize
-
-\pagebreak
-
-
-
-### 4.3.2. Proyección del stock (Asesoría de septiembre 2021)
-
-En relación al estatus 2020/21, se proyectó el stock bajo tres escenarios reclutamientos que representan los períodos más relevantes de la historia conocida de anchoveta centro-sur y con una mortalidad por pesca en torno al F~RMS~ (ponderadores de F~RMS~). Al respecto, si bien la anchoveta centro-sur se mantuvo en una condición de colapso entre 2009/10 y 2016/17 y de sobre-explotación entre el 2017/18 y 2018/19, el incremento del reclutamiento los años 2018/19 y 2019/20 junto al aumento de la biomasa adulta (1+ años) permiten la recuperación del stock para el año 2019/20 y con una alta probabilidad (95%) de mantenerse en una condición de plena-explotación para el año 2020/21 (4% probabilidad de sobre-explotación y 0% probabilidad de colapso) (\textbf{Tabla \ref{Tab33}}) independiente de los escenario de reclutamiento futuros y ponderadores de F~RMS~ (\textbf{Figura \ref{Fig39}}). El incremento de los reclutamientos y biomasas de anchoveta centro-sur durante los dos años previos y la baja probabilidad de sobre-explotación y colapso generan un escenario favorable para el stock de anchoveta el 2020/21. \vspace{0.5cm}
-
-```{=tex}
-
-\begin{table}[h!]
-\caption{Incertidumbre del estatus previo 2018/19, actual 2019/20 y proyectado 2020/21 bajo tres escenarios de reclutamiento y ponderadores de $F_{RMS}$. \textbf{Asesoría de septiembre 2021}.}
- \label{Tab33}
+\caption{Proyección de la biomasa desovante hacia el año biológico 2021/2022 y 2022/2023 considerando tres escenarios de reclutamientos y mortalidad por pesca igual al $F_{RMS}$. Probabilidad de estar bajo $BD_{RMS}$ y sobre $F_{RMS}$ y la probabilidad de sobre-explotación y colapso.}
+ \label{Tab25}
  \small
     \centering
     \resizebox{15cm}{!} {
-    \begin{tabular}{|l|l|l|c|c|c|}
+    \begin{tabular}{|l|ccc|ccc|}
     \hline \rowcolor{Gray3}
-Escenario       & Año         & Probabilidad de  & $F_{RMS}*1,0$ & $F_{RMS}*0,9$ & $F_{RMS}*0,7$ \\  \rowcolor{Gray3}
-Reclutamiento   & biológico   &  Estatus         &               &               &                \\ \hline
-\multirow{6}{1cm}{$R_{1997-2009}$} & \multirow{2}{1cm}{2018/19} &$p(sobre-explotación)$   & 0,94    & 0,94    & 0,94 \\
-                &             & $p(colapso)$     & 0,02          & 0,02  & 0,02 \\ 
-                & \multirow{2}{1cm}{2019/20} & $p(sobre-explotación)$    & 0,24   & 0,24  & 0,24 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2020/21} & $p(sobre-explotación)$    & 0,04   & 0,04  & 0,03 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{6}{1cm}{$R_{histórico}$} & \multirow{2}{1cm}{2018/19} &$p(sobre-explotación)$   & 0,94    & 0,94    & 0,94 \\
-                &             & $p(colapso)$     & 0,02          & 0,02  & 0,02 \\ 
-                & \multirow{2}{1cm}{2019/20} & $p(sobre-explotación)$    & 0,24   & 0,24  & 0,24 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2020/21} & $p(sobre-explotación)$    & 0,04   & 0,04  & 0,04 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
-\multirow{6}{1cm}{$R_{2010-2020}$} & \multirow{2}{1cm}{2018/19} &$p(sobre-explotación)$   & 0,94    & 0,94    & 0,94 \\
-                &             & $p(colapso)$     & 0,02          & 0,02  & 0,02 \\ 
-                & \multirow{2}{1cm}{2019/20} & $p(sobre-explotación)$    & 0,24   & 0,24  & 0,24 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ 
-                & \multirow{2}{1cm}{2020/21} & $p(sobre-explotación)$    & 0,05   & 0,05  & 0,05 \\
-                &             & $p(colapso)$     & 0,00          & 0,00  & 0,00 \\ \hline
+Año biológico proyectado     & \multicolumn{3}{c}{ Estatus 2021/2022}      & \multicolumn{3}{c}{ Estatus 2022/2023}  \\  \hline  \rowcolor{Gray3}
+Escenarios de reclutamiento  & $R_{1997-2009}$ & $R_{histórico}$  & $R_{2010-2021}$ & $R_{1997-2009}$ & $R_{histórico}$  & $R_{2010-2021}$  \\ \hline
+$F_{proy}$ = $F_{RMS}$       & 0,45   & 0,45   & 0,45                 & 0,45   & 0,45   & 0,45 \\ \rowcolor{Gray4}
+$BD_{RMS}$ mil t             & 483    & 483    & 483                  & 483    & 483    & 483 \\ \hline
+$BD_{proy}$ mil t            & 564    & 554    & 544                  & 622    & 524    & 418  \\  \rowcolor{Gray4}
+$BD_{proy}/BD_{RMS}$         & 1,17   & 1,15   & 1,13                 & 1,29   & 1,09   & 0,87 \\ \hline \rowcolor{Gray4}
+$p(BD_{proy}<BD_{RMS})$      & 0,22   & 0,25   & 0,28                 & 0,00   & 0,24   & 0,84 \\ 
+$p(F_{proy}>F_{RMS})$        & 0,5    & 0,5    & 0,5                  & 0,5    & 0,5    & 0,5 \\  \hline \rowcolor{Gray4}
+$p(sobreexplotación)$        & 0,11   & 0,13   & 0,15                 & 0,00   & 0,06   & 0,60  \\
+$p(agotado/colapsado)$       & 0,00   & 0,00   & 0,00                 & 0,00   & 0,00   & 0,00 \\\hline
+  \end{tabular}}
+        \end{table}
+```
+\scriptsize
+
+-   $p(BD_{proy}<BD_{RMS})$ = Probabilidad de que BD proyectada sea menor a $BD_{RMS}$
+-   $p(F_{proy}>F_{RMS})$ = Probabilidad que la Ft proyectada sea menor a $F_{RMS}$
+-   Probabilidad de estar en sobreexplotación = $p(BD_{proy}<0,9BD_{RMS})$
+-   Probabilidad de estar en colapso = $p(BD_{proy}<BD_{LIM})$
+
+\normalsize
+
+
+```{=tex}
+\begin{table}[h!]
+\caption{Proyección de la captura estimada para los años biológicos 2021/2022 y 2022/2023 considerando una mortalidad por pesca igual al $F_{RMS}$ y el descuento del 2\% de descarte, con sus respectivos escenarios de reclutamientos. El cálculo de la Captura para el año calendario 2022 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70\% para el primer semestre y 30\% para el segundo semestre.}
+ \label{Tab26}
+ \small
+    \centering
+    \resizebox{15cm}{!} {
+    \begin{tabular}{|l|ccc|ccc|}
+    \hline \rowcolor{Gray3}
+                                & \multicolumn{3}{c}{$C_{RMS}$ (mil t)} & \multicolumn{3}{c}{$C_{RMS}-2\%descarte$ (mil t)} \\ \rowcolor{Gray3}
+  \textit{Escenarios de reclutamiento} & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$ & $R_{1997-2009}$ & $R_{histórico}$&$R_{2010-2021}$\\ \hline  
+  $C_{2021/2022}$               &  206            & 201             & 196             & 201             &  197             & 192 \\ \rowcolor{Gray4}
+  $C_{2022/2023}$               &  226            & 189             & 150             & 221             &  186             & 147 \\ \hline
+  $C_{1erSem 2022}$             &  144            & 141             & 137             & 141             &  138             & 135 \\ \rowcolor{Gray4}
+  $C_{2doSem 2022}$             &  68             & 57              & 45              & 66              &  56              & 44 \\ \hline 
+  $C_{RMS}$ año calendario 2022 &  212            & 198             & 182             & 207             &  194             & 179 \\ \hline
   \end{tabular}}
         \end{table}
 ```
@@ -2306,35 +2270,94 @@ Reclutamiento   & biológico   &  Estatus         &               &             
 
 
 ```{=tex}
-\vspace{-0.3cm}
-\scriptsize
-```
--   p[BD\<0,9BD~RMS~] = probabilidad de sobre-explotación
--   p[BD\<0,5BD~RMS~] = probabilidad de colapso
-
-\pagebreak
-
-
-
-```{=tex}
 \begin{figure}[h!]
 \centering
-\includegraphics[width=0.3\textwidth]{Figuras/Fig46-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig46-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig46-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig47-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig47-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig47-3.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig48-1.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig48-2.pdf}
-\includegraphics[width=0.3\textwidth]{Figuras/Fig48-3.pdf}
-\caption{Diagramas de fases de explotación de la biomasa desovante respecto de la mortalidad por pesca mostrando el estatus de anchoveta centro-sur para el año previo 2018/19 (punto rojo), año actual 2019/20 (punto y cruz naranjo) y año proyectado 2020/21 (punto verde) bajo un escenario de reclutamiento promedio bajo [1997-2009] (panel superior), reclutamiento promedio histórico [1997-2020] (panel intermedio), reclutamiento promedio reciente [2010-2020] (panel inferior) y ponderadores de $F_{RMS}$ (1; 0,9 y 0,7). \textbf{Asesoría de septiembre 2021}}
-\label{Fig39}
+\includegraphics[width=0.75\textwidth]{Figuras/Fig27_CBA-1.pdf}
+\caption{Captura 2021/2022 y 2022/2023 a la edad bajo tres escenarios de reclutamiento proyectado en el hito 1. Asesoría Septiembre 2021. }
+\label{Fig44c}
 \end{figure}
 ```
 
 \pagebreak
+
 \normalsize
+### 4.3.2. Captura biológicamente aceptable (CBA)
+
+#### CBA 2022 inicial (Asesoría de septiembre 2021)
+
+\vspace{0.3cm}
+ \normalsize
+
+El cálculo de la CBA inicial para el año calendario 2022 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre y 30% para el segundo semestre, bajo un criterio de explotación de F60%SPR, sujeto a percentiles de probabilidad entre el 10% y 50%. La \textbf{Tabla \ref{Tab26}} y \textbf{Figura \ref{Fig44d}} muestran los rangos de capturas para el año 2022 estimada bajo un escenario de $R_{1997-2009}$ podría situarse entre 161 mil t y 211 mil t; bajo un escenario de $R_{histórico}$ entre 147 mil t y 197 mil t y, bajo un escenario de $R_{2010-2021}$ entre 132 mil t y 182 mil t. Considerando el descuento del 2% de descarte 2022, los rangos de capturas para el año 2022 estimada bajo un escenario de $R_{1997-2009}$ podría situarse entre 158 mil t y 207 mil t; bajo un escenario de $R_{histórico}$ entre 144 mil t y 194 mil t y, bajo un escenario de $R_{2010-2021}$ entre 129 mil t y 179 mil t. Para evaluar el efecto que tiene la decisión de la CBA en base a los percentiles (10%-50%) que en general son menores a la captura al RMS (percentil del 50%), se calculó el resguardo a lo cual equivale cada percentil (\textbf{Tabla \ref{Tab27}}). Esos niveles variaron entre un 5% para un percentil del 40% hasta un 26% para un percentil de probabilidad del 10%, considerando tres escenarios de reclutamiento.
+
+\vspace{0.5cm}
+
+```{=tex}
+\begin{table}[h!]
+\caption{CBA inicial año calendario 2022 de sardina común calculada bajo $F_{RMS}$ y el descuento del 2\% de descarte, con sus respectivos percentiles de captura entre 10\% y 50\% y tres escenarios de reclutamientos.}
+ \label{Tab26}
+ \small
+    \centering
+    \resizebox{15cm}{!} {
+    \begin{tabular}{|c|ccc|ccc|}
+    \hline \rowcolor{Gray3}
+  Percentiles   & \multicolumn{3}{c}{$CBA_{2022}$}                     & \multicolumn{3}{c}{$CBA_{2022}-2\%descarte$}  \\ \rowcolor{Gray3}
+  de            & \multicolumn{3}{c}{\textit{Escenarios de reclutamiento}}    & \multicolumn{3}{c}{\textit{Escenarios de reclutamiento}}  \\ \rowcolor{Gray3}
+   $C_{RMS}$    & $R_{1997-2009}$ & $R_{histórico}$  & $R_{2010-2021}$ & $R_{1997-2009}$ & $R_{histórico}$  & $R_{2010-2021}$\\ \hline 
+  mean          & 211.550         & 197.520          & 182.330         & 207.310         & 193.570          & 178.690  \\ \rowcolor{Gray4}
+  sd            & 39.588          & 39.414           & 39.325          & 38.796          & 38.626           & 38.538 \\ \hline 
+  10\%          & 160.816         & 147.009          & 131.933         & 157.591         & 144.069          & 129.302 \\ \rowcolor{Gray4}
+  20\%          & 178.232         & 164.348          & 149.233         & 174.658         & 161.062          & 146.256 \\
+  30\%          & 190.790         & 176.851          & 161.708         & 186.965         & 173.315          & 158.481 \\ \rowcolor{Gray4}
+  40\%          & 201.520         & 187.535          & 172.367         & 197.481         & 183.784          & 168.927 \\
+  $C_{RMS}$ año calendario 2022  & 211.550 & 197.520 & 182.330         & 207.310         & 193.570          & 178.690 \\ \hline
+  \end{tabular}}
+        \end{table}
+```
+
+
+
+\vspace{0.5cm}
+
+
+```{=tex}
+\begin{table}[h!]
+\caption{Resguardo de la Captura al RMS}
+ \label{Tab27}
+ \small
+    \centering
+    \resizebox{8cm}{!} {
+    \begin{tabular}{lccc}
+    \hline
+  Percentiles   & \multicolumn{3}{c}{\textit{Escenarios de reclutamiento}} \\
+  de $C_{RMS}$  & $R_{1991-2007}$ & $R_{2008-2012}$  & $R_{2013-2021}$ \\ \hline 
+  10\%          & 0,24         & 0,26        & 0,28 \\
+  20\%          & 0,16         & 0,17        & 0,18  \\
+  30\%          & 0,11         & 0,10        & 0,11  \\
+  40\%          & 0,05         & 0,05        & 0,05  \\ \hline
+  \end{tabular}}
+        \end{table}
+```
+
+
+
+\pagebreak
+
+```{=tex}
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.95\textwidth]{Figuras/Fig27_CBA-2.pdf}
+\caption{a) Distribución de probabilidad de la Captura al RMS proyectada al 2022 bajo tres escenarios de reclutamiento proyectado en el hito 1. La zona sombreada corresponde a la zona de percentiles de probabilidad de captura (*P) entre el 10 \% - 50 \%. b) La CBA estimada para cada *P. }
+\label{Fig44d}
+\end{figure}
+```
+
+
+\normalsize
+
+\pagebreak
+
+
 
 ## 4.4. Objetivo específico 4:
 
@@ -2403,7 +2426,7 @@ Se revisó los datos utilizados en la estimación de los Puntos Biológicos de R
 
 #### Procedimiento transitorio de la incorporación del descarte a la evaluación de stock:
 
-Durante el 2021, se han llevado a cabo reuniones entre los equipos técnicos de descarte y evaluación de stock de pesquerías pelágicas con el objetivo de identificar las brechas existentes en la estimación de la captura descartada, como también, definir un porcentaje de descarte que será aplicado como mínimo por un par de años mientras se avanza en la reducción de brechas del programa de descarte. En estas reuniones se revisó la metodología implementada por el programa de descarte pelágico para estimar la captura total, retenida y descartada semestral, por flota y macrozona. A partir de estas estimaciones se obtiene el porcentaje de descarte que será utilizado en la evaluación de stock de cada uno de los recursos pelágicos pequeños para corregir la serie de desembarque que ingresa como dato de entrada en la evaluación de stock. Adicionalmente, para los años en que no se cuente con información de descarte se utilizará un supuesto para el porcentaje de descarte a utilizar en la corrección del desembarque correspondiente y para la proyección de la Captura Biológicamente Aceptable (CBA) se utilizará un supuesto del porcentaje de descarte proyectado. Ambos supuestos serán revisados y sancionados en el seno del Comité Científico Técnico para cada una de las pesquerías de peces pelágicos pequeños. Este procedimiento es necesario tanto para conducir de forma interna los programas de los proyectos de descarte y evaluación de stock, así como para dar respuesta a los requerimientos del CCT-PP. En **ANEXO III** se revisan los datos de descarte y se recomiendan porcentajes de descarte para cada pesquería (anchoveta norte, centro norte, centro sur, sardina común centro sur y sardina austral), se identifican las brechas en el estudio de descarte de la pesquería de cerco de peces pelágicos pequeños y un plan de trabajo a desarrollar en el mediano y largo plazo.  Estos resultados fueron presentados en la primera sesión del CCT-PP (Acta Nº1 2021, https://www.subpesca.cl/portal/616/articles-110238_documento.pdf).
+Durante el 2021, se han llevado a cabo reuniones entre los equipos técnicos de descarte y evaluación de stock de pesquerías pelágicas con el objetivo de identificar las brechas existentes en la estimación de la captura descartada, como también, definir un porcentaje de descarte que será aplicado como mínimo por un par de años mientras se avanza en la reducción de brechas del programa de descarte. En estas reuniones se revisó la metodología implementada por el programa de descarte pelágico para estimar la captura total, retenida y descartada semestral, por flota y macrozona. A partir de estas estimaciones se obtiene el porcentaje de descarte que será utilizado en la evaluación de stock de cada uno de los recursos pelágicos pequeños para corregir la serie de desembarque que ingresa como dato de entrada en la evaluación de stock. Adicionalmente, para los años en que no se cuente con información de descarte se utilizará un supuesto para el porcentaje de descarte a utilizar en la corrección del desembarque correspondiente y para la proyección de la Captura Biológicamente Aceptable (CBA) se utilizará un supuesto del porcentaje de descarte proyectado. Ambos supuestos serán revisados y sancionados en el seno del Comité Científico Técnico para cada una de las pesquerías de peces pelágicos pequeños. Este procedimiento es necesario tanto para conducir de forma interna los programas de los proyectos de descarte y evaluación de stock, así como para dar respuesta a los requerimientos del CCT-PP. En en la primera sesión del CCT-PP (Acta Nº1 2021, https://www.subpesca.cl/portal/616/articles-110238_documento.pdf) se revisaron los datos de descarte y se recomiendaron los porcentajes de descarte para cada pesquería (anchoveta norte, centro norte, centro sur, sardina común centro sur y sardina austral), se identificaron las brechas en el estudio de descarte de la pesquería de cerco de peces pelágicos pequeños y un plan de trabajo a desarrollar en el mediano y largo plazo.  
 
 
 \pagebreak
@@ -2635,7 +2658,7 @@ Durante el año 2021 se realizaron talleres de trabajo interno con grupos de tra
   \textbf{Sesión N°1}     & Propuesta de mecanismo transitorio para compensar la incertidumbre  \\
   25 de febrero 2021  & propia de las estimaciones de descarte, usada como input en la \\
                           & determinación de la CBA, conforme a lo planteado en la sesión \\
-                          & extraordinaria de diciembre de 2020. \textbf{ANEXO III} \\
+                          & extraordinaria de diciembre de 2020.  \\
                           & \\
                           & Revisión de nuevas consideraciones metodológicas incorporadas en la \\
                           & proyección del reclutamiento de anchoveta Zona Norte, para el  \\
@@ -2716,7 +2739,7 @@ Durante el año 2021 se realizaron talleres de trabajo interno con grupos de tra
                           &  Además de tres escenarios que involucran la corrección de captura \\
                           &  utilizando ponderadores estimados por Wiff et al. (2017) y se espera \\
                           &  incorporar otras series que están en desarrollo por parte de IFOP \\
-                          &  en colaboración con INPESCA. \textbf{ANEXO II}.\\
+                          &  en colaboración con INPESCA. \textbf{ANEXO I}.\\
                           &  \\
                           &  \\\hline
   \end{tabular}}
@@ -2937,15 +2960,15 @@ Recomendaciones realizadas en Informe de evaluación técnica de proyectos del p
 
 El stock de anchoveta en la UPCS comenzó a ser evaluada oficialmente en 1996 por Barría *et al*. (1998) y (1999), con métodos estructurados por edad en escala calendaria. En la asesoría de septiembre 2020 se realizó el cambio de modelo base de año calendario (MAE) a año biológico (MAEb), el cual fue adoptado por el CCT-PP en la sesión de mayo 2020 (Acta Sesión Nº3). Este nuevo modelo base permite una mejor representación del reclutamiento y de la dinámica de anchoveta, disminuyendo la incertidumbre en los indicadores utilizados para medidas de manejo (Zúñiga *et al*., 2020).
 
-El período de análisis del presente estudio (asesoría de julio 2021) comprende los años biológicos desde 1996/97 a 2020/21. Al respecto, se utiliza datos actualizados del crucero de enero y mayo 2021 (biomasa total y composición de edad), y de la información la flota (desembarques, composición de edad y pesos medios). El porcentaje de descarte 2020/21 se asume igual al 2% (supuesto de proyección acordado en primera sesión del CCT-PP, febrero 2021).
+El período de análisis del presente estudio (asesoría de septiembre 2021) comprende los años biológicos desde 1996/97 a 2020/21. Al respecto, se utiliza datos actualizados del crucero de enero y mayo 2021 (biomasa total y composición de edad), y de la información la flota (desembarques, composición de edad y pesos medios). El porcentaje de descarte 2020/21 se asume igual al 2% (supuesto de proyección acordado en primera sesión del CCT-PP, febrero 2021).
 
-El análisis histórico de los datos de entrada al modelo indican que entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los años 2019 y 2020 se consolida éste incremento con valores cercanos a las 588 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño. Sin embargo, en este estudio, la recuperación en la biomasa del stock se apreció a partir del año 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta en la UPCS, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre el 2011/12 y 2017/18 se registran desembarques en torno a 62 mil toneladas en promedio. Para el 2018/19 se incrementan a 135 mil toneladas y para el año 2019/20 a 158 mil toneladas, un 16% mayor al año previo y para el 2020/21 se incrementa a 205 mil toneladas, un 30% mayor al año previo y un 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20). La pesquería está sustentada principalmente el stock adulto, es decir, por la abundancia de los grupos de edad (GE) 1 y 2. A partir del 2017 el GE 0 muestra una tendencia al incremento, sin embargo, para el 2020/21 su aporte a la abundancia total es inferior al 10 %. Respecto a los pesos medios, para el GE 0 se encuentra en torno a los 10-15 grs, para el GE 1 en elos 20-25 grs en promedio. Desde el año 2014 se observa un incremento en esta variable en todos los GE, excepto en los ejemplares de edad 0. En relación a la información proveniente de los cruceros acústicos, la composición de edad registrada por el estudio de verano muestra que el GE 0 representa en torno al 67% de la captura en número, mientras que el crucero de otoño muestra mayor variabilidad y un aporte cercano al 60% del grupo de edad 0. La biomasa estimada por el crucero acústico de otoño 2021 está sustentada principalmente por peces de edad 0 y 1 (47% y 45% respectivamente).
+El análisis histórico de los datos de entrada al modelo indican que entre los años 2009 y 2017 se registraron los niveles más bajos de biomasa acústica de verano con un valor promedio de 101 mil t. Sin embargo, el año 2018 se observó un primer incremento importante hasta 347 mil t y los años 2019 y 2020 se consolida éste incremento con valores cercanos a las 564 mil toneladas en promedio. Algo similar se observa en las tendencias de los cruceros de otoño. Sin embargo, en este estudio, la recuperación en la biomasa del stock se apreció a partir del año 2016, registrándose el año 2021 el nivel más alto de los últimos 11 años, en 1,3 millones de t. En relación a las capturas de anchoveta en la UPCS, su variación es consistente con los cambios en los niveles de biomasa estimados por los cruceros acústicos de verano y otoño. Entre el 2011/12 y 2017/18 se registran desembarques en torno a 60 mil toneladas en promedio. Para el 2018/19 se incrementan a 136 mil toneladas y para el año 2019/20 a 158 mil toneladas, un 16% mayor al año previo y para el 2020/21 se incrementa a 205 mil toneladas, un 30% mayor al año previo y un 159% mayor al promedio de los últimos 9 años (período 2011/12 - 2019/20). La pesquería está sustentada principalmente el stock adulto, es decir, por la abundancia de los grupos de edad (GE) 1 y 2. A partir del 2017 el GE 0 muestra una tendencia al incremento, sin embargo, para el 2020/21 su aporte a la abundancia total es inferior al 10 %. Respecto a los pesos medios, para el GE 0 se encuentra en torno a los 10-15 grs, para el GE 1 en elos 20-25 grs en promedio. Desde el año 2014 se observa un incremento en esta variable en todos los GE, excepto en los ejemplares de edad 0. En relación a la información proveniente de los cruceros acústicos, la composición de edad registrada por el estudio de verano muestra que el GE 0 representa en torno al 67% de la captura en número, mientras que el crucero de otoño muestra mayor variabilidad y un aporte cercano al 60% del grupo de edad 0. La biomasa estimada por el crucero acústico de otoño 2021 está sustentada principalmente por peces de edad 0 y 1 (47% y 45% respectivamente).
 
 El modelo base actual es eficiente en reproducir la tendencia general de la biomasa estimada en los cruceros hidroacústicos, especialmente a partir del año 2009/10. El análisis consigue ajustar apropiadamente la información de la proporción de edades en las capturas y cruceros de evaluación directa. Respecto a las variables poblacionales, el modelo en escala biológica es eficiente en recoger las fluctuaciones en los indicadores del stock, los cuales son consistentes con la variabilidad en los reclutamientos y en los índices (cruceros de verano y otoño) que calibran el modelo de evaluación.
 
 Los resultados de este estudio muestran los cambios que ha experimentado anchoveta en sus tendencias poblacionales en un período de 25 años (1996/97 - 2020/21). El análisis respecto a la media histórica de los indicadores de estado y flujo permite identificar claramente dos ciclos con altos y bajos niveles de abundancia de una duración de 10 años aprox. El período de altos niveles de abundancia de anchoveta se registra desde el año 2002/03 hasta el año 2008/09 con valores sobre el promedio histórico. Los niveles bajo el promedio histórico se registran desde el año 2009/10 hasta el 2017/18. Los mayores niveles de mortalidad por pesca se registraron durante el período de baja abundancia ($F > F_{mediana}$) debido a los bajos rendimientos. A partir del año 2015/16, se observa el inicio de un nuevo ciclo con tendencia positiva generada por la fuerza de la clase anual reclutada que se incorpora a la población y a los bajos niveles de mortalidad por pesca ($F < F_{mediana}$).
 
-El análisis histórico de la condición de anchoveta centro-sur muestra que entre los años 1996/97 y 2000/01 el stock de anchoveta centro-sur se encontraba sobre-explotado con biomasas por debajo del objetivo de manejo (BD \< BD~RMS~). A partir del 2001/02 se incrementan los niveles de biomasa desovante, permitiendo que el stock transite y se mantenga en una condición de plena-explotación hasta el 2007/08. No obstante, los niveles de reclutamiento para el año 2008 se reducen drásticamente generando niveles de biomasa desovante por debajo del promedio histórico para el 2008/09. Debido a la falla en los reclutamientos, desde el año 2009/10 la anchoveta de la zona centro-sur cambia drásticamente su estatus a una condición de agotamiento y/o colapso, manteniendose en esa condición durante 8 años (2009/10 al 2016/17). A partir del año 2017/18 se manifiesta una recuperación del stock, transitando en la zona de colapso a la zona de sobre-explotación los años 2017/18 y 2018/19 y de plena-explotación los años 2019/20 y 2020/21. En términos de los niveles de mortalidad por pesca (Ft año^-1^), en general, se ha mantenido históricamente por sobre el nivel objetivo de referencia F~RMS~, no obstante, a partir del año 2016/17, los niveles de Ft estuvieron bajo el objetivo de manejo. Por lo tanto, el incremento de los reclutamientos 2018/19 y 2019/20 junto a la disminución de la mortalidad por pesca por debajo del objetivo de manejo ($F<F_{RMS}$) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21 generan una condición de plena-explotación con una baja probabilidad de sobre-explotación (3%) y de sobre-pesca (13%). Se proyecta una condición favorable para el año 2021/22, con una alta probabilidad (85 %) de mantenerse en plena-explotación (15 % probabilidad de sobre-explotación y 0 % probabilidad de colapso).
+El análisis histórico de la condición de anchoveta centro-sur muestra que entre los años 1996/97 y 2000/01 el stock de anchoveta centro-sur se encontraba sobre-explotado con biomasas por debajo del objetivo de manejo (BD \< BD~RMS~). A partir del 2001/02 se incrementan los niveles de biomasa desovante, permitiendo que el stock transite y se mantenga en una condición de plena-explotación hasta el 2007/08. No obstante, los niveles de reclutamiento para el año 2008 se reducen drásticamente generando niveles de biomasa desovante por debajo del promedio histórico para el 2008/09. Debido a la falla en los reclutamientos, desde el año 2009/10 la anchoveta de la zona centro-sur cambia drásticamente su estatus a una condición de agotamiento y/o colapso, manteniendose en esa condición durante 8 años (2009/10 al 2016/17). A partir del año 2017/18 se manifiesta una recuperación del stock, transitando en la zona de colapso a la zona de sobre-explotación los años 2017/18 y 2018/19 y de plena-explotación los años 2019/20 y 2020/21. En términos de los niveles de mortalidad por pesca (Ft año^-1^), en general, se ha mantenido históricamente por sobre el nivel objetivo de referencia F~RMS~, no obstante, a partir del año 2016/17, los niveles de Ft estuvieron bajo el objetivo de manejo. Por lo tanto, el incremento de los reclutamientos 2018/19 y 2019/20 junto a la disminución de la mortalidad por pesca por debajo del objetivo de manejo ($F<F_{RMS}$) y 2/3 por debajo de M (M=0,7 año^-1^) y el incremento de la biomasa total y desovante 2019/20 y 2020/21 generan una condición de plena-explotación con una baja probabilidad de sobre-explotación (3%) y de sobre-pesca (9%). No obstante, la reducción del reclutamiento 2021, se proyecta una condición favorable para el año 2021/22, con una alta probabilidad (85% - 89%) de mantenerse en plena-explotación (11% y 15 % probabilidad de sobre-explotación y 0 % probabilidad de colapso). Aunque el estatus 2021/22 es promisorio, posiblemente generando expectativas sobre los niveles de excedentes pesqueros, debe considerarse referencial debido a su carácter de transitorio en espera de datos que confirmen el crecimiento de la población adulta.
 
 La pesquería de anchoveta centro-sur está muy asociada a la de sardina común, con la cual presenta una importante interacción tecnológica y biológica. Estas características originan operaciones de pesca mixta, con alternancia de dominio intra e inter anual. El análisis de los indicadores de ambos stock muestran niveles de productividad muy disímiles (ver \textbf{Figura \ref{Fig6}}) revelando alternancia y predominancias importantes una sobre la otra. Estos cambios de productividad podrían ser producto de diversos factores biológicos (fenómenos depensatorios de la dinámica poblacional, reducción del potencial reproductivo) y factores oceanográficos desfavorables para anchoveta y que han favorecido la producción de la sardina común dejando en evidencia la alternancia de ambas especies, las cuales son explotadas en la misma área y por la misma flota. Al respecto, considerando la recuperación de anchoveta los últimos años, Saavedra *et al*. (2020) señalan que nos podríamos encontrar frente a un escenario en que anchoveta pasa a cohabitar junto a sardina común con una mayor presencia geográfica (1.420 mn^2^  vs 1.033 mn^2^ de distribución efectiva), mayor cantidad de ejemplares (84.958 vs 69.294 millones de individuos) y mayor biomasa (1.005.293 t vs 867.257 t) transformándose por este momento en la especie principal en el ecosistema de la zona centro-sur. Adicionalmente, el estudio de variables ambientales realizado por Aranis *et al*. (2020) indica que entre el 2015-2017 se registró una condición más cálida que podría haber impulsado condiciones reproductivas levemente más intensas para ambos recursos, no obstante, sólo se registrarían reclutamientos exitosos para anchoveta, coincidiendo con una condición ambiental neutra 2018-19.
 
@@ -2957,11 +2980,13 @@ En relación al descarte de peces pelágicos, se han identificado problemáticas
 
 [^13]: <https://www.subpesca.cl/portal/616/articles-109471_documento.pdf>
 
-De acuerdo al ciclo de manejo histórico de esta pesquería, este estudio entrega la información base para el segundo hito correspondiente al cálculo de la primera revisión de la CBA que permite al Comité Científico Técnico de Pesquerías Pelágicas (CCT-PP), revisar el estatus 2020/21 y el rango de CBA para el año 2021. El cálculo de la CBA para el año calendario 2021 se obtiene como el promedio ponderado según la estacionalidad semestral de la pesquería que a la fecha se asume 70% para el primer semestre y 30% para el segundo semestre, bajo un criterio de explotación de F60%SPR, sujeto a percentiles de probabilidad entre el 10% y 50% de sobrepasar dicho criterio.
+De acuerdo al ciclo de manejo histórico de esta pesquería, este estudio entrega la información base para el primer hito correspondiente al cálculo de la CBA inicial 2022 que permite al Comité Científico Técnico de Pesquerías Pelágicas (CCT-PP), revisar el estatus 2020/21 y el rango de CBA proyectado para el año calendario  2022. El rango se CBA se obtiene bajo un criterio de explotación de mortalidad por pesca constante igual al F~RMS~, sujeto a percentiles de probabilidad entre el 10% y 50% de sobrepasar dicho criterio. Se asume que el 70% de la captura se obtendrá durante el primer semestre 2022 y que ocurrirá un 2% de descarte.
 
-Los percentiles de probabilidad equivalen entre un 10% y un 0% de resguardo de la captura al RMS. De este modo, la captura para el año 2021 estimada bajo una condición de reclutamiento altos (período 1997-2009) y descontando el 2 % de descarte alcanza un rango entre 186,9 mil toneladas y 203,6 mil toneladas. Considerando reclutamientos bajos (período 2010-2021), con el descuento del 2 % de descarte el rango se encuentra entre 184,3 - 201,1 mil toneladas y bajo un escenario de reclutamiento promedio histórico el rango de captura se encuentre entre 185,8 - 202,5 mil toneladas.
+La captura proyectada para los años biológicos 2021/2022 y 2022/2023 considerando una mortalidad por pesca igual al $F_{RMS}$ y el descuento del 2% de descarte puede varian según el escenario de reclutamiento entre 192 mil t a 201 mil t. Si el 70% de la captura 2021/2022 se realiza durante el primer semestre 2022, la captura puede variar entre 135 mil t a 141 mil t, dependiendo del reclutamiento 2022. El aporte del reclutamiento en la estimación de captura 2021/2022 es de un 8% para un escenario de reclutamiento alto ($R1997-2009$), de un 6% para un escenario de reclutamientos promedio histórico y de un 3,6% para un escenario de reclutamiento bajos ($R2010-2021$). En el caso de la captura proyectada para el año 2022/2023, los escenarios de reclutamientos tienen un efecto en el grupo de edad 1, un 51,5% para un escenario de reclutamiento alto ($R1997-2009$), de un 44,6% para un escenario de reclutamientos promedio histórico y de un 33,3% para un escenario de reclutamiento bajos ($R2010-2021$), por lo tanto, es una estimación con mayor incertidumbre.
 
-Continuando con el ciclo de manejo, en el tercer hito se realiza la segunda revisión de la CBA 2021, incorporando información completa del año biológico 2020/21. Por lo tanto, en este hito el estatus 2020/21 y la estimación del rango de captura 2021 es calculado con menor incertidumbre y son considerados más confiables, a diferencia de los hitos previos. En el segundo hito se realiza la primera revisión de la CBA 2021, incorporando información del crucero de enero 2021 (Asesoría de marzo). No obstante, en este hito la incertidumbre en los indicadores utilizados para medidas de manejo es alta producto de la incompletidud de datos, ya que solo se cuenta con información del crucero de verano, el resto de la información se basa en supuestos. En marzo se inicia el período de extracción y en mayo se realiza el segundo crucero de evaluación acústica (crucero de otoño) para actualizar el estatus y revisar una vez más la CBA 2021. Por lo cual se recomienda para el segundo hito considerar un estatus preliminar a la espera de completar la información de la flota  y crucero de otoño en el tercer hito de revisión (Asesoría de julio) y rango de captura precautorio. Se recomienda una revisión del ciclo de manejo actual, ya que desde un punto de vista práctico y administrativo es imposible disminuir la cuota asignada, aunque se cuente con información actualizada y estimados de estatus y CBA más confliables, esto debido a que por lo general a mitad de año gran parte de la cuota ha sido consumida. Ante esta situación el CCT-PP ha recomendado mantener una situación de "*statu quo*" cada vez que se ha presentado una disminución de la CBA en el segundo y/o tercer hito del ciclo de manejo. Al respecto,  en la segunda sesión del CCT-PP 2021 (Acta de Sesión No2, marzo 2021) el Comité recomienda mantener *status quo* de CBA máxima 2021 de 210.167 toneladas, debido a la disminución en torno al 9% de la 1era revisión de CBA respecto la CBA inicial (considerando como referencia el percentil del 30% y reclutamiento histórico). Para el mismo criterio, la 2da revisión de CBA (asesoría actual) disminuye un 7% respecto la CBA inicial. 
+Finalmente, la $C_{RMS}$ para el año calendario 2022, considerando el descuento del 2% de descarte 2022, los rangos de capturas para el año 2022 estimada bajo un escenario de $R_{1997-2009}$ podría situarse entre 158 mil t y 207 mil t; bajo un escenario de $R_{histórico}$ entre 144 mil t y 194 mil t y, bajo un escenario de $R_{2010-2021}$ entre 129 mil t y 179 mil t.
+
+En el primer hito del ciclo de manejo, se realiza el cálculo  de la CBA  2022 inicial, incorporando información completa del año biológico 2020/21. Por lo tanto, en este hito el estatus 2020/21  es calculado con menor incertidumbre y la proyección de la captura 2021/22 es considerada más confiable. No obstante la captura 2022/2023 tiene mayor incertidumbre por el aporte de los escenarios de reclutamiento empleado, por lo tanto, se recomienda considerar un rango de captura precautorio. En el segundo hito se realizado la primera revisión de la CBA 2022, incorporando información del crucero de enero 2022 (Asesoría de marzo). En este hito la incertidumbre en los indicadores utilizados para medidas de manejo es alta producto de la incompletidud de datos, ya que solo se cuenta con información del crucero de verano, el resto de la información se basa en supuestos. En marzo se inicia el período de extracción y en mayo se realiza el segundo crucero de evaluación acústica (crucero de otoño) para actualizar el estatus y revisar una vez más la CBA 2022. Por lo cual se recomienda para el primer hito, considerar un rango de captura precautorio. Para el segundo hito, se recomienda considerar un "estatus preliminar" a la espera de completar la información de la flota  y crucero de otoño en el tercer hito de revisión (Asesoría de julio) y rango de captura precautorio. Finalmente, se recomienda una revisión del ciclo de manejo actual, ya que desde un punto de vista práctico y administrativo es imposible disminuir la cuota asignada, aunque se cuente con información actualizada y estimados de estatus y CBA más confliables, esto debido a que, por lo general, a mitad de año gran parte de la cuota ha sido consumida. Ante esta situación el CCT-PP ha recomendado mantener una situación de "*statu quo*" cada vez que se ha presentado una disminución de la CBA en el segundo y/o tercer hito del ciclo de manejo. Al respecto,  en la primera y segunda revisión de CBA 2021  el Comité recomiendó mantener *status quo* de CBA, debido a la disminución en torno al 9% de la primera revisión de CBA 2021 respecto la CBA 2021 inicial (considerando como referencia el percentil del 30% y reclutamiento histórico). Para el mismo criterio, la segunda revisión de CBA 2021  disminuye un 7% respecto la CBA inicial. 
 
 \pagebreak
 
