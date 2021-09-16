@@ -31,7 +31,7 @@ header-includes:
 - \fancyhead[LO,LE]{ }
 - \fancyhead[RO,RE]{ }
 - \renewcommand{\headrulewidth}{0.5pt}
-- \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2020 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} TERCER INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2021. \textbf{ANEXO I}.}
+- \fancyfoot[C]{\cincopuntos \thepage \\ \vspace{-0.2cm} ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ \\ \vspace{-0.2cm} \cincopuntos CONVENIO DE DESEMPEÑO 2021 IFOP/SUBSECRETARÍA DE ECONOMíA Y EMT \\ \vspace{-0.1cm} PRIMER INFORME. ANCHOVETA DE LA  REGIÓN DE VALPARAÍSO A LA REGIÓN DE LOS LAGOS, 2022. \textbf{ANEXO I}.}
 ---
 
 
@@ -340,7 +340,7 @@ f1a/f2/f3
 
 Edades<-seq(0,4,1)
 Pesosflota_julio<- data3$Wmed[nyears,]
-Pesosflota_sept<- data2$Wmed[nyears,]
+Pesosflota_sept<- data1$Wmed[nyears,]
 
 Pjulio   <- data.frame(Pesosflota_julio) %>% 
                        mutate (Asesoría='julio_2021') %>% 
