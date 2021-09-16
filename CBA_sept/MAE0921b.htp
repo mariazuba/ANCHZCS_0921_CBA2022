@@ -231,7 +231,7 @@ private:
   param_vector Zrms_p0;
   param_matrix CTP_p0;
   param_matrix YTP_p0W;
-  param_vector YTP_p0;
+  param_stddev_vector YTP_p0;
   param_stddev_vector BD_p0;
   param_stddev_vector RPR_p0;
   param_vector NVrecl_p0;
@@ -239,6 +239,7 @@ private:
   param_vector Brecl_p0;
   param_vector Bpel_p0;
   param_stddev_number CBA_c0;
+  param_stddev_number CBA_c0d;
   param_number suma1;
   param_number suma2;
   param_number suma3;
