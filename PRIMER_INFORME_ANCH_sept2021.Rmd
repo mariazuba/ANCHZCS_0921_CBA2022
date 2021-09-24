@@ -2281,6 +2281,7 @@ $p(agotado/colapsado)$       & 0,00   & 0,00   & 0,00                 & 0,00   &
 \pagebreak
 
 \normalsize
+
 ### 4.3.2. Captura biológicamente aceptable (CBA)
 
 #### CBA 2022 inicial (Asesoría de septiembre 2021)
@@ -2294,7 +2295,7 @@ El cálculo de la CBA inicial para el año calendario 2022 se obtiene como el pr
 
 ```{=tex}
 \begin{table}[h!]
-\caption{CBA inicial año calendario 2022 de sardina común calculada bajo $F_{RMS}$ y el descuento del 2\% de descarte, con sus respectivos percentiles de captura entre 10\% y 50\% y tres escenarios de reclutamientos.}
+\caption{CBA inicial año calendario 2022 calculada bajo $F_{RMS}$ y el descuento del 2\% de descarte, con sus respectivos percentiles de captura entre 10\% y 50\% y tres escenarios de reclutamientos.}
  \label{Tab26}
  \small
     \centering
