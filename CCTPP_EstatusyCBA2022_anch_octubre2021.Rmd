@@ -247,10 +247,9 @@ La composición de edad registrada por el estudio de verano muestra que el GE 0 
 \column{0.5\textwidth}
   \tiny
   
-- Independiente del escenario de reclutamiento, en términos de biomasa desovante proyectada al 2021/2022 (554 mil t) se observa una disminución del 12\% respecto al año previo 2020/2021 (631 mil t), de este modo la probabilidad de sobreexplotación aumenta a un 13\% para el año biológico 2021/2022. 
+- Independiente del escenario de reclutamiento, en términos de biomasa desovante proyectada al 2021/2022 (554 mil t) se observa una disminución del 12\% respecto al año previo 2020/2021 (631 mil t).
 
-- Mientras que la biomasa desovante proyectada hacia el 2022/2023 depende del reclutamiento proyectado hacia el 2022 y 2023, de este modo, la probabilidad de sobreexplotación puede aumentar hasta un 60\% si los reclutamientos futuros retornan a los niveles promedios 2010-2021, o pueden disminuir a un 0\% si los reclutamientos se encuentran en torno al promedio de los años 1997-2009.
-
+- Mientras que la biomasa desovante proyectada hacia el 2022/2023 depende del reclutamiento proyectado hacia el 2022 y 2023.
 \end{columns}
 
 ```
@@ -268,6 +267,10 @@ La composición de edad registrada por el estudio de verano muestra que el GE 0 
 \includegraphics[width=0.32\textwidth]{Figuras/Fig48-1.pdf}
 \end{figure}
 ```
+
+- La probabilidad de sobreexplotación aumenta a un 13\% para el año biológico 2021/2022. 
+
+- La probabilidad de sobreexplotación puede aumentar hasta un 60\% si los reclutamientos futuros retornan a los niveles promedios 2010-2021, o pueden disminuir a un 0\% si los reclutamientos se encuentran en torno al promedio de los años 1997-2009.
 
 
 
@@ -309,8 +312,6 @@ La composición de edad registrada por el estudio de verano muestra que el GE 0 
 
 ```{=tex}
 \begin{table}[h!]
-\caption{CBA inicial año calendario 2022 de calculada bajo $F_{RMS}$ y el descuento del 2\% de descarte, con sus respectivos percentiles de captura entre 10\% y 50\% y tres escenarios de reclutamientos.}
- \label{Tab26}
  \small
     \centering
     \resizebox{10cm}{!} {
@@ -331,49 +332,13 @@ La composición de edad registrada por el estudio de verano muestra que el GE 0 
 ```
 
 
+\vspace{0.25cm}
 
-# Resguardo de la Captura al RMS 
-##
-```{=tex}
+\tiny
 
-\begin{table}[h!]
- \small
-    \centering
-    \resizebox{7cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline 
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      & 0,08         &  0,08       & 0,08 \\ 
-    20\%      & 0,05         &  0,05       & 0,05  \\
-    30\%      & 0,03         &  0,03       & 0,03  \\ 
-    40\%      & 0,02         &  0,02       & 0,02  \\
-    50\%      & 0            & 0           &  0 \\ \hline
-  \end{tabular}}
-        \end{table}
-```
+- Considerando como referencia el criterio utilizado en septiembre 2020 (Hito 1), es decir, un percentil del 30% y reclutamientos medio histórico, la \textbf{CBA 2022} (173 mil t) disminuye un 18% respecto a la CBA inicial 2021 (210 mil t).
 
 
-# Diferencia porcentual entre CBA inicial - 2%descarte y Segunda revisión de CBA - 2% descarte
-
-## diferencia = 1-(2darevisiónCBA/CBAinicial)*100
-
-```{=tex}
-
-\begin{table}[h!]
- \small
-    \centering
-    \resizebox{8cm}{!} {
-    \begin{tabular}{|l|c|c|c|}
-    \hline 
-              & $R_{1997-2009}$ & $R_{histórico}$ & $R_{2010-2021}$    \\ \hline
-    10\%      &  1\%     & 8\%    & 18\%   \\ 
-    20\%      & -7\%     & -1\%   &  7\%   \\
-    30\%      & -12\%    & -7\%   & 0\%    \\ 
-    40\%      & -16\%    & -11\%  &  -5\%  \\
-    50\%      & -19\%    & -14\%  &  -9\%  \\ \hline
-  \end{tabular}}
-        \end{table}
-```
 
 
 # CBAs  por hito de revisión de anchoveta centro-sur
@@ -405,6 +370,10 @@ AÑO  & CBA inicial  & 1era revisión CBA  & 2da revisión CBA  & Desembarques  
 + \*155.982 corresponde al desembarque acumulado a junio 2021
 + \*0,74 corresponde a 155.982/210.167
 
+
+\textbf{Nota}: captura acumulada al 22 de septiembre 2021 es 105 mil toneladas según control cuota sernapesca (confirmar con seguimiento!!!). Se ha consumido 50% de la cuota según estos antecedentes. Saldo cuota 2021  según control cuota Sernapesca es 105 mil toneladas (http://www.sernapesca.cl/informacion-utilidad/consumo-de-cuotas).
+
+
 #
 
 ```{r CCTPP_CBAporHito,include=T, message=F,warning=F,eval=T, echo=FALSE,fig.height=1.8,fig.width=4.5,fig.align="center",fig.path="FigurasCCTPP_Octubre/", dev=c('pdf', 'bmp')}
@@ -420,7 +389,7 @@ library(knitr)
 year<-    c(2014,2015,2016,2017,2018,2019,2020,2021)
 CBAhito1<-c(42200,34400,34400,58400,49440,81347,162876,210167)
 CBAhito2<-c(42200,34400,39900,58400,49440,120500,162876,210167)
-CBAhito3<-c(NA,34400,39900,58400,59500,127150,162876,NA)
+CBAhito3<-c(NA,34400,39900,58400,59500,127150,162876,210167)
 Desembarques <- c(56842,63168,71985,55709,61176,160968,166031,155982)
 
 
@@ -437,6 +406,10 @@ f1
 
 ```
 
+
+#
+
+Gracias por su atención
 
 
 # CBAs inicial de anchoveta y sardina común
@@ -478,7 +451,7 @@ legend(2016,630,c("CBAanch","CBAsard","CBAanch+sard"),col=c(1,2,3),lwd=1,pch=19,
 ```{r CCTPP_alternaciaCBA2daRevision,  include=T, message=F, echo=FALSE,fig.height=3,fig.width=4,fig.align="center"}
 year<-seq(2014,2021,1)
 CBAanch<-c(NA,34.4,39.9,58.4,59.5,127.1,162.9,210.2)
-CBAsard<-c(572,356,326,310,321,335,321,251)
+CBAsard<-c(NA,478,NA,336,NA,337,NA,357)
 CBAmixta2<-rowSums(cbind(CBAanch,CBAsard))
 
 par(mfrow=c(1,1),mar=c(4,4,1,1))
@@ -578,8 +551,6 @@ f1
 ```
 
 
-#
 
-Gracias por su atención
 
 
